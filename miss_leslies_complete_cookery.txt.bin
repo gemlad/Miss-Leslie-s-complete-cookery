@@ -1117,7 +1117,7 @@ $::proofers{'116'}[2] = 'ezsha';
 $::proofers{'116'}[3] = '';
 $::proofers{'116'}[4] = 'geegeemom';
 $::proofers{'116'}[5] = 'McKeown';
-$::proofers{'117'}[1] = 'Ms. L';
+$::proofers{'117'}[1] = 'Ms_ L';
 $::proofers{'117'}[2] = 'ezsha';
 $::proofers{'117'}[3] = '';
 $::proofers{'117'}[4] = 'geegeemom';
@@ -2227,7 +2227,7 @@ $::proofers{'338'}[2] = 'unclecharlie';
 $::proofers{'338'}[3] = '';
 $::proofers{'338'}[4] = 'geegeemom';
 $::proofers{'338'}[5] = 'McKeown';
-$::proofers{'339'}[1] = 'Tony.Snearly';
+$::proofers{'339'}[1] = 'Tony_Snearly';
 $::proofers{'339'}[2] = 'Barry E Abrahamsen';
 $::proofers{'339'}[3] = '';
 $::proofers{'339'}[4] = 'unclecharlie';
@@ -2287,7 +2287,7 @@ $::proofers{'350'}[2] = 'Barry E Abrahamsen';
 $::proofers{'350'}[3] = '';
 $::proofers{'350'}[4] = 'unclecharlie';
 $::proofers{'350'}[5] = 'McKeown';
-$::proofers{'351'}[1] = 'dshelley0@hotmail.com';
+$::proofers{'351'}[1] = 'dshelley0@hotmail_com';
 $::proofers{'351'}[2] = 'Blue Berry';
 $::proofers{'351'}[3] = '';
 $::proofers{'351'}[4] = 'Ymartin';
@@ -3226,7 +3226,7 @@ $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Miss Leslie\'s complete cookery\
 
 $::spellindexbkmrk = '';
 
-$::projectid = 'projectID4b70e07a2ae1f';
+$::projectid = '';
 
 $::booklang = 'en';
 
