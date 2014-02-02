@@ -1,5 +1,6 @@
 
 -----File: 001.png---\jbrear\Close@Hand\\Illiterati\McKeown\---------------
+
 /*
 Miss Leslie's Complete Cookery.
 
@@ -19,7 +20,9 @@ HENRY CAREY BAIRD,
 NO. 7 HART'S BUILDING, SIXTH ST. ABOVE CHESTNUT.
 1853.
 */
+
 -----File: 002.png---\jbrear\Close@Hand\\Illiterati\McKeown\---------------
+
 /*
 Entered according to Act of Congress, in the year 1837, by
 <sc>E. L. Carey & A. Hart</sc>,
@@ -35,6 +38,7 @@ STEREOTYPED BY L. JOHNSON AND CO.
 PHILADELPHIA.
 PRINTED BY T. K[**.] AND P. G. COLLINS.
 */
+
 -----File: 003.png---\Clarity\Geyer\\Illiterati\McKeown\-------------------
 
 
@@ -117,6 +121,7 @@ when <i>not</i> purchased at the expense of health and comfort.
 
 <i>Philadelphia, Jan. 16, 1851.</i>
 */
+
 -----File: 005.png---\Clarity\timpsc\\Illiterati\McKeown\------------------
 
 
@@ -154,6 +159,7 @@ Two jills are half a pint.
 Two pints--one quart.
 Four quarts--one gallon.
 */
+
 -----File: 006.png---\Clarity\timpsc\\Illiterati\McKeown\------------------
 
 Of dry measure--
@@ -255,6 +261,7 @@ Animals used as Butchers' Meat      513
 
 Index      517
 */
+
 -----File: 008.png---\Clarity\timpsc\\Illiterati\McKeown\------------------
 [Blank Page]
 -----File: 009.png---\Clarity\timpsc\\Illiterati\McKeown\------------------
@@ -18679,11 +18686,11 @@ Artichokes, to boil, 195.
 Asparagus, to boil, 199.
 
 Asparagus soup, 35.
-*/
+
 -----File: 514.png---\KnappBill\Blue Berry\\Neanderthal\McKeown\-----------
 
 
-/*
+
 Balm of Gilead oil, 425.
 
 Barberry jelly, 270.
@@ -18741,10 +18748,9 @@ Beef soup, fine, 17.
 Beef steaks, to broil, 74.
 
 Beef steaks, to fry, 76.
-*/
+
 -----File: 515.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
-/*
 Beef steak pie, 77.
 
 Beef steak pudding, 76.
@@ -18826,11 +18832,9 @@ Butter, to make, 379.
 Butter, to preserve, 381.
 
 Butternuts, to pickle, 218.
-*/
 -----File: 516.png---\SteveC\natdp\\Neanderthal\McKeown\-------------------
 
 
-/*
 Cabbage, to boil, 186.
 
 Cabbage, (red,) to pickle, 226.
@@ -18916,9 +18920,8 @@ Cherry shrub, 398.
 Chestnuts, to roast, 204.
 
 Chestnut pudding, 289.
-*/
+
 -----File: 517.png---\Mapas\Blue Berry\\geegeemom\McKeown\-----------------
-/*
 
 Chicken broth and panada, 416.
 
@@ -18999,10 +19002,9 @@ Coffee, to make, 389.
 Coffee, (French,) 390.
 
 Cold cream, 426.
-*/
+
 -----File: 518.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
-/*
 Cold slaw, 226.
 
 Cold sweet sauce, 170.
@@ -19085,10 +19087,9 @@ Ducks, to stew, 150.
 Ducks, to roast, 149.
 
 Dumplings, (apple,) 307.
-*/
+
 -----File: 519.png---\KnappBill\Blue Berry\\Neanderthal\McKeown\-----------
 
-/*
 Dumplings, (light,) 311.
 
 Dumplings, (plain suet,) 310[**.]
@@ -19172,11 +19173,11 @@ Fritters, (plain,) 311.
 Frosted fruit, 271.
 
 Fruit queen-cakes, 342.
-*/
+
 -----File: 520.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
 
-/*
+
 General sauce, 173.
 
 Gherkins, to pickle, 214.
@@ -19261,9 +19262,8 @@ Hare or rabbit soup, 28.
 Hare, to roast, 137.
 
 Harvey's sauce, 173.
-*/
+
 -----File: 521.png---\KnappBill\natdp\\geegeemom\McKeown\------------------
-/*
 
 Herbs, to dry, 436.
 
@@ -19348,10 +19348,9 @@ Larding, 160.
 Lavender, compound, 421.
 
 Lavender water, 423.
-*/
+
 -----File: 522.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
-/*
 Laudanum, antidote to, 422.
 
 Lead water, 420.
@@ -19436,10 +19435,9 @@ Marmalade cake, 355.
 Mead, 397.
 
 Meg Merrilies' soup, 27.
-*/
+
 -----File: 523.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
-/*
 Milk biscuit, 361.
 
 Milk punch, 405.
@@ -19521,9 +19519,8 @@ Mutton chops, broiled, 108.
 Mutton chops, stewed, 110.
 
 Mutton cutlets, à la Maintenon, 109
-*/
+
 -----File: 524.png---\KnappBill\natdp\\geegeemom\McKeown\------------------
-/*
 
 Mutton harico, 111.
 
@@ -19606,10 +19603,9 @@ Oysters, scolloped, 58.
 Oysters, stewed, 59.
 
 Oyster soup, 38.
-*/
+
 -----File: 525.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
-/*
 Oyster soup, (plain,) 38.
 
 Ox-tail soup, 32.
@@ -19617,7 +19613,7 @@ Ox-tail soup, 32.
 Oyster Sauce, 170.
 
 
-[** extra line not present][**it is now :) ]
+[** extra line not present][**it is now ]
 Panada, 413.
 
 Panada, (chicken,) 416.
@@ -19693,10 +19689,9 @@ Pheasants, to roast, 158.
 Pheasants, to roast another way, 158.
 
 Pine-apple-ade, 410.
-*/
+
 -----File: 526.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
-/*
 Pies, 279.
 
 Pie crust, (common,) 274.
@@ -19776,10 +19771,9 @@ Pot pie, (apple,) 434.
 Potatoes, to boil, 183.
 
 Potatoes, to fry, 185.
-*/
+
 -----File: 527.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
-/*
 Potatoes, roasted, 185.
 
 Potato pudding, 289.
@@ -19866,9 +19860,8 @@ Raspberry vinegar, 180.
 Raspberry wine, 395.
 
 Ratafia, 403.
-*/
+
 -----File: 528.png---\KnappBill\natdp\\geegeemom\McKeown\------------------
-/*
 
 Raw egg, 419.
 
@@ -19954,10 +19947,9 @@ Salmon, (smoked,) 46.
 Salmon steaks, 45.
 
 Sally Lunn cake, 371.
-*/
+
 -----File: 529.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
-/*
 Salsify, to dress, 195.
 
 Sandwiches, (ham,) 123.
@@ -20045,10 +20037,9 @@ Strawberry cordial, 400.
 Sturgeon cutlets, 54.
 
 Sherry Cobler, 406,[**.][**out of alpha]
-*/
+
 -----File: 530.png---\KnappBill\Blue Berry\\Neanderthal\McKeown\-----------
 
-/*
 Suet pudding, 300.
 
 Sugar biscuit, 360.
@@ -20133,9 +20124,8 @@ Turnips, to boil, 189.
 
 
 Veal, (breast of,) to stew, 95.
-*/
+
 -----File: 531.png---\KnappBill\Blue Berry\\geegeemom\McKeown\-------------
-/*
 
 Veal, (breast of,) to roast, 94.
 
@@ -20186,11 +20176,11 @@ Vinegar, (sugar,) 410.
 Vinegar, (white,) 409.
 
 Violet perfume, 429.
-*/
+
 -----File: 532.png---\KnappBill\Blue Berry\\Neanderthal\McKeown\-----------
 
 
-/*
+
 Wafer cakes, 357.
 
 Waffles, 359.
@@ -20323,9 +20313,8 @@ Corn starch blancmange, 500.
 Cream cheese, 447.
 
 Croquant cake, 478.
-*/
+
 -----File: 534.png---\KnappBill\Blue Berry\\geegeemom\McKeown\-------------
-/*
 
 Cucumbers, (preserved,) 442.
 
@@ -20394,10 +20383,9 @@ Lemon drops, 366.
 Lemon syrup, (fine,) 477.
 
 Lemon water-ice, 469.
-*/
+
 -----File: 535.png---\KnappBill\Blue Berry\\Neanderthal\McKeown\-----------
 
-/*
 Limes, or small lemons, (preserved,) 473.
 
 
@@ -20447,10 +20435,9 @@ Pine-apple marmalade, 476.
 Pine-apple water-ice, 470.
 
 Pink champagne jelly, 452.
-*/
+
 -----File: 536.png---\KnappBill\Blue Berry\\Neanderthal\McKeown\-----------
 
-/*
 Potato yeast, 446.
 
 Poultry, (to draw, &c.,) 494.
