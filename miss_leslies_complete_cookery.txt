@@ -8,7 +8,7 @@ DIRECTIONS FOR COOKERY,
 IN ITS
 VARIOUS BRANCHES.
 
-BY MISS LESLIE. [** well, the point is not part of the spaced out text on the printed page.]
+BY MISS LESLIE.
 
 FORTY-NINTH EDITION.
 
@@ -36,7 +36,7 @@ Eastern District of Pennsylvania.
 
 STEREOTYPED BY L. JOHNSON AND CO.
 PHILADELPHIA.
-PRINTED BY T. K[**.] AND P. G. COLLINS.
+PRINTED BY T. K. AND P. G. COLLINS.
 */
 
 -----File: 003.png---\Clarity\Geyer\\Illiterati\McKeown\-------------------
@@ -227,7 +227,7 @@ Store Fish Sauces; Catchups, &c      171
 
 Flavoured Vinegars      179
 
-Vegetables; including Indian Corn, Tomatas[** spelling used in the book], Mushrooms, &c.      183
+Vegetables; including Indian Corn, Tomatas, Mushrooms, &c.      183
 
 Eggs; usual ways of dressing, including Omelets      206
 
@@ -289,7 +289,7 @@ may have a still smaller allowance of water.
 Soup should always be made entirely of fresh meat that
 has not been previously cooked. An exception to this rule
 may sometimes be made in favour of the remains of a piece
-of roast beef that has been <i>very much</i> under-done in roasting[** .]
+of roast beef that has been <i>very much</i> under-done in roasting.
 This may be <i>added</i> to a good piece of raw meat. Cold ham,
 also, may be occasionally put into white soups.
 
@@ -302,7 +302,7 @@ renders it, for soup, indigestible and unwholesome, as well as
 unpalatable. As there is little or no nutriment to be derived
 from soup made with cold meat, it is better to refrain from
 using it for this purpose, and to devote the leavings of the
-table to some other object[** .] No person accustomed to really
+table to some other object. No person accustomed to really
 -----File: 010.png---\Clarity\timpsc\\Illiterati\McKeown\------------------
 good soup, made from fresh meat, can ever be deceived in the
 taste, even when flavoured with wine and spices. It is not
@@ -627,8 +627,8 @@ will injure its clearness.
 
 In the mean time prepare your vegetables. Peel off the
 outer skin of three large white onions and slice them. Pare
-three large turnips, and slice them also. Wash clean and cu[**missing the "t"]
-into small pieces three carrots, and three large heads of celery[**missing full stop]
+three large turnips, and slice them also. Wash clean and cut
+into small pieces three carrots, and three large heads of celery.
 If you cannot obtain fresh celery, substitute a large table-spoonful
 of celery seed, tied up in a bit of clear muslin. Put
 -----File: 019.png---\jbrear\madyh\\geegeemom\brown09096\------------------
@@ -1195,7 +1195,7 @@ pepper.
 
 Mix the whole together, and set it in a closely covered
 vessel over a slow fire. When it comes to a boil, put in the
-oysters; and when it comes to a boil again, they will be sufciently[**typo for sufficiently]
+oysters; and when it comes to a boil again, they will be sufficiently
 done.
 
 Before you send it to table put into the tureen some toasted
@@ -1268,7 +1268,7 @@ large pot of boiling water. This will cause the shells to open.
 As they open take them out, and extract the clams, taking
 care to save the liquor. Mix with the liquor a quart of water,
 (or what will be much better, a quart of milk,) and thicken
-it with butter rolled in flour. Add a small bunch of sweet[**hyphen?, no hyphen in next paragraph]
+it with butter rolled in flour. Add a small bunch of sweet
 marjoram, and a large table-spoonful of whole pepper. Put
 the liquid into a pot over a moderate fire. Make some little
 round dumplings (about the size of a hickory nut) of flour and
@@ -1452,7 +1452,7 @@ table hot, wrapped in the folds of a napkin that has been
 heated. Serve up with them anchovy, or prawn, or lobster
 sauce.
 
-Many epicures consider this the best way of cooking salmon[**.]
+Many epicures consider this the best way of cooking salmon.
 
 Another way, perhaps still nicer, is to take some pieces of
 white paper and butter them well. Wrap in each a slice of
@@ -1655,7 +1655,7 @@ of the fish with it, reserving a little to rub over the
 outside, having first rubbed the fish all over with yolk of egg,
 -----File: 047.png---\Shadowfox\The Dougal\\geegeemom\McKeown\-------------
 Lay the fish in a deep pan, patting its tail to its mouth. Pour
-into the bottom of the pan a little water, and add a jill[**gill?] [** I guess] of
+into the bottom of the pan a little water, and add a jill of
 port wine, and a piece of butter rolled in flour. Bake it well,
 and when it is done, send it to table with the gravy poured
 round it. Garnish with slices of lemon.
@@ -1720,7 +1720,7 @@ pieces, extracting the back-bone. Put it into a stone jar,
 and when the spiced liquor is cold, pour it on the fish,
 cover the jar closely, and set it in a cool place. It will be fit
 for use in a day or two, and if well secured from the air, and
-but[** typo for put] into a cold place will keep a fortnight.
+put into a cold place will keep a fortnight.
 
 
 FRIED PERCH.
@@ -1996,7 +1996,7 @@ of it, and fry it of a light brown. Send them to table hot.
 
 If you find your batter too thin, so that it spreads too much
 in the frying-pan, add a little more flour beaten well into it.
-of[**if] it is too thick, thin it with some additional milk.
+If it is too thick, thin it with some additional milk.
 
 
 OYSTER PIE.
@@ -2092,7 +2092,7 @@ should evaporate. Serve it up hot.
 If you choose, you can send it to table in the shell, which
 must first be nicely cleaned. Strew the meat over with sifted
 bread-crumbs, and brown the top with a salamander, or a red
-hot [**red-hot] shovel held over it.
+hot shovel held over it.
 
 
 FRICASSEED LOBSTER.
@@ -2480,7 +2480,7 @@ TO BOIL CORNED OR SALTED BEEF.
 The best piece is the round. You may either boil it whole,
 or divide it into two, or even three pieces if it is large, taking
 care that each piece shall have a portion of the fat. Wash it
-well; and, if very salt,[**error, salty?] soak it in two waters. Skewer it up
+well; and, if very salt, soak it in two waters. Skewer it up
 tightly and in a good compact shape, wrapping the flap piece
 firmly round it. Tie it round with broad strong tape, or with
 a strip of coarse linen. Put it into a large pot, and cover it
@@ -2876,8 +2876,8 @@ in a spoonful of flour. Stir it a few minutes, and then add
 to it the strained gravy. Let it come to a boil, and then put
 to it a table-spoonful of catchup, and the beef cut either in
 thin small slices or in mouthfuls. Let it simmer from five to
-ten minutes, but do not allow it to boil, lest (having beef[** been?]
-cooked already) it should become tasteless and insipid[**.]
+ten minutes, but do not allow it to boil, lest (having been
+cooked already) it should become tasteless and insipid.
 -----File: 080.png---\nathancantu\natdp\\geegeemom\McKeown\----------------
 Serve it up in a deep dish with thin slices of toast cut into
 triangular or pointed pieces, the crust omitted. Dip the toast
@@ -3001,7 +3001,7 @@ before it is wanted.
 TRIPE AND OYSTERS.
 
 Having boiled the tripe in milk and water, for four or five
-hours till it is quite tender, cut it up into small pieces. Pu[**t]
+hours till it is quite tender, cut it up into small pieces. Put
 it into a stew-pan with just milk enough to cover it, and a
 few blades of mace. Let it stew about five minutes, and then
 put in the oysters, adding a large piece of butter rolled in
@@ -3098,7 +3098,7 @@ more thoroughly.
 In summer do not attempt to corn any beef that has not
 been fresh killed, and even then it will not keep more than a
 day and a half or two days. Wash and dry it, and rub a
-great deal of salt well into it. Cover it carefully, and keen[**keep?]
+great deal of salt well into it. Cover it carefully, and keep
 it in a cold dry cellar.
 
 Pork is corned in the same manner.
@@ -3144,7 +3144,7 @@ a second boiling with additional ingredients.
 -----File: 087.png---\Maven32\jbrear\\geegeemom\McKeown\-------------------
 
 Half an ounce of pearl-ash added to the other articles will
-make the meat more tender, but many persons thinks[**think?] it injures
+make the meat more tender, but many persons thinks it injures
 the taste.
 
 The meat must always be kept completely immersed
@@ -3461,7 +3461,7 @@ Take two pounds of veal cut from the loin, fillet, or the best
 end of the neck. Remove the bone, fat, and skin, and put
 them into a sauce-pan with half a pint of water to stew for the
 gravy. Make a good paste, allowing a pound of butter to
-two pounds of flour. Divide it into two pieces, roll[**added r] it out
+two pounds of flour. Divide it into two pieces, roll it out
 -----File: 096.png---\Shadowfox\natdp\\geegeemom\McKeown\------------------
 rather thick, and cover with one piece the sides and bottom of
 a deep dish. Put in a layer of veal, seasoned with black
@@ -3656,7 +3656,7 @@ egg stirred in at the last.
 MARBLED VEAL.
 
 Having boiled and skinned two fine smoked tongues, cut
-them to pieces and pound them to a paste in a mortar, moisttening[** moistening?]
+them to pieces and pound them to a paste in a mortar, moistening
 them with plenty of butter as you proceed. Have ready
 an equal quantity of the lean of veal stewed and cut into very
 small pieces. Pound the veal also in a mortar, adding butter to
@@ -3900,7 +3900,7 @@ quart of gravy drawn from bones, trimmings, and coarse pieces
 -----File: 108.png---\Shadowfox\natdp\\geegeemom\McKeown\------------------
 of meat. Add some slices of carrots, and a little salt. Stew
 it slowly three hours. Then put in small onions, small turnips,
-tomatas or tomata catchup, and shred or powdered swee[**t]
+tomatas or tomata catchup, and shred or powdered sweet
 marjoram to your taste, and let it stew three hours longer. A
 large leg will require from first to last from six hours and a
 half to seven hours stewing. But though it must be tender
@@ -4025,7 +4025,7 @@ twine. Put the pig on the spit, and place it before a
 clear brisk fire, but not too near lest it scorch. The fire
 should be largest at the ends, that the middle of the pig may
 not be done before the extremities. If you find the heat too
-great in the centre,[**is the comma a typo?] you may diminish it by placing a flat-iron
+great in the centre, you may diminish it by placing a flat-iron
 before the fire. When you first put it down, wash the pig
 all over with salt and water; afterwards rub it frequently
 with a feather dipped in sweet oil, or with fresh butter tied in
@@ -4553,7 +4553,7 @@ of the meat should be lean, and only one third fat.
 Chop it very fine, and mix it well together. Then season it
 with six ounces of fine salt, one ounce of black pepper,
 half an ounce of cayenne, one table-spoonful of powdered
-cloves; and one clove or[** of] garlic minced very fine.
+cloves; and one clove of garlic minced very fine.
 
 Have ready some large skins nicely cleaned and prepared,
 (they should be beef-skins,) and wash them in salt and vinegar.
@@ -4602,7 +4602,7 @@ nicely in butter or lard. Or you may eat them cold, just out
 of the vinegar.
 
 If you intend keeping them some time, you must make a
-fresh pickle for them every other day[**.]
+fresh pickle for them every other day.
 
 
 TO IMITATE WESTPHALIA HAM.
@@ -4902,7 +4902,7 @@ POULTRY, GAME, &c.
 
 GENERAL REMARKS.
 
-[**On? In? -- Bad image][**In] buying poultry choose those that are fresh and fat.
+In buying poultry choose those that are fresh and fat.
 Half-grown poultry is comparatively insipid; it is best when
 full-grown but not old. Old poultry is tough and hard. An
 old goose is so tough as to be frequently uneatable. When
@@ -4975,7 +4975,7 @@ TO ROAST A PAIR OF FOWLS.
 
 Leave out the livers, gizzards and hearts, to be chopped
 and put into the gravy. Fill the crops and bodies of the fowls
-with[** looks like 'with'] a force-meat, put them before a clear fire and roast them
+with a force-meat, put them before a clear fire and roast them
 an hour, basting them with butter or with clarified dripping.
 
 Having stewed the necks, gizzards, livers, and hearts in a
@@ -5493,7 +5493,7 @@ TO BOIL A TURKEY.
 Take twenty-five large fine oysters, and chop them. Mix
 with them half a pint of grated bread-crumbs, a little
 sweet marjoram, a quarter of a pound of butter, two table-spoonfuls
-of cream or rich milk[**typo--mllk], and the beaten yolks of three
+of cream or rich milk, and the beaten yolks of three
 eggs. When it is thoroughly mixed, stuff the craw of the
 turkey with it, and sew up the skin. Then dredge it with
 flour, put it into a large pot or kettle, and cover it well with
@@ -5722,7 +5722,7 @@ DRAWN OR MADE GRAVY.
 
 For this purpose you may use coarse pieces of the lean of
 beef or veal, or the giblets and trimmings of poultry or game.
-It[**P1 changed f to t] must be stewed for a long time, skimmed, strained, thickened,
+It must be stewed for a long time, skimmed, strained, thickened,
 and flavoured with whatever condiments are supposed
 most suited to the dish it is to accompany.
 
@@ -5860,7 +5860,7 @@ is made with the green seeds of nasturtians, pickled simply
 in cold vinegar.
 
 Cut about six ounces of butter into small bits, and put them
-into a small sauce-pan. Mix with a wine-glass of water[**p2: comma? ] sufficient
+into a small sauce-pan. Mix with a wine-glass of water, sufficient
 flour to make a thick batter, pour it on the butter, and
 hold the sauce-pan over hot coals, shaking it quickly round,
 till the butter is melted. Let it just boil up, and then take it
@@ -5877,7 +5877,7 @@ throw them into salt and water to keep them white. Then boil
 them tender. When done, squeeze the water from them, and
 chop them. Have ready some butter that has been melted
 rich and smooth with milk or cream instead of water. Put
-the onions into the melted butter, and boil them up at once.[**added full stop]
+the onions into the melted butter, and boil them up at once.
 If you wish to have them very mild, put in a turnip with
 them at the first boiling.
 
@@ -5908,7 +5908,7 @@ them with pepper and salt, and adding a piece of butter rolled
 in a large proportion of flour. Stew them till quite tender,
 now and then shaking the pan round.
 
-The flavour will be heightened by having salted a few the[**? ^of the][**p2: disagree, see next page]
+The flavour will be heightened by having salted a few the
 -----File: 163.png---\alex1234\Mistofeles\\drmegsy\McKeown\----------------
 night before in a covered dish, to extract the juice, and then
 stirring it into the sauce while stewing.
@@ -6207,7 +6207,7 @@ the top of each put a table-spoonful of sweet oil. Dip the
 corks in melted rosin, and secure them well by tying leather
 over them.
 
-In using this catchup, allow four table-spoonfuls to a common-seized[**sized]
+In using this catchup, allow four table-spoonfuls to a common-sized
 sauce-boat of melted butter. Put in the catchup
 at the last, and hold it over the fire just long enough to be
 thoroughly heated.
@@ -6362,7 +6362,7 @@ should be of the very best sort.
 
 
 TARRAGON VINEGAR.--Tarragon should be gathered
-on a dry day, just before the plant flowers.[**P1 added full stop] Pick the green
+on a dry day, just before the plant flowers. Pick the green
 leaves from the stalks, and dry them a little before the fire.
 Then put them into a wide-mouthed stone jar, and cover them
 with the best vinegar, filling up the jar. Let it steep fourteen
@@ -6371,7 +6371,7 @@ which put a large quantity of fresh tarragon leaves, and let
 them remain in the vinegar.
 
 
-SWEET BASIL VINEGAR.[**typo '.'][**p2: p1 added period, I think ]--Is made precisely in the
+SWEET BASIL VINEGAR.--Is made precisely in the
 same manner; also those of green mint, and sweet marjoram.
 
 
@@ -6680,7 +6680,7 @@ CAULIFLOWER.
 REMOVE the green leaves that surround the head or white
 part, and peel off the outside skin of the small piece of stalk
 that is left on. Cut the cauliflower in four, and lay it for an
-hour in a pan of cold water. Then tie it together before it[**looks like it is something other than 'u'][**should be "it"]
+hour in a pan of cold water. Then tie it together before it
 goes into the pot. Put it into boiling water and simmer it
 till the stalk is thoroughly tender, keeping it well covered
 with water, and carefully removing the scum. It will take
@@ -6775,9 +6775,9 @@ PARSNIPS.
 Wash, scrape and split them. Put them into a pot of
 boiling water; add a little salt, and boil them till quite tender,
 which will be in from two to three hours, according to their
-size. Dry them in a cloth when done, and pour melted butter[**I think it is 'butter', not sure though]
+size. Dry them in a cloth when done, and pour melted butter
 over them in the dish. Serve them up with any sort of
-***led[**not clear what it is][**I think it's "boiled"] meat, or with salt cod.
+boiled meat, or with salt cod.
 
 Parsnips are very good baked or stewed with meat.
 
@@ -6789,7 +6789,7 @@ yellow colour; they are generally much liked. Take off a
 thick paring, cut the turnips into large pieces, or thick slices,
 and lay them awhile in cold water. Then boil them gently
 about two hours, or till they are quite soft. When done,
-drain,[** I think it is 'drain'] squeeze and mash them, and season them with pepper
+drain, squeeze and mash them, and season them with pepper
 and salt, and a very little butter. Take care not to set them
 in a part of the table where the sun comes, as it will spoil
 the taste.
@@ -7013,7 +7013,7 @@ of the bean. Then cut them in two or three pieces only;
 for if split or cut very small, they become watery and lose
 much of their taste; and cannot be well drained. As you
 cut them, throw them into a pan of cold water, and let them
-lay awhile.[**P1 added full stop] Boil them an hour and a half. They must be
+lay awhile. Boil them an hour and a half. They must be
 perfectly tender before you take them up. Then drain and
 press them well, season them with pepper, and mix into them
 a piece of butter.
@@ -7091,7 +7091,7 @@ Serve them up with melted butter.
 
 
 TO ROAST ONIONS.--Onions are best when parboiled
-before roasting.  Take large onions, place them on a ho[**should be hot ?]
+before roasting.  Take large onions, place them on a hot
 -----File: 195.png---\saelynn\Blue Berry\\drmegsy\McKeown\-----------------
 hearth and roast them before the fire in their skins, turning
 them as they require it. Then peel them, send them to table
@@ -7142,7 +7142,7 @@ state when the part of the stalk nearest to the ground is not
 thicker than small asparagus. Scrape the stalks, (letting the
 leaves remain on them,) and throw them into cold water.
 Then tie up the poke in bundles, put it into a pot that has
-plenty of boiling water, and let it boil fast an hour at least[** . ]
+plenty of boiling water, and let it boil fast an hour at least.
 Serve it up with or without toast, and send melted butter
 with it in a boat.
 
@@ -7440,7 +7440,7 @@ them out carefully with an egg-slice, and trim off all the
 ragged edges from the white, which should thinly cover the
 yolk. Have ready some thin slices of buttered toast with
 the crust cut off. Lay them in the bottom of the dish, with a
-poached egg on each slice of toast, and send them to the breakfast[** - invisible]
+poached egg on each slice of toast, and send them to the breakfast
 table.
 
 
@@ -7529,7 +7529,7 @@ TO DRESS MACCARONI.
 
 Have ready a pot of boiling water. Throw a little salt into
 it, and then by slow degrees put in a pound of the maccaroni,
-a little[** not sure] at a time. Keep stirring it gently, and continue to do
+a little at a time. Keep stirring it gently, and continue to do
 so very often while boiling. Take care to keep it well
 covered with water. Have ready a kettle of boiling water to
 -----File: 207.png---\honeybun\Blue Berry\\xlenz\McKeown\------------------
@@ -7684,7 +7684,7 @@ The alum will make them firm and crisp.
 
 RADISH PODS.--Gather sprigs or bunches of radish
 pods while they are young and tender, but let the pods remain
-on the sprigs; it not being the custom to pick them off[**typo missing . ?]
+on the sprigs; it not being the custom to pick them off.
 Put them into strong salt and water, and let them stand two
 days. Then drain and wipe them and put them into a clean
 stone jar. Boil an equal quantity of vinegar and water. Pour it
@@ -7694,7 +7694,7 @@ are very green. Then pour off the vinegar and water, and
 boil for five minutes some very good vinegar, with a little
 bit of alum, and pour it over them. Put them into a stone
 jar, (and having added some whole mace, whole pepper, a
-little tumeric [**is this an old spelling for turmeric?] and a little sweet oil,) cork it closely, and tie
+little tumeric and a little sweet oil,) cork it closely, and tie
 over it a leather or oil-cloth.
 
 
@@ -7753,7 +7753,7 @@ you put them on the table remove the packthread.
 -----File: 213.png---\geegeemom\natdp\\xlenz\McKeown\----------------------
 
 
-NASTURTIANS[**misspelled, but deliberate, as it is in 2 places P1 ].--Have ready a stone or glass jar of
+NASTURTIANS.--Have ready a stone or glass jar of
 the best cold vinegar. Take the green seeds of the nasturtian
 after the flower has gone off. They should be full-grown
 but not old. Pick off the stems, and put the seeds into the
@@ -8611,12 +8611,12 @@ for seven or eight days, or till you can pierce through the
 pine-apple with a straw from a corn-broom. At the last of
 these boilings enrich the syrup by allowing to each pound of
 sugar a quarter of a pound more; and, having boiled and
-skimmed it, put in the pine apples[**no - visible] for half an hour. Then
+skimmed it, put in the pine apples for half an hour. Then
 -----File: 237.png---\Scarlie\natdp\\drmegsy\McKeown\----------------------
 take them out, and when quite cold put each into a separate
 glass jar, and fill up with the syrup.
 
-Pine[**hyphen?] apples may be preserved in slices by a very simple
+Pine apples may be preserved in slices by a very simple
 process. Pare them, and cut them into round pieces near an
 inch thick, and take out the core from the centre of each slice.
 Allow a pound of loaf-sugar to every pound of the sliced pine-apple.
@@ -8866,9 +8866,8 @@ Then weigh the apricots, and to each pound allow a pound
 of loaf-sugar. Put them into a tureen or large pan, in alternate
 layers of apricots and sugar; cover them, and let them
 stand all night. Next morning put all together into a preserving
-kettle, and boil them moderately a quarter of an hour[**.]
+kettle, and boil them moderately a quarter of an hour.
 -----File: 244.png---\Scarlie\natdp\\drmegsy\McKeown\----------------------
-[** @@ a missing full stop at end of last page?]
 Then take them out, spread them on dishes, and let them
 stand till next day. Then boil them again in the same syrup
 another quarter of an hour. Afterwards, spread them out to
@@ -9371,7 +9370,7 @@ them stew about half an hour, stirring them frequently. They
 must be quite cold before they are used for any thing.
 
 
-[**I pity the]GOOSEBERRY FOOL.--Having stewed two quarts of
+GOOSEBERRY FOOL.--Having stewed two quarts of
 gooseberries in the above manner, stir them as soon as they
 are cold into a quart of rich boiling milk. Grate in a nutmeg,
 and covering the pan, let the gooseberries simmer in the milk
@@ -9549,7 +9548,7 @@ with the back of a wooden ladle, or with a potato beetle. Put
 them into a kettle, (without any water,) cover them closely,
 and let them boil for a quarter of an hour; stirring them up
 occasionally from the bottom. Then squeeze them through a
-jelly-bag, and to each pint of juice allow a pound of loaf-sugar.[**]
+jelly-bag, and to each pint of juice allow a pound of loaf-sugar.
 Dissolve the sugar in the grape juice; then put it over a quick
 fire in a preserving kettle, and boil and skim it twenty minutes.
 When it is a clear thick jelly, take it off, put it warm into
@@ -9568,7 +9567,7 @@ of fine grapes, (they must be quite ripe,) and allow to
 each bunch a quarter of a pound of bruised sugar candy. Put
 the grapes and the sugar candy into large jars, (about two-thirds
 full,) and fill them up with French brandy. Tie them
-up closely, and keep them in a dry place. Morella[**misspelling for Morello?] cherries
+up closely, and keep them in a dry place. Morella cherries
 may be done in the same manner.
 
 Foreign grapes are kept in bunches, laid lightly in earthen
@@ -9966,7 +9965,7 @@ pour in the yolks of two beaten eggs, and mix them with
 the flour, &c. Then wet the whole to a stiff paste with
 half a pint of rich milk. Knead it well, and roll it out.
 
-This paste is intended for tarts of the finest sweetmeats[**period?]
+This paste is intended for tarts of the finest sweetmeats.
 If used as shells, they should be baked empty, and filled when
 cool. If made into covered tarts, they may be iced all over,
 in the manner of cakes, with beaten white of egg and powdered
@@ -10226,7 +10225,7 @@ nutmegs, the juice and grated peel of three large lemons,
 -----File: 281.png---\srjfoo\madyh\\TerrieW2013\MWolfe\--------------------
 and half a pound of citron cut in large strips. Mix these
 ingredients thoroughly, and moisten the whole with a pint of
-white wine, half a pint of rose-water, and half a pint of brandy[**missing .]
+white wine, half a pint of rose-water, and half a pint of brandy.
 Bake it in very nice paste.
 
 These mince pies may be eaten by persons who refrain from
@@ -10247,7 +10246,7 @@ an hour, and when cool grate white sugar over it.
 Send it to table quite cold.
 
 
-LEMON PUDDING[**.]--May be made precisely in the
+LEMON PUDDING.--May be made precisely in the
 same manner as the above; substituting lemons for oranges.
 
 
@@ -10445,7 +10444,7 @@ of milk till quite soft. Then stir alternately into the milk, a
 quarter of a pound of butter, and six ounces of powdered
 sugar, and set it away to cool. Beat eight eggs, and when
 they are quite light, stir them gradually into the milk, sago,
-&c. Add the spice, and lastly the currants; having dredges[**dredged]
+&c. Add the spice, and lastly the currants; having dredged
 them well with flour to prevent their sinking. Stir the whole
 very hard, put it into a buttered dish, and bake it three quarters
 of an hour. Eat it cold.
@@ -10519,7 +10518,7 @@ A FARMER'S RICE PUDDING.--This pudding is
 made without eggs. Wash a common-sized tea-cup of
 rice through cold water. Stir it raw into a quart of rich
 milk, or of cream and milk mixed; adding a quarter of a
-pound of brown sugar, and a table-spooonful[**table-spoonful] of powdered cinnamon.
+pound of brown sugar, and a table-spoonful of powdered cinnamon.
 Put it into a deep pan, and bake it two hours or more.
 When done, the rice will be perfectly soft, which you may
 ascertain by dipping a tea-spoon into the edge of the pudding
@@ -10549,7 +10548,7 @@ of two lemons; also squeeze in their juice. Beat the yolks of
 six eggs with the whites of two only. When the eggs are quite
 -----File: 290.png---\mpulverman\Blue Berry\\gehring\McKeown\--------------
 light, mix them gradually with the other ingredients, and stir
-the whole very hard. Butter a large bowl, or a pudding mould[** . ]
+the whole very hard. Butter a large bowl, or a pudding mould.
 Put in the mixture; tying a cloth tightly over the top,
 (so that no water can get in,) and boil it two hours. When
 done, turn it out into a dish. Send it to table warm, and eat
@@ -10561,8 +10560,8 @@ A MARLBOROUGH PUDDING.--Pare, core and quarter
 six large ripe pippin apples. Stew them in about a jill of
 water. When they are soft but not broken, take them out,
 drain them through a sieve, and mash them to a paste with
-the back of a spoon. Mix with them six large table-spoonfuls[**connect "spoon" and "fuls"?]
-[** hyphen invisible]of sugar and a quarter of a pound of butter, and set
+the back of a spoon. Mix with them six large table-spoonfuls
+of sugar and a quarter of a pound of butter, and set
 them away to get cold. Grate two milk biscuits or small
 sponge cakes, or an equal quantity of stale bread, and
 grate also the yellow peel, and squeeze the juice of a large
@@ -10599,7 +10598,7 @@ kernels may be substituted. Beat them, one at a time, in the
 mortar to a smooth paste, pouring in with every one a few
 drops of rose water to prevent their being oily, dull-coloured,
 and heavy. If you put a sufficiency of rose water, the pounded
-almond paste will be light, creamy, and perfectly white[**.]
+almond paste will be light, creamy, and perfectly white.
 Mix, as you do them, the sweet and bitter almonds together.
 Then beat the yolks of eight eggs, and when light, mix them
 gradually with the curd. Add five table-spoonfuls of cream,
@@ -10610,7 +10609,7 @@ puff paste round the edges. If accurately made, it will be
 found delicious. It must be put in the oven immediately.
 
 
-COMMON CHEESE CAKE.--Boil a quart of rich milk[** . ]
+COMMON CHEESE CAKE.--Boil a quart of rich milk.
 Beat eight eggs, put them to the milk, and let the milk and
 eggs boil together till they become a curd. Then drain it
 through a very clean sieve, till all the whey is out. Put the
@@ -10828,12 +10827,12 @@ Indian meal to make it very thick, and then add a very small
 portion of salt. You must keep the pot boiling on the fire all
 the time you are throwing in the meal; and between every
 handful, stir very hard with the mush-stick, (a round stick
-flattened at one end,) that the mush may not be lumpy[**.] After
+flattened at one end,) that the mush may not be lumpy. After
 it is sufficiently thick, keep it boiling for an hour longer,
 stirring it occasionally. Then cover the pot, and hang it
 higher up the chimney, so as to simmer slowly or keep hot
 for another hour. The goodness of mush depends greatly on its
-being long and thoroughly boiled. If sufficienlty[**error for "sufficiently"?] cooked, it is
+being long and thoroughly boiled. If sufficiently cooked, it is
 -----File: 298.png---\Scarlie\Mistofeles\\gehring\McKeown\-----------------
 wholesome and nutritious, but exactly the reverse, if made in
 haste. It is not too long to have it altogether three or four
@@ -10901,7 +10900,7 @@ four or five hours. Eat it warm with molasses and butter.
 
 This is a very economical, and not an unpalatable pudding;
 and may be found convenient when it is difficult to obtain
-eggs. The molasses should be West India.[**West Indian?]
+eggs. The molasses should be West India.
 
 
 A BAKED PLUM PUDDING.--Grate all the crumb of a
@@ -11502,7 +11501,7 @@ real flowers.
 
 FLOATING ISLAND.--Take a quart of rich cream, and
 divide it in half. Sweeten one pint of it with loaf-sugar, and
-stir into it sufficient currant jelly to colour it of a fine pink[**.]
+stir into it sufficient currant jelly to colour it of a fine pink.
 Put it into a glass bowl, and place in the centre a pile of
 sliced almond-sponge cake, or of lady cake; every slice
 spread thickly with raspberry jam or marmalade, and laid
@@ -11671,7 +11670,7 @@ time to freeze.
 If cream is scarce, mix with it an equal quantity of rich
 milk, and then add, for each quart, two table-spoonfuls of powdered
 arrow-root rubbed smooth in a little cold milk. Orange
-ice cream is made in the same manner as lemon[**.]
+ice cream is made in the same manner as lemon.
 -----File: 321.png---\Scarlie\natdp\\bcoutdoorsman\McKeown\----------------
 
 
@@ -11774,7 +11773,7 @@ water round the moulds, loosen the blanc-mange round the
 edges with a knife, and turn it out into glass dishes. It is
 best to make it the day before it is wanted.
 
-Instead of using a figure-mould, you may set it to congea.[**typo for congeal?]
+Instead of using a figure-mould, you may set it to congeal
 in tea-cups or wine glasses.
 
 Blanc-mange may be coloured green by mixing with the
@@ -11902,7 +11901,7 @@ a cold place. When it is quite firm, wrap a cloth that has
 been dipped in hot water, round the moulds to make the
 jelly turn out easily. But it will look much better, and the
 taste will be more lively, if you break it up after it has congealed,
-and put it into a glass bowl, or heap it in jelly glasses[** . ]
+and put it into a glass bowl, or heap it in jelly glasses.
 Unless it is broken, its sparkling clearness shows to little
 advantage.
 
@@ -11954,7 +11953,7 @@ the juice of two large lemons, and two glasses of white
 wine. Then add the other pint of cream, and stir the whole
 very hard. Boil two ounces of isinglass with four small tea-*cups
 full of water, till it is reduced to one half. Then stir the
-isinglass lukewarm[**elsewhere luke-warm] into the other ingredients, and put them
+isinglass lukewarm into the other ingredients, and put them
 into a glass dish to congeal.
 
 
@@ -12109,7 +12108,7 @@ sugar, pound or grind the spice, and prepare the fruit; afterwards
 mix and stir the butter and sugar, and lastly beat the
 eggs; as, if allowed to stand any time, they will fall and
 become heavy. When all the ingredients are mixed together,
-they[**partly visible] should be stirred very hard at the last; and (unless there
+they should be stirred very hard at the last; and (unless there
 is yeast in the cake) the sooner it is put into the oven the
 better. While baking, no air should be admitted to it, except
 for a moment, now and then, when it is necessary to examine
@@ -12624,7 +12623,7 @@ nutmeg; a glass of wine or brandy, and two glasses of
 rose water. Beat four eggs very light; and add them to the
 mixture with a salt-spoonful of soda melted in a little
 lukewarm water. Mix all well together; add, if necessary,
-sufficient cold water to make it into a dough just stift [**Printer error; SB "sift"][**stiff]enough
+sufficient cold water to make it into a dough just stiff enough
 to roll out; knead it slightly, and then roll it out into a sheet
 about half an inch thick. Cut it out into small cakes with a
 tin cutter, or with the edge of a tumbler; dipping the cutter
@@ -12939,7 +12938,7 @@ white sugar. Or you may send the sugar and cinnamon in a
 little glass bowl.
 
 In buying waffle-irons, do not choose those broad shallow
-ones that are to hold four at a time; as the wafflles[**typo for waffles?] baked in
+ones that are to hold four at a time; as the waffles baked in
 them are too small, too thin, and are never of a good shape.
 -----File: 356.png---\mpulverman\Barry E Abrahamsen\\geegeemom\McKeown\----
 The common sort that bake but two at once are much the
@@ -13153,7 +13152,7 @@ ground-nuts and put them in instead of the almonds.
 
 NOUGAT.--Blanch a pound of shelled sweet almonds;
 and with an almond-cutter, or a sharp penknife, split each
-almond into two slips. Spread them over a lage [** typo for large in the original] dish, and
+almond into two slips. Spread them over a large dish, and
 place them in a gentle oven. Powder two pounds of the best
 loaf-sugar, and put it into a preserving pan without a drop of
 -----File: 362.png---\Maven32\Blue Berry\\geegeemom\McKeown\---------------
@@ -13219,7 +13218,7 @@ remove the sour taste, and increase the lightness of the cakes.
 
 FLANNEL CAKES.--Put a table-spoonful of butter into
 a quart of milk, and warm them together till the butter has
-melted; then stir it well, and set it away too[**should be "to"] cool. Beat five
+melted; then stir it well, and set it away to cool. Beat five
 eggs as light as possible, and stir them into the milk in turn
 -----File: 364.png---\Maven32\Blue Berry\\geegeemom\McKeown\---------------
 with three pints of sifted flour; add a small tea-spoonful of
@@ -13288,7 +13287,7 @@ Send them to table hot, buttered and cut in half.
 
 INDIAN MUFFINS.--Sift and mix together a pint and a
 half of yellow Indian meal, and a handful of wheat flour.
-Melt a quarter of a pound of fresh butter in a quart of milk[**missing a period]
+Melt a quarter of a pound of fresh butter in a quart of milk.
 Beat four eggs very light, and stir into them alternately (a
 little at a time of each) the milk when it is quite cold,
 and the meal; adding a small tea-spoonful of salt. The
@@ -13553,9 +13552,9 @@ bake them for breakfast or tea.
 
 
 BRAN BREAD.--Sift into a pan three quarts of unbolted
-wheat meal. Stir a jill of strong yeast, and a jill of molasses [** jill - variant of gill]
+wheat meal. Stir a jill of strong yeast, and a jill of molasses
 into a quart of soft water, (which must be warm but not hot,)
-and add a small tea-spoonful of pearl-ash, or sal-aratus. [** obviously some sort of salt, no references found]Make
+and add a small tea-spoonful of pearl-ash, or sal-aratus. Make
 a hole in the heap of flour, pour in the liquid, and proceed in
 the usual manner of making bread. This quantity may be
 made into two loaves. Bran bread is considered very wholesome;
@@ -13635,25 +13634,25 @@ morning. Then pour off the thin liquid from the top, and
 cork the jug tightly. When you are going to use the yeast,
 if it has been made two or three days, stir in a little pearl-ash
 dissolved in warm water, allowing a lump the size of a hickory-nut
-to a pint of yeast. This will correct any tendency to sour [*NOTE missing hyphen to join these two words][**P2:sourness,]
-ness, and make the yeast more brisk.
+to a pint of yeast. This will correct any tendency to sourness,
+and make the yeast more brisk.
 
 
 TO MAKE BUTTER.
 
-Scald your milk pans[**no hyphen here] every day after washing them; and
+Scald your milk pans every day after washing them; and
 let them set till the water gets cold. Then wipe them with a
 clean cloth. Fill them all with cold water half an hour before
 milking time, and do not pour it out till the moment before
 you are ready to use the pans. Unless all the utensils are
 kept perfectly sweet and nice, the cream and butter will never
-be good. Empty milk-pans[**hyphen here -- which is correct?] should stand all day in the sun.
+be good. Empty milk-pans should stand all day in the sun.
 
 When you have strained the milk into the pans, (which
 should be broad and shallow,) place them in the spring-house,
 setting them down in the water. After the milk has stood
 -----File: 376.png---\Maven32\timpsc\\geegeemom\McKeown\-------------------
-twenty-four hours, skim off the cream, and deposite[**misspelled] it in a
+twenty-four hours, skim off the cream, and deposite it in a
 large deep earthen jar, commonly called a crock, which must
 be kept closely covered, and stirred up with a stick at least
 twice a day, and whenever you add fresh cream to it. This
@@ -14529,7 +14528,7 @@ been previously powdered by itself. When the whole is thoroughly
 incorporated to a stiff paste, put it into little pots and
 close them well. It will keep five or six months, and, when
 you wish to use it for a beverage, allow a piece of orgeat
-about the size of an egg to each half pint or tumbler of water[** . ]
+about the size of an egg to each half pint or tumbler of water.
 Having well stirred it, strain the mixture.
 
 To make liquid orgeat for present use; blanch and pound
@@ -14595,7 +14594,6 @@ a froth. You may freeze it or not.
 
 MILK PUNCH.--What is commonly called milk punch,
 is a mixture of brandy or rum, sugar, milk and nutmeg, with-without
-[**looks like typo for just plain without]
 either lemon juice or water. It is taken cold with a
 lump of ice in each tumbler.
 
@@ -14666,7 +14664,7 @@ Serve it up hot in a pitcher, surrounded by glass cups, and
 with it a plate of rusk.
 
 
-MULLED CIDER.--Allow six eggs to a quart of cider[** . ]
+MULLED CIDER.--Allow six eggs to a quart of cider.
 Put a handful of whole cloves into the cider, and boil it.
 While it is boiling, beat the eggs in a large pitcher; adding
 to them as much sugar as will make the cider very sweet.
@@ -14795,12 +14793,12 @@ sour cider in the sun for a few weeks, or three months, and it
 will become good vinegar.
 
 
-PINE-APPLE-ADE.--Pare and slice some very ripe pine-apples;[**usage seems to be with a hyphen]
+PINE-APPLE-ADE.--Pare and slice some very ripe pine-apples;
 then cut the slices into small pieces. Put them with all
 their juice into a large pitcher, and sprinkle among them plenty
 of powdered white sugar. Pour on boiling water, allowing a
 small half pint to each pine-apple. Cover the pitcher, and let
-it stand till quite cool, occasionally pressing down the pine-*apple[**for consistency, I have added hyphen]
+it stand till quite cool, occasionally pressing down the pine-apple
 with a spoon. Then set the pitcher, for a while, in ice.
 Lastly, strain the infusion into another vessel, and transfer it
 to tumblers, putting into each glass some more sugar and a
@@ -14936,7 +14934,7 @@ liquid is reduced one half. Then strain it off, and sweeten it.
 
 
 GROUND RICE MILK.--Mix in a bowl two table-spoonfuls
-of ground rice, with sufficient milk to make a thin batter[** . ]
+of ground rice, with sufficient milk to make a thin batter.
 Then stir it gradually into a pint of milk and boil it with
 sugar, lemon-peel or nutmeg.
 
@@ -15191,7 +15189,7 @@ if the burn is bad, it is best to send for a physician.
 FOR CHILBLAINS.--Dip the feet every night and morning
 in cold water, withdrawing them in a minute or two, and
 -----File: 417.png---\zoeannl\Blue Berry\\gehring\McKeown\-----------------
-drying them by rubbing them very hard with a coarse towel[**punctuation . ]
+drying them by rubbing them very hard with a coarse towel.
 To put them immediately into a pail of brine brought from a
 pickle tub is another excellent remedy when feet are found to
 be frosted.
@@ -15355,7 +15353,7 @@ some pure Florence oil, such as is quite clear and has no
 smell. Then place a layer of this cotton in the bottom of a
 deep china dish, or in an earthen pipkin. Cover it with a
 thick layer of fresh rose leaves, or the leaves of sweet pink,
-jasmine, wall-flower, tuberose, magnolia blossoms, or and[**?typo for any]
+jasmine, wall-flower, tuberose, magnolia blossoms, or any
 other odoriferous flower or plant from which you wish to obtain
 the perfume. Spread over the flower-leaves another layer
 of cotton that has been steeped in oil. Afterwards a second
@@ -15410,7 +15408,7 @@ water. Afterwards drain off the water, and put the lard and
 marrow into a sieve to dry. Then transfer it to a jar, and set
 the jar into a pot of boiling water. When the mixture is
 melted, put it into a basin, and beat it with two spoonfuls of
-brandy[** . ] Then drain off the brandy, perfume the pomatum by
+brandy. Then drain off the brandy, perfume the pomatum by
 -----File: 423.png---\bhawkes926\Mistofeles\\gehring\McKeown\--------------
 mixing with it any scented essence that you please, and tie it
 up in gallipots.
@@ -15424,7 +15422,7 @@ dissolved; stirring it till it becomes a smooth paste, and thickening
 it with Indian meal, (which even in a raw state is excellent
 for the hands.) Then take it from the fire, and when
 cool scent it with rose-water, or with any fragrant essence
-you please. Beat and stir it hard with a silver spoon,[**?punctuation][**p2: comma, I think ]
+you please. Beat and stir it hard with a silver spoon,
 and when it is thoroughly mixed put it into little pots with
 covers.
 
@@ -15488,7 +15486,7 @@ rose leaves, two ounces of lavender blossoms, half an ounce of
 -----File: 425.png---\KnappBill\Mistofeles\\gehring\McKeown\---------------
 mace, half an ounce of cinnamon, a quarter of an ounce of
 cloves, and two drachms of musk-powder. Beat them all
-separately in a mortar, and then mix them well together[**?.]
+separately in a mortar, and then mix them well together.
 Make small silk or satin bags; fill each with a portion of
 the mixture, and sew them closely all round. Lay them
 among your clothes in the drawers.
@@ -15555,7 +15553,7 @@ will be found very convenient.
 ALMOND PASTE.--Blanch half a pound of shelled
 sweet almonds, and a quarter of a pound of bitter ones, and
 beat them in a mortar to a smooth paste--adding by degrees a
-jill[**?spill][**p2: no ] of rose or orange-flower water. Then beat in, gradually,
+jill of rose or orange-flower water. Then beat in, gradually,
 half a pound of clear strained honey. When the whole is well
 incorporated, put it into gallipots, pouring on the top of each
 some orange-flower or rose-water. Keep it closely covered.
@@ -15566,7 +15564,7 @@ This is a celebrated cosmetic for the hands.
 
 
 
-MISCELLANEOUS RECEIPTS.[**variant for recipes]
+MISCELLANEOUS RECEIPTS.
 
 
 MINCED OYSTERS.--Take fifty fine large oysters, and
@@ -15740,7 +15738,7 @@ of water makes a very refreshing summer drink.
 
 
 PATENT YEAST.--Boil half a pound of fresh hops in
-four quarts of water, till the liquid is reduced to two quarts[** .]
+four quarts of water, till the liquid is reduced to two quarts.
 -----File: 432.png---\KnappBill\honeybun\\Neanderthal\McKeown\-------------
 Strain it, and mix in sufficient wheat flour to make a thin
 batter; adding half a pint of strong fresh yeast, (brewer's
@@ -15778,7 +15776,7 @@ they are quite dry, take them out, and replace them with
 others. Pick the leaves from the stems, (which may be
 thrown away,) and put them into bottles or jars; cork them
 -----File: 433.png---\Scarlie\honeybun\\Neanderthal\McKeown\---------------
-tightly[** poor image possibly-tightly], and keep them in a dry place. Those that are used
+tightly, and keep them in a dry place. Those that are used
 in cookery should be kept in a kitchen closet.
 
 
@@ -15808,10 +15806,10 @@ into a stone jar with cold vinegar, adding a small thin muslin
 bag filled with mace, whole cloves, and whole peppers. Then
 cork the jar tightly with a cork that has been dipped in melted
 rosin, and put it away in a dry place. Tomatas pickled in
-this manner keep perfectly well and retain their colour. For [**To?]
+this manner keep perfectly well and retain their colour. For
 this purpose use the small round button tomatas.
 
-Morella cherries may be pickled thus, in cold vinegar[**only partial word shows]
+Morella cherries may be pickled thus, in cold vinegar.
 -----File: 434.png---\Scarlie\honeybun\\Neanderthal\McKeown\---------------
 
 
@@ -16027,7 +16025,7 @@ apples, and pare and core them, leaving them as whole as possible.
 Put them into a kettle with sufficient water to cover
 them, and let them parboil a quarter of an hour. Then take
 them out, and drain them on a sieve. Prepare a paste in
-the proportion of a pound of butter to two pounds of flour.[**?,]
+the proportion of a pound of butter to two pounds of flour,
 as for plain pies. Roll it out into a sheet, and cut it into
 equal portions according to your number of apples. Place an
 apple on each, and fill up the hole from whence the core was
@@ -16077,8 +16075,8 @@ of pearl-ash, or sal-aratus, dissolved in a little water.
 
 PLAIN CIDER CAKE.--Sift into a large pan a pound
 and a half of flour, and rub into it half a pound of butter. Mix
-in three-quarters of a pound of powdered white sugar, an[** and?]
-melt a small tea-spoonful of sal-aratus or pearl-ash in a pi[**unsure][**pint?]
+in three-quarters of a pound of powdered white sugar, and
+melt a small tea-spoonful of sal-aratus or pearl-ash in a pint
 of the best cider. Pour the cider into the other ingredients
 while it is foaming, and stir the whole very hard. Have ready
 a buttered square pan, put in the mixture, and set it immediately
@@ -16147,7 +16145,7 @@ bread.
 -----File: 443.png---\Scarlie\honeybun\\Neanderthal\McKeown\---------------
 
 Yeast when it becomes sour may be made fit to use by stirring
-into it a little sal-eratus,[** not hiphenated in dictionary] or pearl-ash, allowing a small
+into it a little sal-eratus, or pearl-ash, allowing a small
 tea-spoonful to a pint of yeast. This will remove the acidity,
 and improve the bread in lightness. The pearl-ash must be
 previously melted in a little lukewarm water.
@@ -16188,7 +16186,7 @@ fresh butter. Set it in a dark, dry place, turning it every day,
 and in four or five days it will be fit for use. When once cut,
 it should be eaten immediately, if the weather is warm. But
 while uncut, it may keep a week in a cold place, provided it
-is turned several times a-day[**.]
+is turned several times a-day.
 
 
 ALMOND BREAD.--Blanch, and pound in a mortar, half
@@ -16243,7 +16241,7 @@ You may flavour the custard with vanilla.
 
 HONEY GINGER CAKE.--Rub together a pound of
 sifted flour and three-quarters of a pound of fresh butter. Mix
-in,[**comma] a tea-cup of fine brown sugar, two large table-spoonfuls of
+in, a tea-cup of fine brown sugar, two large table-spoonfuls of
 strong ginger, and (if you like them) two table-spoonfuls of
 carraway seeds. Having beaten five eggs, add them to the
 mixture alternately with a pint of strained honey; stirring in
@@ -16682,7 +16680,7 @@ This cake requires long beating, and much baking.
 FINE COOKIES.--Sift into a pan five large tea-cupsful
 of flour, and rub into it one tea-cup of fresh butter; add two
 cups of powdered white sugar, and a handful or two of carraway
-seeds; wet it with an egg well beaten, and a little rose-water[** . ]
+seeds; wet it with an egg well beaten, and a little rose-water.
 Add, at the last, a small tea-spoonful of sal-aratus dissolved
 in a very little lukewarm water. Knead the whole well.
 Roll it out into a sheet. Cut it into cakes with a stamp or a
@@ -16739,7 +16737,7 @@ pudding is in some places called by the homely names of Brown
 Betty, or Pan Dowdy. It will require far less baking, if the
 apples are previously stewed soft, and afterwards mixed with
 the sugar and lemon. Then put it into the dish, in layers,
-interpersed[**P1 interspersed] (as above) with bits of butter, and layers of grated
+interspersed (as above) with bits of butter, and layers of grated
 crumbs. It will be much improved by the addition of a grated
 nutmeg, mixed with the apples.
 
@@ -16933,7 +16931,7 @@ into a glass bowl; having first washed off the ice and salt
 from the outside of the freezer, lest some of it should chance
 to get into the inside. Serve it on saucers.
 
-After it has congealed in the freezer, you[**upside-down "u" in original] may transfer it to
+After it has congealed in the freezer, you may transfer it to
 a pyramid or pine-apple mould, and freeze it a second time,
 -----File: 465.png---\Barry E Abrahamsen\Blue Berry\\Neanderthal\McKeown\--
 which will require half an hour or more. Of course, while in
@@ -17079,7 +17077,7 @@ COFFEE CUSTARD--For this purpose the coffee should
 be cold drawn. Take a large half pint of fresh ground coffee,
 -----File: 469.png---\Barry E Abrahamsen\Blue Berry\\Neanderthal\McKeown\--
 which should be of the best quality, and roasted that day.
-Put it into a grecque[**Grecque] or French coffee pot, such as are made
+Put it into a grecque or French coffee pot, such as are made
 with strainers inside, and have a second cover below the lid.
 Lay the coffee on the upper strainer, pour on it half a pint of
 <i>cold</i> water, and press it down with the inner cover. Put on
@@ -17169,7 +17167,7 @@ the covers. Or seal the corks.
 Very small, thin-skinned, ripe oranges, preserved in this
 manner, and filled with orange-jelly, are delicious.
 
-If, instead of having it liquid, you wish the syrup to crystallize[** - not visible]
+If, instead of having it liquid, you wish the syrup to crystallize
 or candy round the fruit, put no water to the sugar, but
 boil it slowly a long time, with the juice only, clarified by beaten
 white of egg mixed with the sugar in the proportion of one
@@ -17181,7 +17179,7 @@ cut it into bits, and put it into a bottle of white wine or brandy,
 where it will keep soft and fresh, and the infusion will make
 a fine flavouring for cakes, puddings, &c. The rind of lemons
 should never be thrown away, as it is useful for so many nice
-purposes. Apple-sauce and apple-pies should always be flavoured[** - invisible]
+purposes. Apple-sauce and apple-pies should always be flavoured
 with lemon-peel.
 -----File: 472.png---\Barry E Abrahamsen\natdp\\Neanderthal\McKeown\-------
 
@@ -17359,7 +17357,7 @@ or some very cold place, till next day. When cold meat
 is hashed or otherwise recooked, it is best to do it in its own
 gravy, and without the addition of water.
 
-Take some cold roast veal, and cut it into small mouthfuls[**missing period in original]
+Take some cold roast veal, and cut it into small mouthfuls.
 Put it into a skillet or stew-pan, without a drop of water. Add
 -----File: 477.png---\WordTurtle\natdp\\Neanderthal\McKeown\---------------
 to it the veal gravy that was left the preceding day, and a small
@@ -17618,7 +17616,7 @@ increased in the proper proportion.
 
 Oysters cooked in this way make very fine patties. The
 shells for which must be made of puff-paste, and baked empty
-in very deep patty-pans, filling them, when done, with oysters[** . ]
+in very deep patty-pans, filling them, when done, with oysters.
 
 
 SPICED OYSTERS.--To four hundred large oysters allow
@@ -17724,10 +17722,10 @@ and two ounces of finely-powdered loaf-sugar, adding a small
 nutmeg, grated. Then put the cold curd into a sieve, and
 drain it from the whey till it is left very dry, chopping the
 curd small, that it may drain the better. Beat in a shallow
-pan the yolks of eight eggs till very light, thick, and smooth[** . ]
+pan the yolks of eight eggs till very light, thick, and smooth.
 Then mix into the egg the curd, in turn with the pounded
 almonds, and the sugar and lemon. Finish with a glass of
-brandy, or of Madeira or Sherry[**in other pages of the book, Madiera and Sherry are not capitalized.], and stir the whole very hard.
+brandy, or of Madeira or Sherry, and stir the whole very hard.
 
 Butter a deep dish of strong white ware. Put in the mixture:
 set it immediately into a brisk oven and bake it well.
@@ -18040,7 +18038,7 @@ a little of it, after dipping your hands lightly in water.
 GLYCERINE.--This is an excellent and very convenient
 preparation for the hands. Buy a bottle of it at one of the
 best druggists, and keep it well corked. After washing your
-hands with palm or castile[** Castile] soap, empty the basin, and pour
+hands with palm or castile soap, empty the basin, and pour
 in a little fresh water, to which add a few drops of glycerine.
 Finish your hands with this, rubbing it in hard. It will
 render them very soft and smooth, and prevent chapping.
@@ -18089,7 +18087,7 @@ These preparations of corn-starch are much liked.
 -----File: 497.png---\Clodia\natdp\\Neanderthal\McKeown\-------------------
 
 
-FARINA[** .?]--Is the finest, lightest, and most delicate preparation
+FARINA.--Is the finest, lightest, and most delicate preparation
 of wheat flour. It is excellent for all sorts of boiled
 puddings, for flummery, and blancmange. Also, as gruel
 for the sick.
@@ -18413,10 +18411,10 @@ like. In filling a plate, never heap one thing on another.
 
 In helping vegetables, do not plunge the spoon down to the
 bottom of the dish, in case they should not have been perfectly
-well drained.[**?,] and the water should have settled there.
+well drained, and the water should have settled there.
 
 By observing carefully how it is done, you may acquire a
-knowledge of the joints.[**?,] and of the process of carving, which
+knowledge of the joints, and of the process of carving, which
 a little daily practice will soon convert into dexterity. If a
 young lady is ignorant of this very useful art, it will be well
 -----File: 506.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
@@ -18488,7 +18486,7 @@ the heart to the inside of the breast; putting back also the eggs,
 if you have found any. Have ready the stuffing, and fill up
 with it the vacancy from which you have taken the craw, &c.,
 pressing it in hard. Next, taking between your thumb and
-finger the above-mentioned piece of skin at the top of the neck.[**, ?]
+finger the above-mentioned piece of skin at the top of the neck,
 -----File: 508.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 draw it down tightly towards the back of the fowl, (folding it
 nicely over the bent end of the neck-bone,) and fasten it down
@@ -18530,7 +18528,7 @@ boiled the liver and heart, chop them to enrich the gravy.
 
 
 FIGURES EXPLANATORY OF THE PIECES INTO WHICH THE FIVE
-LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.[**if there is no text, just a caption, is it still a section -- and does it depend on the tree falling in the forest?]
+LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.
 
 [Illustration: <i>Beef</i>
 
@@ -18679,7 +18677,7 @@ Arrow-root blancmange, 329.
 
 Arrow-root jelly, 411.
 
-Arrow-root pudding, 291[**.]
+Arrow-root pudding, 291.
 
 Artichokes, to boil, 195.
 
@@ -18713,7 +18711,7 @@ Beans, (Lima,) to boil, and dry 197.
 
 Beans, (scarlet,) to boil, 197.
 
-[**Something in the margin? I think it's left over from the other column]Beef, remarks on, 68.
+Beef, remarks on, 68.
 
 Beef, à la mode, 78.
 
@@ -18721,7 +18719,7 @@ Beef, baked, 71.
 
 Beef bouilli, 82.
 
-Beef, (corned or salted,) to boil[** , missing] 73.
+Beef, (corned or salted,) to boil, 73.
 
 Beef cakes, 84.
 
@@ -18825,7 +18823,7 @@ Burns, remedy for, 420.
 
 Butter, to brown, 163.
 
-Butter, melted or drawn, 163[**.]
+Butter, melted or drawn, 163.
 
 Butter, to make, 379.
 
@@ -19092,7 +19090,7 @@ Dumplings, (apple,) 307.
 
 Dumplings, (light,) 311.
 
-Dumplings, (plain suet,) 310[**.]
+Dumplings, (plain suet,) 310.
 
 Dumplings, (fine suet,) 309.
 
@@ -19194,7 +19192,7 @@ Gingerbread nuts, 363.
 
 Gingerbread, (Franklin,) 364.
 
-Gingerbread, (white,) 362[**.]
+Gingerbread, (white,) 362.
 
 Gooseberries, bottled, 262.
 
@@ -19204,7 +19202,7 @@ Gooseberry fool, 261.
 
 Gooseberries, to preserve, 260
 
-Gooseberries, to stew, 26[**Can't see what the figure should be].
+Gooseberries, to stew, 261.
 
 Gooseberry wine, 393.
 
@@ -19220,7 +19218,7 @@ Grapes, (wild,) to keep, 267.
 
 Grape jelly, 266.
 
-Gravy, (drawn or made,) 162 [** .?]
+Gravy, (drawn or made,) 162.
 
 Gravy soup, (clear,) 22.
 
@@ -19243,7 +19241,7 @@ Ham, to boil, 124.
 
 Ham, to broil, 123.
 
-Ham or bacon, directions for curing, 126. [** Can't read last digit of figure]
+Ham or bacon, directions for curing, 126.
 
 Ham, (to glaze,) 132.
 
@@ -19255,7 +19253,7 @@ Ham sandwiches, 123.
 
 Ham, to roast, 126.
 
-Ham, (Westphalia,) to imitate, 131 [** .?]
+Ham, (Westphalia,) to imitate, 131.
 
 Hare or rabbit soup, 28.
 
@@ -19613,7 +19611,7 @@ Ox-tail soup, 32.
 Oyster Sauce, 170.
 
 
-[** extra line not present][**it is now ]
+
 Panada, 413.
 
 Panada, (chicken,) 416.
@@ -19813,7 +19811,7 @@ Pyramid of tarts, 280.
 Pink sauce, 173.
 
 
-[** extra line not present]
+
 Quails, to roast, 158.
 
 Queen cake, 341.
@@ -19873,7 +19871,7 @@ Rhubarb tarts, 282.
 
 Rice, to boil, 202.
 
-Rice, to boil for curry[**,] 146.
+Rice, to boil for curry, 146.
 
 Rice custard, 314.
 
@@ -19924,7 +19922,7 @@ Russian or Swedish turnip, to boil, 190.
 Rye and Indian bread, 377.
 
 
-Soup à la Lucy, 489. [**out of alpha]
+Soup à la Lucy, 489.
 
 Sago, 412.
 
@@ -19998,9 +19996,9 @@ Short cakes, 371.
 
 Shrub, (cherry,) 398.
 
-Shrub, (currant,) 397[**.]
+Shrub, (currant,) 397.
 
-Shrub, (fox-grape,) 397[**.]
+Shrub, (fox-grape,) 397.
 
 Smelts, to fry, 431.
 
@@ -20014,7 +20012,7 @@ Soda water, 419.
 
 Spanish buns, 343.
 
-Spinach, to boil, 188[**.]
+Spinach, to boil, 188.
 
 Spinach and eggs, 188.
 
@@ -20036,7 +20034,7 @@ Strawberry cordial, 400.
 
 Sturgeon cutlets, 54.
 
-Sherry Cobler, 406,[**.][**out of alpha]
+Sherry Cobler, 406.
 
 -----File: 530.png---\KnappBill\Blue Berry\\Neanderthal\McKeown\-----------
 
@@ -20064,14 +20062,14 @@ Sweetbreads, larded, 104.
 
 Sweetbreads, to roast, 104.
 
-Syllabub or whipt cream, 318[** . ]
+Syllabub or whipt cream, 318.
 
 Syllabub, (country,) 319.
 
-Shrewsbury cake, 433. [**out of alpha]
+Shrewsbury cake, 433.
 
 
-[**]
+
 Tamarind water, 417.
 
 Tapioca, 412.
@@ -20118,7 +20116,7 @@ Turkey, to boil, 156.
 
 Turkey, to roast, 154.
 
-Turkish sherbet, 408[** . ]
+Turkish sherbet, 408.
 
 Turnips, to boil, 189.
 
@@ -20167,7 +20165,7 @@ Venison soup, 28.
 
 Venison steaks, 135.
 
-Vermicelli soup[** , ] 25.
+Vermicelli soup, 25.
 
 Vinegar (cider,) 409.
 
