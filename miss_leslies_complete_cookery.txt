@@ -2274,9 +2274,6 @@ have bread and butter with it.
 
 DIRECTIONS FOR COOKING MEAT.
 
-
-
-
 BEEF.
 
 
@@ -2543,15 +2540,15 @@ the inside of the sirloin. All other parts are for this purpose
 comparatively hard and tough.
 
 They should be cut about three quarters of an inch thick,
-
-[Footnote A: French mustard is made of the very best mustard powder, diluted
-with tarragon vinegar mixed with an equal portion of sweet oil, adding
-a few drops of garlic vinegar. Use a wooden spoon.]
 -----File: 071.png---\Shadowfox\Happy Retiree\\geegeemom\McKeown\----------
 and, unless the beef is remarkably fine and tender, the steaks
 will be much improved by beating them on both sides with a
 steak mallet, or with a rolling-pin. Do not season them till
 you take them from the fire.
+
+[Footnote A: French mustard is made of the very best mustard powder, diluted
+with tarragon vinegar mixed with an equal portion of sweet oil, adding
+a few drops of garlic vinegar. Use a wooden spoon.]
 
 Have ready on your hearth a fine bed of clear bright coals,
 entirely free from smoke and ashes. Set the gridiron over
@@ -2873,7 +2870,7 @@ to it the strained gravy. Let it come to a boil, and then put
 to it a table-spoonful of catchup, and the beef cut either in
 thin small slices or in mouthfuls. Let it simmer from five to
 ten minutes, but do not allow it to boil, lest (having beef[** been?]
-cooked already) it should become tasteless and insipid
+cooked already) it should become tasteless and insipid[**.]
 -----File: 080.png---\nathancantu\natdp\\geegeemom\McKeown\----------------
 Serve it up in a deep dish with thin slices of toast cut into
 triangular or pointed pieces, the crust omitted. Dip the toast
@@ -4598,7 +4595,7 @@ nicely in butter or lard. Or you may eat them cold, just out
 of the vinegar.
 
 If you intend keeping them some time, you must make a
-fresh pickle for them every other day
+fresh pickle for them every other day[**.]
 
 
 TO IMITATE WESTPHALIA HAM.
@@ -5039,7 +5036,7 @@ Take some cold chicken, and having cut the flesh from the
 bones, mince it small with a little suet and parsley; adding
 sweet marjoram and grated lemon-peel. Season it with pep-*
 -----File: 140.png---\Vendice\Blue Berry\\geegeemom\McKeown\---------------
-[**something missing?][**pep-* ends previous page]*per, salt and nutmeg, and having mixed the whole very well,
+*per, salt and nutmeg, and having mixed the whole very well,
 pound it to a paste in a marble mortar, putting in a little at a
 time, and moistening it frequently with yolk of egg that has
 been previously beaten. Then divide it into equal portions,
@@ -6203,7 +6200,7 @@ the top of each put a table-spoonful of sweet oil. Dip the
 corks in melted rosin, and secure them well by tying leather
 over them.
 
-In using this catchup, allow four table-spoonfuls to a common-seized
+In using this catchup, allow four table-spoonfuls to a common-seized[**sized]
 sauce-boat of melted butter. Put in the catchup
 at the last, and hold it over the fire just long enough to be
 thoroughly heated.
@@ -7009,7 +7006,7 @@ of the bean. Then cut them in two or three pieces only;
 for if split or cut very small, they become watery and lose
 much of their taste; and cannot be well drained. As you
 cut them, throw them into a pan of cold water, and let them
-lay awhile. **P1 added full stop] Boil them an hour and a half. They must be
+lay awhile.[**P1 added full stop] Boil them an hour and a half. They must be
 perfectly tender before you take them up. Then drain and
 press them well, season them with pepper, and mix into them
 a piece of butter.
@@ -8862,7 +8859,7 @@ Then weigh the apricots, and to each pound allow a pound
 of loaf-sugar. Put them into a tureen or large pan, in alternate
 layers of apricots and sugar; cover them, and let them
 stand all night. Next morning put all together into a preserving
-kettle, and boil them moderately a quarter of an hour
+kettle, and boil them moderately a quarter of an hour[**.]
 -----File: 244.png---\Scarlie\natdp\\drmegsy\McKeown\----------------------
 [** @@ a missing full stop at end of last page?]
 Then take them out, spread them on dishes, and let them
@@ -8901,7 +8898,7 @@ and wiped them, pare them, and extract the cores. Quarter
 the quinces, or cut them into slices half an inch
 thick, and lay them in scalding water (closely covered)
 and boil them till tender--lest they harden in the sugar.
-Put the parings, cores, and seeds into a preserving kettle.
+Put the parings, cores, and seeds into a preserving kettle,
 -----File: 245.png---\Scarlie\Blue Berry\\drmegsy\McKeown\-----------------
 cover them with the water in which you coddled the
 quinces, and boil them an hour, keeping them closely covered
@@ -9560,7 +9557,6 @@ white of egg; allowing two whites to two pounds of sugar.
 
 BRANDY GRAPES.--Take some large close bunches
 of fine grapes, (they must be quite ripe,) and allow to
-[**period at end of sentence not in scan]
 -----File: 263.png---\Ballyshea\jamesrwagner\\drmegsy\McKeown\-------------
 each bunch a quarter of a pound of bruised sugar candy. Put
 the grapes and the sugar candy into large jars, (about two-thirds
@@ -9743,7 +9739,7 @@ paper.
 
 
 
-PASTRY  PUDDINGS, ETC.
+PASTRY, PUDDINGS, ETC.
 
 
 THE BEST PLAIN PASTE.
@@ -9918,8 +9914,6 @@ on the paste-board, (you should have a marble slab,) take the
 dough from the pan by lifting it out with the knife, lay it on
 the board, and flouring your rolling-pin, roll out the paste into
 a large thin sheet. Then with the knife, put all over it, at
-
-[Footnote A: Or into nine; and roll it in that number of times.]
 -----File: 273.png---\Willowman\Blue Berry\\drmegsy\McKeown\---------------
 equal distances, one of the six pieces of butter divided into
 small bits. Fold up the sheet of paste, flour it, roll it out
@@ -9932,6 +9926,8 @@ put them into buttered plates or patty-pans. In using the
 rolling-pin, observe always to roll from you. Bake the paste
 in a moderate oven, but rather quick than slow. No air must
 be admitted to it while baking.
+
+[Footnote A: Or into nine; and roll it in that number of times.]
 
 The edges of paste should always be notched before it goes
 into the oven. For this purpose, use a sharp penknife, dipping
@@ -11083,16 +11079,16 @@ pot of cold water. They will require about an hour and a
 quarter after they begin to boil; perhaps longer.
 
 Turn them out on a large dish, and be careful in doing so
+-----File: 305.png---\anneakins\natdp\\xlenz\McKeown\----------------------
+not to break the dumplings. Eat them with cream sauce,
+or with wine sauce, or with butter, sugar, and nutmeg beaten
+together.
 
 [Footnote A: Your pudding and dumpling cloths should be squares of coarse
 thick linen, hemmed, and with tape strings sewed to them. After
 using, they should be washed, dried, and ironed; and kept in one
 of the kitchen drawers, that they may be always ready when
 wanted.]
------File: 305.png---\anneakins\natdp\\xlenz\McKeown\----------------------
-not to break the dumplings. Eat them with cream sauce,
-or with wine sauce, or with butter, sugar, and nutmeg beaten
-together.
 
 
 PIGEON DUMPLINGS OR PUDDINGS.--Take six
@@ -11775,6 +11771,10 @@ Instead of using a figure-mould, you may set it to congea.[**typo for congeal?]
 in tea-cups or wine glasses.
 
 Blanc-mange may be coloured green by mixing with the
+-----File: 324.png---\mpulverman\Blue Berry\\bcoutdoorsman\McKeown\--------
+cream a little juice of spinage; cochineal which has been
+infused in a little brandy for half an hour, will colour it red;
+and saffron will give it a bright yellow tinge.
 
 [Footnote A: You may make the stock for blanc-mange without isinglass, by
 boiling four calves' feet in two quarts of water till reduced one half,
@@ -11783,10 +11783,6 @@ next day. Then clear it from the fat and sediment; cut it into pieces,
 and boil it with the cream and the other ingredients. When you
 take it from the fire, and strain it into the pitcher, keep stirring it till
 it gets cold.]
------File: 324.png---\mpulverman\Blue Berry\\bcoutdoorsman\McKeown\--------
-cream a little juice of spinage; cochineal which has been
-infused in a little brandy for half an hour, will colour it red;
-and saffron will give it a bright yellow tinge.
 
 
 CARRAGEEN BLANC-MANGE.--This is made of a
@@ -11843,7 +11839,7 @@ half a pound of loaf-sugar; and the yolks only of eight eggs
 that have been well beaten. Mix the whole thoroughly;
 place it on hot coals and simmer it, stirring it all the time till
 it boils hard. Then take it off directly, strain it, and put it
-into moulds to conceal.
+into moulds to congeal.
 
 
 CALVES' FOOT JELLY.
@@ -12074,11 +12070,6 @@ that is not fresh and good, should ever be put into cakes; for
 it will give them a disagreeable taste which can never be
 disguised by the other ingredients. Even when of excellent
 quality, the butter will be improved by washing it in cold
-
-[Footnote A: Hickory rods, spaddles, etc. can be obtained by bespeaking them
-at a turner's.
-
-Apple-corers are sold by tinners.]
 -----File: 332.png---\Ballyshea\Blue Berry\\bcoutdoorsman\McKeown\---------
 water, and squeezing and pressing it. Except for gingerbread,
 use only white sugar, (for the finest cakes the best loaf,) and
@@ -12099,6 +12090,11 @@ fork, or a broad knife. It is a very easy process, and should
 be continued till the liquid is all converted into a stiff froth so
 firm that it will not drop from the rods when held up. In
 damp weather it is sometimes difficult to get the froth stiff.
+
+[Footnote A: Hickory rods, spaddles, etc. can be obtained by bespeaking them
+at a turner's.
+
+Apple-corers are sold by tinners.]
 
 The first thing to be done in making cake, is to weigh or
 measure all the ingredients. Next sift the flour, powder the
@@ -12437,8 +12433,6 @@ rind and squeeze into a saucer the juice of three lemons. Beat
 twelve eggs; and when they are as light as possible, beat
 into them gradually and very hard the sugar, adding the
 lemon, and beating the whole for a long time. Then by
-
-[Footnote A: Sponge cake may be made with rice flour.]
 -----File: 342.png---\WordTurtle\Barry E Abrahamsen\\unclecharlie\McKeown\-
 degrees, stir in the flour slowly and lightly; for if the flour
 is stirred hard and fast into sponge cake, it will make it
@@ -12450,6 +12444,8 @@ about ten minutes; taking out one to try when you think they
 are done. Spread them on an inverted sieve to cool. When
 baked in small square cakes, they are generally called Naples
 biscuits.
+
+[Footnote A: Sponge cake may be made with rice flour.]
 
 If you are willing to take the trouble, they will bake much
 nicer in little square paper cases, which you must make of
@@ -13435,6 +13431,8 @@ again.
 -----File: 370.png---\Maven32\Blue Berry\\geegeemom\McKeown\---------------
 
 
+
+
 BREAD.
 
 Take one peck or two gallons of fine wheat flour, and sift
@@ -13682,9 +13680,6 @@ then squeeze and work it for a long time. If any of the milk
 is allowed to remain in, it will speedily turn sour and spoil
 the butter. Set it away in a cool place for three hours, and
 then work it over again.[A] Wash it in cold water; weigh
-
-[Footnote A: A marble slab or table will be found of great advantage in
-working and making up butter.]
 -----File: 377.png---\Maven32\timpsc\\geegeemom\McKeown\-------------------
 it; make it up into separate pounds, smoothing and shaping
 it; and clap each pound on your wooden butter print, dipping
@@ -13693,6 +13688,9 @@ cloth on a bench in the spring-house; place the butter on it,
 and let it set till it becomes perfectly hard. Then wrap each
 pound in a separate piece of linen that has been dipped in cold
 water.
+
+[Footnote A: A marble slab or table will be found of great advantage in
+working and making up butter.]
 
 Pour the buttermilk into a clean crock, and place it in the
 spring-house, with a saucer to dip it out with. Keep the pot
@@ -13788,12 +13786,6 @@ into slices; chop it coarse; put a cloth about it; place it in
 the cheese-hoop or mould, and set it in the screw press for
 half an hour, pressing it hard.[A] Then take it out; chop the
 curd very fine; add salt to your taste; and put it again into
-
-[Footnote A: If you are making cheese on a small scale, and have not a
-regular press, put the curd (after you have wrapped it in a cloth)
-into a small circular wooden box or tub with numerous hole's bored
-in the bottom; and with a lid that fits the inside exactly. Lay heavy
-weights on the lid in such a manner as to press evenly all over.]
 -----File: 380.png---\Barry E Abrahamsen\Blue Berry\\geegeemom\McKeown\----
 the cheese-hoop with a cloth about it, and press it again. You
 must always wet the cloth all over to prevent its sticking to
@@ -13804,6 +13796,12 @@ press, where it must remain all day. On the following morning
 again take out the cheese; turn it, renew the cloth, and
 put it again into the press. Three days pressing will be
 sufficient.
+
+[Footnote A: If you are making cheese on a small scale, and have not a
+regular press, put the curd (after you have wrapped it in a cloth)
+into a small circular wooden box or tub with numerous hole's bored
+in the bottom; and with a lid that fits the inside exactly. Lay heavy
+weights on the lid in such a manner as to press evenly all over.]
 
 When you finally take it out of the press, grease the cheese
 all over with lard, and put it on a clean shelf in a dry dark
@@ -15185,14 +15183,14 @@ if the burn is bad, it is best to send for a physician.
 
 FOR CHILBLAINS.--Dip the feet every night and morning
 in cold water, withdrawing them in a minute or two, and
-
-[Footnote A: These remedies are all very simple; but the author <i>knows</i> them
-to have been efficacious whenever tried.]
 -----File: 417.png---\zoeannl\Blue Berry\\gehring\McKeown\-----------------
 drying them by rubbing them very hard with a coarse towel[**punctuation . ]
 To put them immediately into a pail of brine brought from a
 pickle tub is another excellent remedy when feet are found to
 be frosted.
+
+[Footnote A: These remedies are all very simple; but the author <i>knows</i> them
+to have been efficacious whenever tried.]
 
 
 FOR CORNS.--Mix together a little Indian meal and cold
@@ -15735,7 +15733,7 @@ of water makes a very refreshing summer drink.
 
 
 PATENT YEAST.--Boil half a pound of fresh hops in
-four quarts of water, till the liquid is reduced to two quarts
+four quarts of water, till the liquid is reduced to two quarts[** .]
 -----File: 432.png---\KnappBill\honeybun\\Neanderthal\McKeown\-------------
 Strain it, and mix in sufficient wheat flour to make a thin
 batter; adding half a pint of strong fresh yeast, (brewer's
@@ -15773,7 +15771,7 @@ they are quite dry, take them out, and replace them with
 others. Pick the leaves from the stems, (which may be
 thrown away,) and put them into bottles or jars; cork them
 -----File: 433.png---\Scarlie\honeybun\\Neanderthal\McKeown\---------------
-ightly[** poor image possibly-tightly], and keep them in a dry place. Those that are used
+tightly[** poor image possibly-tightly], and keep them in a dry place. Those that are used
 in cookery should be kept in a kitchen closet.
 
 
@@ -15994,6 +15992,7 @@ cucumbers. The lemon must boil in the syrup but ten minutes.
 Then strain the syrup all over the cucumbers, and
 put them up in glass jars.
 -----File: 439.png---\KnappBill\honeybun\\Neanderthal\McKeown\-------------
+
 If they are not quite clear, boil them in a third syrup.
 Small green melons may be preserved in this manner.
 
@@ -16337,7 +16336,7 @@ bag.
 
 
 PINK CHAMPAGNE JELLY.--Beat up the white of
-an egg to a stiff froth, and then stir it hard into three wineglasses
+an egg to a stiff froth, and then stir it hard into three wine-*glasses
 of filtered water. Put twelve ounces of the best double-refined
 loaf-sugar (powdered fine and sifted) into a skillet
 lined with porcelain. Pour on it the white of egg and water,
@@ -18523,11 +18522,8 @@ boiled the liver and heart, chop them to enrich the gravy.
 -----File: 509.png---\KnappBill\natdp\\Neanderthal\McKeown\----------------
 
 
-
-
 FIGURES EXPLANATORY OF THE PIECES INTO WHICH THE FIVE
 LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.[**if there is no text, just a caption, is it still a section -- and does it depend on the tree falling in the forest?]
-
 
 [Illustration: <i>Beef</i>
 
@@ -19246,7 +19242,7 @@ Ham, to boil, 124.
 
 Ham, to broil, 123.
 
-Ham or bacon, directions for curing, 12?. [** Can't read last digit of figure]
+Ham or bacon, directions for curing, 126. [** Can't read last digit of figure]
 
 Ham, (to glaze,) 132.
 
@@ -20048,7 +20044,7 @@ Strawberry cordial, 400.
 
 Sturgeon cutlets, 54.
 
-Sherry Cobler, 406,[**.]
+Sherry Cobler, 406,[**.][**out of alpha]
 */
 -----File: 530.png---\KnappBill\Blue Berry\\Neanderthal\McKeown\-----------
 
