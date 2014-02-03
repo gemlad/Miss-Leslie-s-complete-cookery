@@ -210,15 +210,15 @@ Veal                                                                  93
 
 Mutton and Lamb                                                      106
 
-Pork; including Bacon, Sausages, &c                                  114
+Pork; including Bacon, Sausages, &c.                                  114
 
-Venison; Hares, Rabbits, &c                                          133
+Venison; Hares, Rabbits, &c.                                          133
 
 Poultry and Game                                                     140
 
 Gravy and Sauces                                                     162
 
-Store Fish Sauces; Catchups, &c                                      171
+Store Fish Sauces; Catchups, &c.                                      171
 
 Flavoured Vinegars                                                   179
 
@@ -237,10 +237,10 @@ Syllabubs; also Ice Creams and Blancmange                            318
 Cakes; including various sweet Cakes and Gingerbread                 334
 
 Warm Cakes for Breakfast and Tea; also, Bread, Yeast, Butter,
-Cheese, Tea, Coffee, &c                                              367
+Cheese, Tea, Coffee, &c.                                              367
 
 Domestic Liquors; including home-made Beer, Wines, Shrub,
-Cordials, &c                                                         391
+Cordials, &c.                                                         391
 
 Preparations for the Sick                                            411
 
@@ -4107,7 +4107,7 @@ one on a plate and try it. If it is the least red inside, return
 it to the gridiron. Have ready a gravy made of the trimmings,
 or any coarse pieces of pork stewed in a little water with
 chopped onions and sage, and skimmed carefully. When all
-the essence is extracted, take out the bits of meat, &c, and
+the essence is extracted, take out the bits of meat, &c. and
 serve up the gravy in a boat to eat with the steaks.
 
 They should be accompanied with apple-sauce.
@@ -18079,7 +18079,7 @@ of the Best End.]
 [Illustration: <i>Pork.</i>
 
 /*
-1 Leg.
+1. Leg.
 2. Hind Loin.
 3. Fore Loin.
 4. Spare Rib.
@@ -18098,7 +18098,6 @@ of the Best End.]
 5. Scrag.
 */
 ]
-[Blank Page]
 
 
 
