@@ -507,10 +507,13 @@ boiling water to cover it well, and salt it to your taste.
 Skim it the moment the fresh piece of meat begins to boil,
 and about every quarter of an hour afterwards. It should
 boil slowly five hours. Prepare half a dozen turnips, four
-carrots,[A] and three onions, (all cut up, but not small,) and put
+carrots,[B] and three onions, (all cut up, but not small,) and put
 them in about an hour and a half before dinner. You may
 also put in some small dumplings. Add some chopped
 parsley.
+
+[Footnote B: The carrots should be put in early, as they require a long time to
+boil; if full grown, at least three hours.]
 
 Cut the meat off the scrag into small pieces, and send it to
 table in the tureen with the soup. The other half of the
@@ -544,9 +547,6 @@ the suet as fine as possible, rub it into the flour, and mix it
 into a dough with a little cold water. Roll it out thick, and
 cut it into dumplings about as large as the top of a tumbler,
 and boil them an hour.
-
-[Footnote A: The carrots should be put in early, as they require a long time to
-boil; if full grown, at least three hours.]
 
 
 VEAL SOUP.
@@ -1031,7 +1031,11 @@ sprig of mint and five quarts of water. Boil it moderately
 fast, and skim it well. When the meat is boiled to rags,
 strain it out, and put to the liquor a quart of young green
 peas. Boil them till they are entirely dissolved, and till they
-have thickened the soup, and given it a green colour.[A]
+have thickened the soup, and given it a green colour.[C]
+
+[Footnote C: You may greatly improve the colour by pounding a handful of
+spinach in a mortar, straining the juice, and adding it to the soup
+about a quarter of an hour before it has done boiling.]
 
 Have ready two quarts of green peas that have been boiled
 in another pot with a sprig of mint, and two or three lumps
@@ -1069,10 +1073,6 @@ strained. Or you may colour it with the juice of boiled
 spinach squeezed through a cloth. The spinach juice should
 be put in fifteen or ten minutes before you take up the soup,
 as a short boiling in it will take off the peculiar taste.
-
-[Footnote A: You may greatly improve the colour by pounding a handful of
-spinach in a mortar, straining the juice, and adding it to the soup
-about a quarter of an hour before it has done boiling.]
 
 
 FRIAR'S CHICKEN.
@@ -2452,7 +2452,11 @@ dry place.
 In carving a round of beef, slice it horizontally and very
 thin. Do not help any one to the outside pieces, as they are
 generally too hard and salt. French mustard is very nice
-with corned beef.[A]
+with corned beef.[D]
+
+[Footnote D: French mustard is made of the very best mustard powder, diluted
+with tarragon vinegar mixed with an equal portion of sweet oil, adding
+a few drops of garlic vinegar. Use a wooden spoon.]
 
 This receipt will apply equally to any piece of corned beef,
 except that being less solid than the round, they will, in proportion
@@ -2480,10 +2484,6 @@ and, unless the beef is remarkably fine and tender, the steaks
 will be much improved by beating them on both sides with a
 steak mallet, or with a rolling-pin. Do not season them till
 you take them from the fire.
-
-[Footnote A: French mustard is made of the very best mustard powder, diluted
-with tarragon vinegar mixed with an equal portion of sweet oil, adding
-a few drops of garlic vinegar. Use a wooden spoon.]
 
 Have ready on your hearth a fine bed of clear bright coals,
 entirely free from smoke and ashes. Set the gridiron over
@@ -9639,7 +9639,7 @@ milk may remain in it; and then make it up with your
 hands into a round lump, and put it in ice till you are ready to
 use it. Then divide the butter into four equal parts. Cut up
 one of the quarters into the pan of flour; and divide the remaining
-three quarters into six pieces,[A] cutting each quarter
+three quarters into six pieces,[E] cutting each quarter
 in half. Mix with a knife the flour and butter that is in the
 pan, adding by degrees a very little cold water till you have
 made it into a lump of stiff dough. Then sprinkle some flour
@@ -9659,7 +9659,7 @@ rolling-pin, observe always to roll from you. Bake the paste
 in a moderate oven, but rather quick than slow. No air must
 be admitted to it while baking.
 
-[Footnote A: Or into nine; and roll it in that number of times.]
+[Footnote E: Or into nine; and roll it in that number of times.]
 
 The edges of paste should always be notched before it goes
 into the oven. For this purpose, use a sharp penknife, dipping
@@ -10775,20 +10775,20 @@ all the moisture may evaporate. Pare a dozen pippins or
 other large juicy apples, and scoop out the core. Then fill
 up the cavity with marmalade, or with lemon and sugar.
 Cover every apple all over with a thick coating of the boiled
-rice. Tie up each in a separate cloth,[A] and put them into a
+rice. Tie up each in a separate cloth,[F] and put them into a
 pot of cold water. They will require about an hour and a
 quarter after they begin to boil; perhaps longer.
+
+[Footnote F: Your pudding and dumpling cloths should be squares of coarse
+thick linen, hemmed, and with tape strings sewed to them. After
+using, they should be washed, dried, and ironed; and kept in one
+of the kitchen drawers, that they may be always ready when
+wanted.]
 
 Turn them out on a large dish, and be careful in doing so
 not to break the dumplings. Eat them with cream sauce,
 or with wine sauce, or with butter, sugar, and nutmeg beaten
 together.
-
-[Footnote A: Your pudding and dumpling cloths should be squares of coarse
-thick linen, hemmed, and with tape strings sewed to them. After
-using, they should be washed, dried, and ironed; and kept in one
-of the kitchen drawers, that they may be always ready when
-wanted.]
 
 
 PIGEON DUMPLINGS OR PUDDINGS.--Take six
@@ -11433,7 +11433,7 @@ BLANC-MANGE.
 Put into a pan an ounce of isinglass; (in warm weather
 you must take an ounce and a quarter;) pour on as much
 rose water as will cover the isinglass, and set it on hot coals
-to dissolve.[A] Blanch a quarter of a pound of shelled almonds,
+to dissolve.[G] Blanch a quarter of a pound of shelled almonds,
 (half sweet and half bitter,) and beat them to a paste in a mortar,
 (one at a time,) moistening them all the while with a
 little rose water. Stir the almonds by degrees into a quart of
@@ -11449,6 +11449,14 @@ water round the moulds, loosen the blanc-mange round the
 edges with a knife, and turn it out into glass dishes. It is
 best to make it the day before it is wanted.
 
+[Footnote G: You may make the stock for blanc-mange without isinglass, by
+boiling four calves' feet in two quarts of water till reduced one half,
+and till the meat is entirely to rags. Strain it, and set it away till
+next day. Then clear it from the fat and sediment; cut it into pieces,
+and boil it with the cream and the other ingredients. When you
+take it from the fire, and strain it into the pitcher, keep stirring it till
+it gets cold.]
+
 Instead of using a figure-mould, you may set it to congeal
 in tea-cups or wine glasses.
 
@@ -11456,14 +11464,6 @@ Blanc-mange may be coloured green by mixing with the
 cream a little juice of spinage; cochineal which has been
 infused in a little brandy for half an hour, will colour it red;
 and saffron will give it a bright yellow tinge.
-
-[Footnote A: You may make the stock for blanc-mange without isinglass, by
-boiling four calves' feet in two quarts of water till reduced one half,
-and till the meat is entirely to rags. Strain it, and set it away till
-next day. Then clear it from the fat and sediment; cut it into pieces,
-and boil it with the cream and the other ingredients. When you
-take it from the fire, and strain it into the pitcher, keep stirring it till
-it gets cold.]
 
 
 CARRAGEEN BLANC-MANGE.--This is made of a
@@ -11724,7 +11724,12 @@ want tin cutters for cakes that are rolled out in dough.
 
 All the utensils should be cleaned and put away as soon as
 they are done with. They should be all kept together, and,
-if possible, not used for any other purposes.[A]
+if possible, not used for any other purposes.[H]
+
+[Footnote H: Hickory rods, spaddles, etc. can be obtained by bespeaking them
+at a turner's.
+
+Apple-corers are sold by tinners.]
 
 As it is always desirable that cake-making should be commenced
 at an early hour, it is well on the day previous to
@@ -11763,11 +11768,6 @@ fork, or a broad knife. It is a very easy process, and should
 be continued till the liquid is all converted into a stiff froth so
 firm that it will not drop from the rods when held up. In
 damp weather it is sometimes difficult to get the froth stiff.
-
-[Footnote A: Hickory rods, spaddles, etc. can be obtained by bespeaking them
-at a turner's.
-
-Apple-corers are sold by tinners.]
 
 The first thing to be done in making cake, is to weigh or
 measure all the ingredients. Next sift the flour, powder the
@@ -12091,7 +12091,7 @@ baked.
 You may bake small jelly cakes in muffin rings.
 
 
-SPONGE CAKE.--Sift half a pound of flour,[A] and
+SPONGE CAKE.--Sift half a pound of flour,[I] and
 powder a pound of the best loaf-sugar. Grate the yellow
 rind and squeeze into a saucer the juice of three lemons. Beat
 twelve eggs; and when they are as light as possible, beat
@@ -12108,7 +12108,7 @@ are done. Spread them on an inverted sieve to cool. When
 baked in small square cakes, they are generally called Naples
 biscuits.
 
-[Footnote A: Sponge cake may be made with rice flour.]
+[Footnote I: Sponge cake may be made with rice flour.]
 
 If you are willing to take the trouble, they will bake much
 nicer in little square paper cases, which you must make of
@@ -13133,7 +13133,11 @@ the air in a box or basket with a close lid. Unless you have
 other things to bake at the same time, it is not worth while to
 heat a brick oven for a small quantity of bread. Two or three
 loaves can be baked very well in a stove, (putting them into
-square iron pans,) or in a Dutch oven.[A]
+square iron pans,) or in a Dutch oven.[J]
+
+[Footnote J: If you bake bread in a Dutch oven, take off the lid when the
+loaf is done, and let it remain in the oven uncovered for a quarter of
+an hour.]
 
 If the bread has been mixed over night (which should never
 be done in warm weather) and is found, on tasting it, to be
@@ -13160,13 +13164,9 @@ in preference to any other. If the yeast is home-made, or not
 very strong and fresh, double or treble the quantity mentioned
 in the receipt will be necessary to raise the bread. On the
 other hand, if too much yeast is put in, the bread will be
-disagreeably bitter.[B]
+disagreeably bitter.[K]
 
-[Footnote A: If you bake bread in a Dutch oven, take off the lid when the
-loaf is done, and let it remain in the oven uncovered for a quarter of
-an hour.]
-
-[Footnote B: If you are obliged from its want of strength to put in a large
+[Footnote K: If you are obliged from its want of strength to put in a large
 quantity of yeast, mix with it two or three handfuls of bran; add the
 warm water to it, and then strain it through a sieve or cloth; or you
 may correct the bitterness by putting in a few bits of charcoal and
@@ -13308,7 +13308,7 @@ to get out all that remains of the milk. Add a little salt, and
 then squeeze and work it for a long time. If any of the milk
 is allowed to remain in, it will speedily turn sour and spoil
 the butter. Set it away in a cool place for three hours, and
-then work it over again.[A] Wash it in cold water; weigh
+then work it over again.[L] Wash it in cold water; weigh
 it; make it up into separate pounds, smoothing and shaping
 it; and clap each pound on your wooden butter print, dipping
 the print every time in cold water. Spread a clean linen
@@ -13317,7 +13317,7 @@ and let it set till it becomes perfectly hard. Then wrap each
 pound in a separate piece of linen that has been dipped in cold
 water.
 
-[Footnote A: A marble slab or table will be found of great advantage in
+[Footnote L: A marble slab or table will be found of great advantage in
 working and making up butter.]
 
 Pour the buttermilk into a clean crock, and place it in the
@@ -13410,7 +13410,7 @@ a pan under it to catch the droppings. After all the whey is
 drained out, put the curd into the cheese-tray, and cut it again
 into slices; chop it coarse; put a cloth about it; place it in
 the cheese-hoop or mould, and set it in the screw press for
-half an hour, pressing it hard.[A] Then take it out; chop the
+half an hour, pressing it hard.[M] Then take it out; chop the
 curd very fine; add salt to your taste; and put it again into
 the cheese-hoop with a cloth about it, and press it again. You
 must always wet the cloth all over to prevent its sticking to
@@ -13422,7 +13422,7 @@ again take out the cheese; turn it, renew the cloth, and
 put it again into the press. Three days pressing will be
 sufficient.
 
-[Footnote A: If you are making cheese on a small scale, and have not a
+[Footnote M: If you are making cheese on a small scale, and have not a
 regular press, put the curd (after you have wrapped it in a cloth)
 into a small circular wooden box or tub with numerous hole's bored
 in the bottom; and with a lid that fits the inside exactly. Lay heavy
@@ -14761,12 +14761,15 @@ lead with a bottle of rain or river water. Then add two table-spoonfuls
 of brandy, and shake it well.
 
 
-REMEDY FOR A BURN.[A]--After immediately applying
+REMEDY FOR A BURN.[N]--After immediately applying
 sweet oil, scrape the inside of a raw potato, and lay some of
 it on the place, securing it with a rag. In a short time put on
 fresh potato, and repeat this application very frequently. It
 will give immediate ease, and draw out the fire. Of course,
 if the burn is bad, it is best to send for a physician.
+
+[Footnote N: These remedies are all very simple; but the author <i>knows</i> them
+to have been efficacious whenever tried.]
 
 
 FOR CHILBLAINS.--Dip the feet every night and morning
@@ -14775,9 +14778,6 @@ drying them by rubbing them very hard with a coarse towel.
 To put them immediately into a pail of brine brought from a
 pickle tub is another excellent remedy when feet are found to
 be frosted.
-
-[Footnote A: These remedies are all very simple; but the author <i>knows</i> them
-to have been efficacious whenever tried.]
 
 
 FOR CORNS.--Mix together a little Indian meal and cold
