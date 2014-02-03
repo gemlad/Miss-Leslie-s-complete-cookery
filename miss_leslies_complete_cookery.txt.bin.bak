@@ -3230,13 +3230,13 @@ $::operationshash{'Found no more /p..p/ blocks'}='2014-02-02 20:22';
 $::operationshash{'Found no more indented blocks'}='2014-02-02 20:22';
 $::operationshash{'Found no more orphaned ()'}='2014-02-02 20:23';
 $::operationshash{'Found no more orphaned /# #/'}='2014-02-02 20:23';
-$::operationshash{'Found no more orphaned []'}='2014-02-02 20:23';
+$::operationshash{'Found no more orphaned []'}='2014-02-02 22:15';
 $::operationshash{'Found no more /$..$/ blocks'}='2014-02-02 20:22';
 $::operationshash{'Found no more orphaned {}'}='2014-02-02 20:23';
 $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 
-$::bookmarks[0] = '20072.1';
+$::bookmarks[0] = '3915.59';
 $::bookmarks[1] = '19205.26';
 $::bookmarks[2] = '3209.0';
 
