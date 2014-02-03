@@ -45,7 +45,7 @@
  'Pg044' => {'offset' => '1506.58', 'label' => 'Pg 48', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg045' => {'offset' => '1540.28', 'label' => 'Pg 49', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg046' => {'offset' => '1574.53', 'label' => 'Pg 50', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg047' => {'offset' => '1608.64', 'label' => 'Pg 51', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg047' => {'offset' => '1608.63', 'label' => 'Pg 51', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg048' => {'offset' => '1645.55', 'label' => 'Pg 52', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg049' => {'offset' => '1680.59', 'label' => 'Pg 53', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg050' => {'offset' => '1717.50', 'label' => 'Pg 54', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -272,7 +272,7 @@
  'Pg271' => {'offset' => '9579.60', 'label' => 'Pg 275', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg272' => {'offset' => '9614.47', 'label' => 'Pg 276', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg273' => {'offset' => '9649.60', 'label' => 'Pg 277', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg274' => {'offset' => '9687.59', 'label' => 'Pg 278', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg274' => {'offset' => '9687.58', 'label' => 'Pg 278', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg275' => {'offset' => '9722.34', 'label' => 'Pg 279', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg276' => {'offset' => '9762.38', 'label' => 'Pg 280', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg277' => {'offset' => '9797.50', 'label' => 'Pg 281', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -346,7 +346,7 @@
  'Pg345' => {'offset' => '12205.63', 'label' => 'Pg 349', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg346' => {'offset' => '12238.25', 'label' => 'Pg 350', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg347' => {'offset' => '12274.53', 'label' => 'Pg 351', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg348' => {'offset' => '12308.58', 'label' => 'Pg 352', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg348' => {'offset' => '12308.57', 'label' => 'Pg 352', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg349' => {'offset' => '12343.54', 'label' => 'Pg 353', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg350' => {'offset' => '12379.54', 'label' => 'Pg 354', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg351' => {'offset' => '12414.64', 'label' => 'Pg 355', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -427,7 +427,7 @@
  'Pg426' => {'offset' => '15096.53', 'label' => 'Pg 430', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg427' => {'offset' => '15134.44', 'label' => 'Pg 431', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg428' => {'offset' => '15171.51', 'label' => 'Pg 432', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg429' => {'offset' => '15205.60', 'label' => 'Pg 433', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg429' => {'offset' => '15205.59', 'label' => 'Pg 433', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg430' => {'offset' => '15237.17', 'label' => 'Pg 434', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg431' => {'offset' => '15274.58', 'label' => 'Pg 435', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg432' => {'offset' => '15309.63', 'label' => 'Pg 436', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -3218,12 +3218,8 @@ $::proofers{'536'}[3] = '';
 $::proofers{'536'}[4] = 'Neanderthal';
 $::proofers{'536'}[5] = 'McKeown';
 
-$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-02-02 20:23';
-$::operationshash{'Check Character Cnts'}='2014-02-03 14:54';
-$::operationshash{'Found no more orphaned /$ $/'}='2014-02-02 20:23';
-$::operationshash{'Found no more orphaned „ “'}='2014-02-02 20:23';
+$::operationshash{'Check Stealthos Word Frequency'}='2014-02-03 15:48';
 $::operationshash{'Begin Page Separators Fixup'}='2014-02-03 14:10';
-$::operationshash{'Found last page separator'}='2014-02-03 14:19';
 $::operationshash{'Check hyphens'}='2014-02-03 15:02';
 $::operationshash{'Fixup Routine'}='2014-02-03 13:43';
 $::operationshash{'Found no more orphaned /* */'}='2014-02-02 20:23';
@@ -3231,22 +3227,32 @@ $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Miss Leslie\'s complete
 $::operationshash{'Found no more /#..#/ blocks'}='2014-02-02 20:22';
 $::operationshash{'Spellcheck'}='2014-02-02 16:53';
 $::operationshash{'Found no more orphaned <>'}='2014-02-02 20:23';
-$::operationshash{'Gutcheck'}='2014-02-03 14:21';
-$::operationshash{'Found no more /p..p/ blocks'}='2014-02-02 20:22';
+$::operationshash{'WF Check Ital/Bold/SC'}='2014-02-03 15:47';
 $::operationshash{'Found no more orphaned ()'}='2014-02-02 20:23';
-$::operationshash{'Check emdashes'}='2014-02-03 14:56';
-$::operationshash{'Found no more indented blocks'}='2014-02-02 20:22';
-$::operationshash{'Found no more orphaned /# #/'}='2014-02-02 20:23';
 $::operationshash{'Found no more asterisks without slash'}='2014-02-03 15:02';
 $::operationshash{'Found no more orphaned []'}='2014-02-02 22:15';
 $::operationshash{'Found no more /$..$/ blocks'}='2014-02-02 20:22';
+$::operationshash{'Word Frequency'}='2014-02-03 15:47';
+$::operationshash{'Check words with possible ligatures'}='2014-02-03 15:48';
+$::operationshash{'Check . lower'}='2014-02-03 15:47';
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-02-02 20:23';
+$::operationshash{'Check Character Cnts'}='2014-02-03 14:54';
+$::operationshash{'Found last page separator'}='2014-02-03 14:19';
+$::operationshash{'Found no more orphaned „ “'}='2014-02-02 20:23';
+$::operationshash{'Found no more orphaned /$ $/'}='2014-02-02 20:23';
+$::operationshash{'Found no more /p..p/ blocks'}='2014-02-02 20:22';
+$::operationshash{'Gutcheck'}='2014-02-03 14:21';
+$::operationshash{'Found no more indented blocks'}='2014-02-02 20:22';
+$::operationshash{'Check emdashes'}='2014-02-03 14:56';
+$::operationshash{'Found no more orphaned /# #/'}='2014-02-02 20:23';
+$::operationshash{'Check , Upper'}='2014-02-03 15:43';
 $::operationshash{'Found no more orphaned {}'}='2014-02-02 20:23';
-$::operationshash{'Word Frequency'}='2014-02-03 15:02';
+$::operationshash{'Check Accents'}='2014-02-03 15:39';
 $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
-$::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
+$::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 
-$::bookmarks[0] = '17978.1';
+$::bookmarks[0] = '12308.58';
 $::bookmarks[1] = '18676.26';
 $::bookmarks[2] = '3120.0';
 
