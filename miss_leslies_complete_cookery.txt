@@ -1,4 +1,14 @@
+Transcriber's note:
 
+
+Text enclosed by underscores is in italics (_italics_). Text enclosed
+by equal signs is in bold (=bold=).
+
+Corrections and alterations from the original can be found at the end
+of the book.
+
+Scans of the original book can be found at
+https://archive.org/details/misslesliescompcol00lesl
 
 
 
@@ -19921,4 +19931,80 @@ Tomata soup, 483.
 
 
 Union pudding, 490.
+*/
+
+
+
+
+Transcriber's note:
+
+
+Printer errors such as missing punctuation have been corrected
+silently. Mis-spellings have been corrected if they were deemed to be
+printer errors, but those deemed to be deliberate spelling variations
+have been retained.
+
+The following alterations have been made (the whole original line given
+for context):
+
+/*[2]
+  p.22 three large turnips, and slice them also. Wash clean and cu
+  - 't' added to final word 'cut'.
+  p.38 oysters; and when it comes to a boil again, they will be
+  sufciently - 'sufciently' corrected to sufficiently.
+  p.52 but into a cold place will keep a fortnight. - 'but'
+  corrected to 'put'.
+  p.60 of it is too thick, thin it with some additional milk. -
+  'of' corrected to 'If'.
+  p.83 ten minutes, but do not allow it to boil, lest (having beef
+  - 'beef' corrected to 'been'.
+  p.87 hours till it is quite tender, cut it up into small pieces.
+  Pu - 't' added to final word 'Put'.
+  p.89 great deal of salt well into it. Cover it carefully, and
+  keen - 'keen' corrected to 'keep'
+  p.99 two pounds of flour. Divide it into two pieces, oll it out -
+  'oll' corrected to 'roll'.
+  p.105 them to pieces and pound them to a paste in a mortar,
+  moist-tening - 'moist-tening' corrected to 'moistening'.
+  p.112 tomatas or tomata catchup, and shred or powdered swee - 't'
+  added to final word 'sweet'.
+  p.130 cloves; and one clove or garlic minced very fine. - 'or'
+  corrected to 'of'.
+  p.156 of cream or rich mllk, and the beaten yolks of three -
+  'mllk' corrected to 'milk'.
+  p.162 If must be stewed for a long time, skimmed, strained,
+  thickened, - 'If' corrected to 'It'.
+  p.174 In using this catchup, allow four table-spoonfuls to a
+  common-seized - 'common-seized' corrected to 'common-sized'.
+  p.198 before roasting. Take large onions, place them on a ho -
+  't' added to final word 'hot'.
+  p.210 a iittle at a time. Keep stirring it gently, and continue
+  to do - 'iittle' corrected to 'little'.
+  p.291 &c. Add the spice, and lastly the currants; having dredges
+  - 'dredges' corrected to 'dredged'.
+  p.293 pound of brown sugar, and a table-spooonful of powdered
+  cinnamon. - 'table-spooonful' corrected to 'table-spoonful'.
+  p.301 being long and thoroughly boiled. If sufficienlty cooked,
+  it is - 'sufficienlty' corrected to 'sufficiently'.
+  p.327 Instead of using a figure-mould, you may set it to congea.
+  - 'congea.' corrected to 'congeal'.
+  p.359 ones that are to hold four at a time; as the wafflles baked
+  in - 'wafflles' corrected to 'waffles'.
+  p.365 almond into two slips. Spread them over a lage dish, and -
+  'lage' corrected to 'large'.
+  p.367 melted; then stir it well, and set it away too cool. Beat
+  five - 'too' corrected to 'to'.
+  p.405 is a mixture of brandy or rum, sugar, milk and nutmeg,
+  with-without - 'with-without' is probably an error but has been
+  left uncorrected as the intention is unclear.
+  p.425 jasmine, wall-flower, tuberose, magnolia blossoms, or and -
+  'and' corrected to 'any'.
+  p.445 in three-quarters of a pound of powdered white sugar, an -
+  'd' added to final word 'and' (scan unclear).
+  p.445 melt a small tea-spoonful of sal-aratus or pearl-ash in a
+  pi - 'nt' added to final word 'pint' (scan unclear).
+  p.463 interpersed (as above) with bits of butter, and layers of
+  grated - 'interpersed' corrected to 'interspersed'.
+  p.468 After it has congealed in the freezer, yon may transfer it
+  to - 'yon' (upside-down u) corrected to 'you'.
 */
