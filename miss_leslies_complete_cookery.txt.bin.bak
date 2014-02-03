@@ -126,7 +126,7 @@
  'Pg125' => {'offset' => '4505.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg126' => {'offset' => '4542.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg127' => {'offset' => '4579.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg128' => {'offset' => '4614.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg128' => {'offset' => '4613.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg129' => {'offset' => '4650.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg130' => {'offset' => '4685.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg131' => {'offset' => '4718.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -193,7 +193,7 @@
  'Pg192' => {'offset' => '6985.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg193' => {'offset' => '7020.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg194' => {'offset' => '7057.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg195' => {'offset' => '7095.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg195' => {'offset' => '7094.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg196' => {'offset' => '7132.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg197' => {'offset' => '7167.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg198' => {'offset' => '7206.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -312,7 +312,7 @@
  'Pg311' => {'offset' => '11314.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg312' => {'offset' => '11351.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg313' => {'offset' => '11388.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg314' => {'offset' => '11424.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg314' => {'offset' => '11423.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg315' => {'offset' => '11458.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg316' => {'offset' => '11493.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg317' => {'offset' => '11529.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -3219,8 +3219,9 @@ $::proofers{'536'}[4] = 'Neanderthal';
 $::proofers{'536'}[5] = 'McKeown';
 
 $::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-02-02 20:23';
-$::operationshash{'Found no more orphaned „ “'}='2014-02-02 20:23';
 $::operationshash{'Found no more orphaned /$ $/'}='2014-02-02 20:23';
+$::operationshash{'Found no more orphaned „ “'}='2014-02-02 20:23';
+$::operationshash{'Fixup Routine'}='2014-02-03 13:43';
 $::operationshash{'Found no more orphaned /* */'}='2014-02-02 20:23';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Miss Leslie\'s complete cookery\miss_leslies_complete_cookery.txt'}='';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-02-02 20:22';
@@ -3236,7 +3237,7 @@ $::operationshash{'Found no more orphaned {}'}='2014-02-02 20:23';
 $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 
-$::bookmarks[0] = '3915.59';
+$::bookmarks[0] = '20487.0';
 $::bookmarks[1] = '19205.26';
 $::bookmarks[2] = '3209.0';
 
