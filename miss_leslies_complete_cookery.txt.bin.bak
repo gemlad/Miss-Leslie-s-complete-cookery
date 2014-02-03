@@ -3241,7 +3241,7 @@ $::operationshash{'Found last page separator'}='2014-02-03 14:19';
 $::operationshash{'Found no more orphaned „ “'}='2014-02-02 20:23';
 $::operationshash{'Found no more orphaned /$ $/'}='2014-02-02 20:23';
 $::operationshash{'Found no more /p..p/ blocks'}='2014-02-02 20:22';
-$::operationshash{'Gutcheck'}='2014-02-03 14:21';
+$::operationshash{'Gutcheck'}='2014-02-03 16:15';
 $::operationshash{'Found no more indented blocks'}='2014-02-02 20:22';
 $::operationshash{'Check emdashes'}='2014-02-03 14:56';
 $::operationshash{'Found no more orphaned /# #/'}='2014-02-02 20:23';
@@ -3253,7 +3253,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 
-$::bookmarks[0] = '37.0';
+$::bookmarks[0] = '18090.0';
 $::bookmarks[1] = '18675.26';
 $::bookmarks[2] = '3120.0';
 
