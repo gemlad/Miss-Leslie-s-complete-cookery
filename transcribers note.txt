@@ -1,3 +1,6 @@
+Printer errors such as missing punctuation has been corrected. Mis-spellings have been corrected if they were deemed to be printer errors, but those deemed to be deliberate spelling variations have been retained.
+
+
 img	comment	action
 1	 [** well, the point is not part of the spaced out text on the printed page.]	none
 2	T. K[**.] AND P. G. COLLINS.	point inserted

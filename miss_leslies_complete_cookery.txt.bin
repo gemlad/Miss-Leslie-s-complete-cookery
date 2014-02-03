@@ -3225,7 +3225,7 @@ $::operationshash{'Fixup Routine'}='2014-02-03 13:43';
 $::operationshash{'Found no more orphaned /* */'}='2014-02-02 20:23';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Miss Leslie\'s complete cookery\miss_leslies_complete_cookery.txt'}='';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-02-02 20:22';
-$::operationshash{'Spellcheck'}='2014-02-02 16:53';
+$::operationshash{'Spellcheck'}='2014-02-03 16:25';
 $::operationshash{'Found no more orphaned <>'}='2014-02-02 20:23';
 $::operationshash{'WF Check Ital/Bold/SC'}='2014-02-03 15:47';
 $::operationshash{'Found no more orphaned ()'}='2014-02-02 20:23';
@@ -3253,7 +3253,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 
-$::bookmarks[0] = '19715.5';
+$::bookmarks[0] = '10550.0';
 $::bookmarks[1] = '18675.26';
 $::bookmarks[2] = '3120.0';
 
