@@ -13,44 +13,44 @@ https://archive.org/details/misslesliescompcol00lesl
 
 
 /f
-Miss Leslie's Complete Cookery.
+                    Miss Leslie's Complete Cookery.
 
-DIRECTIONS FOR COOKERY,
-IN ITS
-VARIOUS BRANCHES.
+                        DIRECTIONS FOR COOKERY,
+                                IN ITS
+                           VARIOUS BRANCHES.
 
-BY MISS LESLIE.
+                            BY MISS LESLIE.
 
-FORTY-NINTH EDITION.
+                         FORTY-NINTH EDITION.
 
-THOROUGHLY REVISED, WITH ADDITIONS.
+                  THOROUGHLY REVISED, WITH ADDITIONS.
 
-PHILADELPHIA:
-HENRY CAREY BAIRD,
-(SUCCESSOR TO E. L. CAREY,)
-NO. 7 HART'S BUILDING, SIXTH ST. ABOVE CHESTNUT.
-1853.
+                             PHILADELPHIA:
+                          HENRY CAREY BAIRD,
+                      (SUCCESSOR TO E. L. CAREY,)
+           NO. 7 HART'S BUILDING, SIXTH ST. ABOVE CHESTNUT.
+                                 1853.
 f/
 
 
 
 
 /f
-Entered according to Act of Congress, in the year 1837, by
-E. L. CAREY & A. HART,
-in the Clerk's Office of the District Court of the United States, in and for the
-Eastern District of Pennsylvania.
+      Entered according to Act of Congress, in the year 1837, by
+                        E. L. CAREY & A. HART,
+ in the Clerk's Office of the District Court of the United States, in
+             and for the Eastern District of Pennsylvania.
 
-Entered according to Act of Congress, in the year 1851, by
-HENRY CAREY BAIRD,
-in the Clerk's Office of the District Court of the United States, in and for the
-Eastern District of Pennsylvania.
+      Entered according to Act of Congress, in the year 1851, by
+                          HENRY CAREY BAIRD,
+ in the Clerk's Office of the District Court of the United States, in
+             and for the Eastern District of Pennsylvania.
 f/
 
 /X
-STEREOTYPED BY L. JOHNSON AND CO.
-PHILADELPHIA.
-PRINTED BY T. K. AND P. G. COLLINS.
+   STEREOTYPED BY L. JOHNSON AND CO.
+             PHILADELPHIA.
+  PRINTED BY T. K. AND P. G. COLLINS.
 X/
 
 
@@ -126,9 +126,9 @@ clothes, fine furniture, and other ostentations, only excusable
 when _not_ purchased at the expense of health and comfort.
 
 /*
-ELIZA LESLIE.
+                                                          ELIZA LESLIE.
 
-_Philadelphia, Jan. 16, 1851._
+  _Philadelphia, Jan. 16, 1851._
 */
 
 
@@ -162,14 +162,14 @@ measures from a bushel to a quarter of a peck.
 Let it be remembered, that of liquid measure--
 
 /*
-Two jills are half a pint.
-Two pints--one quart.
-Four quarts--one gallon.
+              Two jills are half a pint.
+              Two pints--one quart.
+              Four quarts--one gallon.
 */
 
 Of dry measure--
 
-/*
+/*[14]
 Half a gallon is a quarter of a peck.
 One gallon--half a peck.
 Two gallons--one peck.
@@ -18031,7 +18031,7 @@ LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.
 
 [Illustration: _Beef_
 
-/*
+/*[2]
  1. Sirloin.
  2. Rump.
  3. Edge Bone.
@@ -18055,7 +18055,7 @@ LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.
 
 [Illustration: _Veal._
 
-/*
+/*[2]
  1. Loin, Best End.
  2. Fillet.
  3. Loin, Chump End.
@@ -18071,7 +18071,7 @@ LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.
 
 [Illustration: _Mutton._
 
-/*
+/*[3]
 1. Leg.
 2. Shoulder.
 3. Loin, Best End.
@@ -18087,7 +18087,7 @@ of the Best End.]
 
 [Illustration: _Pork._
 
-/*
+/*[3]
 1. Leg.
 2. Hind Loin.
 3. Fore Loin.
@@ -18099,7 +18099,7 @@ of the Best End.]
 
 [Illustration: _Venison._
 
-/*
+/*[3]
 1. Shoulder.
 2. Neck.
 3. Haunch.
@@ -18114,7 +18114,7 @@ of the Best End.]
 INDEX.
 
 
-/*
+/*[2]
 Acid salt, 427.
 
 Almond cake, 346.
@@ -19690,7 +19690,7 @@ Yeast, (pumpkin,) 378.
 NEW RECEIPTS.
 
 
-/*
+/*[2]
 Almond bread, 448.
 
 Almond paste, 430.
@@ -19946,7 +19946,7 @@ have been retained.
 The following alterations have been made (the whole original line given
 for context):
 
-/*[2]
+/*
   p.22 three large turnips, and slice them also. Wash clean and cu
   - 't' added to final word 'cut'.
   p.38 oysters; and when it comes to a boil again, they will be

@@ -6,8 +6,8 @@
  'Pg005' => {'offset' => '132.2', 'label' => 'Pg 9', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg006' => {'offset' => '168.2', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg007' => {'offset' => '199.54', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg008' => {'offset' => '267.2', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg009' => {'offset' => '267.2', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg008' => {'offset' => '266.0', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg009' => {'offset' => '266.0', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg010' => {'offset' => '304.58', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg011' => {'offset' => '341.42', 'label' => 'Pg 15', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg012' => {'offset' => '376.61', 'label' => 'Pg 16', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -3258,7 +3258,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 
-$::bookmarks[0] = '267.1';
+$::bookmarks[0] = '164.0';
 $::bookmarks[1] = '18684.26';
 $::bookmarks[2] = '3129.0';
 
