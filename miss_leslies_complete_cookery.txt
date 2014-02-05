@@ -13,7 +13,6 @@ https://archive.org/details/misslesliescompcol00lesl
 
 
 
-/f
                     Miss Leslie's Complete Cookery.
 
                         DIRECTIONS FOR COOKERY,
@@ -31,12 +30,10 @@ https://archive.org/details/misslesliescompcol00lesl
                       (SUCCESSOR TO E. L. CAREY,)
            NO. 7 HART'S BUILDING, SIXTH ST. ABOVE CHESTNUT.
                                  1853.
-f/
 
 
 
 
-/f
       Entered according to Act of Congress, in the year 1837, by
                         E. L. CAREY & A. HART,
  in the Clerk's Office of the District Court of the United States, in
@@ -46,13 +43,10 @@ f/
                           HENRY CAREY BAIRD,
  in the Clerk's Office of the District Court of the United States, in
              and for the Eastern District of Pennsylvania.
-f/
 
-/X
    STEREOTYPED BY L. JOHNSON AND CO.
              PHILADELPHIA.
   PRINTED BY T. K. AND P. G. COLLINS.
-X/
 
 
 
@@ -114,11 +108,9 @@ particularly when there is a lavish expenditure in fine clothes, fine
 furniture, and other ostentations, only excusable when _not_ purchased
 at the expense of health and comfort.
 
-/*
                                                           ELIZA LESLIE.
 
   _Philadelphia, Jan. 16, 1851._
-*/
 
 
 FOOTNOTES:
@@ -156,21 +148,17 @@ peck.
 
 Let it be remembered, that of liquid measure--
 
-/*[14]
               Two jills are half a pint.
               Two pints--one quart.
               Four quarts--one gallon.
-*/
 
 Of dry measure--
 
-/*[14]
               Half a gallon is a quarter of a peck.
               One gallon--half a peck.
               Two gallons--one peck.
               Four gallons--half a bushel.
               Eight gallons--one bushel.
-*/
 
 About twenty-five drops of any thin liquid will fill a common sized
 tea-spoon.
@@ -197,7 +185,6 @@ A table-spoonful of salt is generally about one ounce.
 GENERAL CONTENTS.
 
 
-/X
                                                                     Page
 
  Soups; including those of Fish                                       13
@@ -257,7 +244,6 @@ GENERAL CONTENTS.
  Animals used as Butchers' Meat                                      513
 
  Index                                                               517
-X/
 
 
 
@@ -16223,7 +16209,6 @@ DIVIDED BY THE BUTCHERS.
 
 [Illustration: _Beef_
 
-/*[2]
    1. Sirloin.
    2. Rump.
    3. Edge Bone.
@@ -16242,12 +16227,10 @@ DIVIDED BY THE BUTCHERS.
   16. Neck, or Sticking Piece.
   17. Shin.
   18. Cheek.
-*/
 ]
 
 [Illustration: _Veal._
 
-/*[2]
    1. Loin, Best End.
    2. Fillet.
    3. Loin, Chump End.
@@ -16258,12 +16241,10 @@ DIVIDED BY THE BUTCHERS.
    8. Fore Knuckle.
    9. Breast, Brisket End.
   10. Neck, Scrag End.
-*/
 ]
 
 [Illustration: _Mutton._
 
-/*[3]
    1. Leg.
    2. Shoulder.
    3. Loin, Best End.
@@ -16271,32 +16252,27 @@ DIVIDED BY THE BUTCHERS.
    5. Neck. Best End.
    6. Breast.
    7. Neck, Scrag End.
-*/
 
 _Note._ A Chine is two Loins; and a Saddle is two Loins and two Necks
 of the Best End.]
 
 [Illustration: _Pork._
 
-/*[3]
    1. Leg.
    2. Hind Loin.
    3. Fore Loin.
    4. Spare Rib.
    5. Hand.
    6. Spring.
-*/
 ]
 
 [Illustration: _Venison._
 
-/*[3]
    1. Shoulder.
    2. Neck.
    3. Haunch.
    4. Breast.
    5. Scrag.
-*/
 ]
 
 
@@ -16305,7 +16281,6 @@ of the Best End.]
 INDEX.
 
 
-/*[2]
   Acid salt, 427.
 
   Almond cake, 346.
@@ -17870,7 +17845,6 @@ INDEX.
   Yeast, (patent,) 435.
 
   Yeast, (pumpkin,) 378.
-*/
 
 
 
@@ -17878,7 +17852,6 @@ INDEX.
 NEW RECEIPTS.
 
 
-/*[2]
   Almond bread, 448.
 
   Almond paste, 430.
@@ -18118,7 +18091,6 @@ NEW RECEIPTS.
 
 
   Union pudding, 490.
-*/
 
 
 
@@ -18134,7 +18106,6 @@ have been retained.
 The following alterations have been made (the whole original line given
 for context):
 
-/*
   p.22 three large turnips, and slice them also. Wash clean and cu
   - 't' added to final word 'cut'.
   p.38 oysters; and when it comes to a boil again, they will be
@@ -18194,7 +18165,6 @@ for context):
   grated - 'interpersed' corrected to 'interspersed'.
   p.468 After it has congealed in the freezer, yon may transfer it
   to - 'yon' (upside-down u) corrected to 'you'.
-*/
 
 
 Added index:

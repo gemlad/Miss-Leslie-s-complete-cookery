@@ -3243,7 +3243,7 @@ $::operationshash{'Check Character Cnts'}='2014-02-03 14:54';
 $::operationshash{'Found last page separator'}='2014-02-03 14:19';
 $::operationshash{'Found no more orphaned „ “'}='2014-02-02 20:23';
 $::operationshash{'Found no more orphaned /$ $/'}='2014-02-03 16:54';
-$::operationshash{'Footnote check passed'}='2014-02-05 16:39';
+$::operationshash{'Footnote check passed'}='2014-02-05 16:41';
 $::operationshash{'Remove blank lines before page separators'}='2014-02-05 16:39';
 $::operationshash{'Reindex footnotes'}='2014-02-03 16:36';
 $::operationshash{'Found no more /p..p/ blocks'}='2014-02-02 20:22';
@@ -3259,7 +3259,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 
-$::bookmarks[0] = '13296.0';
+$::bookmarks[0] = '13298.0';
 $::bookmarks[1] = '16875.28';
 $::bookmarks[2] = '2865.0';
 
