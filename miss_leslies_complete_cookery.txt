@@ -4603,7 +4603,7 @@ smooth.
 
 The dressing should not be put on till a few minutes before the salad
 is sent in; as by lying in it the chicken and celery will become tough
-and hard. After you pour it on, mix the the whole well together with a
+and hard. After you pour it on, mix the whole well together with a
 silver fork.
 
 Chicken salad should be accompanied with plates of bread and butter,
@@ -12380,8 +12380,8 @@ three-quarters of a pound of loaf-sugar; mix it with the liquid, and
 let it stand eight or nine hours to dissolve, stirring it several times.
 
 Then pour it into a keg of proper size for containing it, and let it
-ferment at the bung-hole; filling it up as as it works out with some
-of the liquor reserved for that purpose. As soon as it ceases to hiss,
+ferment at the bung-hole; filling it up as it works out with some of
+the liquor reserved for that purpose. As soon as it ceases to hiss,
 stop it close with a cloth wrapped round the bung. A pint of white
 brandy for every gallon of the gooseberry wine may be added on bunging
 it up. At the end of four or five months it will probably be fine
@@ -18128,6 +18128,8 @@ for context):
   added to final word 'sweet'.
   p.130 cloves; and one clove or garlic minced very fine. -- 'or'
   corrected to 'of'.
+  p.148 will become tough and hard. After you pour it on, mix the
+  the -- extra 'the' removed.
   p.156 of cream or rich mllk, and the beaten yolks of three --
   'mllk' corrected to 'milk'.
   p.162 If must be stewed for a long time, skimmed, strained,
@@ -18152,6 +18154,8 @@ for context):
   'lage' corrected to 'large'.
   p.367 melted; then stir it well, and set it away too cool. Beat
   five -- 'too' corrected to 'to'.
+  p.393 let it ferment at the bung-hole; filling it up as as it
+  works out -- extra 'as' removed.
   p.405 is a mixture of brandy or rum, sugar, milk and nutmeg,
   with-without -- 'with-without' is probably an error but has been
   left uncorrected as the intention is unclear.
