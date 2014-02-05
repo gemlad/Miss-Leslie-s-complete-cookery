@@ -526,15 +526,15 @@
  'Pg525' => {'offset' => '17225.18', 'label' => 'Pg 523', 'style' => '"', 'action' => 'Start @', 'base' => '523'},
  'Pg526' => {'offset' => '17309.22', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg527' => {'offset' => '17389.24', 'label' => 'Pg 524', 'style' => '"', 'action' => 'Start @', 'base' => '524'},
- 'Pg528' => {'offset' => '17476.15', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg529' => {'offset' => '17561.23', 'label' => 'Pg 525', 'style' => '"', 'action' => 'Start @', 'base' => '525'},
- 'Pg530' => {'offset' => '17649.21', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg531' => {'offset' => '17734.33', 'label' => 'Pg 526', 'style' => '"', 'action' => 'Start @', 'base' => '526'},
- 'Pg532' => {'offset' => '17784.22', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg533' => {'offset' => '17836.2', 'label' => 'Pg 527', 'style' => '"', 'action' => 'Start @', 'base' => '527'},
- 'Pg534' => {'offset' => '17917.21', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg535' => {'offset' => '17985.23', 'label' => 'Pg 528', 'style' => '"', 'action' => 'Start @', 'base' => '528'},
- 'Pg536' => {'offset' => '18035.28', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg528' => {'offset' => '17475.15', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg529' => {'offset' => '17560.23', 'label' => 'Pg 525', 'style' => '"', 'action' => 'Start @', 'base' => '525'},
+ 'Pg530' => {'offset' => '17648.21', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg531' => {'offset' => '17732.33', 'label' => 'Pg 526', 'style' => '"', 'action' => 'Start @', 'base' => '526'},
+ 'Pg532' => {'offset' => '17782.22', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg533' => {'offset' => '17833.2', 'label' => 'Pg 527', 'style' => '"', 'action' => 'Start @', 'base' => '527'},
+ 'Pg534' => {'offset' => '17914.21', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg535' => {'offset' => '17982.23', 'label' => 'Pg 528', 'style' => '"', 'action' => 'Start @', 'base' => '528'},
+ 'Pg536' => {'offset' => '18032.28', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
 $::proofers{'001'}[1] = 'jbrear';
@@ -3258,7 +3258,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 
-$::bookmarks[0] = '13256.39';
+$::bookmarks[0] = '18162.0';
 $::bookmarks[1] = '16835.28';
 $::bookmarks[2] = '2852.0';
 

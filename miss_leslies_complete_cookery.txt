@@ -4,7 +4,8 @@ Transcriber's note:
 Text enclosed by underscores is in italics (_italics_).
 
 Corrections and alterations from the original can be found at the end
-of the book.
+of the book. The original indexes have been retained, and a new index
+added which combines the two and corrects the alphabetical order.
 
 Scans of the original book can be found at
 https://archive.org/details/misslesliescompcol00lesl
@@ -16830,7 +16831,7 @@ INDEX.
 
   Gooseberry fool, 261.
 
-  Gooseberries, to preserve, 260
+  Gooseberries, to preserve, 260.
 
   Gooseberries, to stew, 261.
 
@@ -17140,7 +17141,7 @@ INDEX.
 
   Mutton chops, stewed, 110.
 
-  Mutton cutlets, à la Maintenon, 109
+  Mutton cutlets, à la Maintenon, 109.
 
   Mutton harico, 111.
 
@@ -17500,7 +17501,7 @@ INDEX.
 
   Rice pudding, (farmer's,) 293.
 
-  Rice pudding, (ground,) 291
+  Rice pudding, (ground,) 291.
 
   Rice pudding, (plain,) 292.
 
@@ -17945,7 +17946,7 @@ NEW RECEIPTS.
 
   Green ointment, 422.
 
-  Green pea soup, (French,) 438
+  Green pea soup, (French,) 438.
 
   Green tomatas, (preserved,) 492.
 
@@ -18155,3 +18156,1794 @@ for context):
   p.468 After it has congealed in the freezer, yon may transfer it
   to - 'yon' (upside-down u) corrected to 'you'.
 */
+
+
+Added index:
+
+  Acid salt, 427.
+
+  Almond bread, 448.
+
+  Almond cake, 346.
+
+  Almond custard, 316.
+
+  Almond ice-cream, 326.
+
+  Almond maccaroons, 351.
+
+  Almond paste, 430.
+
+  Almond pudding, 286.
+
+  Anchovy catchup, 174.
+
+  Anchovy sauce, 164.
+
+  Anniseed cordial, 401
+
+  Another almond pudding, 286.
+
+  Apees, 354.
+
+  Apple and other pies, 281.
+
+  Apple bread pudding, 462.
+
+  Apple butter, 253.
+
+  Apple butter, without cider, 434.
+
+  Apple compote, 455.
+
+  Apple custard, 315.
+
+  Apple custard, 463.
+
+  Apple dumplings, (baked,) 443.
+
+  Apple dumplings, 307.
+
+  Apple fritters, 312.
+
+  Apple jelly, 253.
+
+  Apple pandowdy, 498.
+
+  Apple pork, 504.
+
+  Apple pot-pie, 434.
+
+  Apple pudding, baked, 305.
+
+  Apple pudding, boiled, 306.
+
+  Apple rice pudding, 443.
+
+  Apple sauce, 168.
+
+  Apple water, 417.
+
+  Apples, baked, 252.
+
+  Apples, preserved, 251.
+
+  Apricots, preserved, 247.
+
+  Arrow-root blancmange, 329.
+
+  Arrow-root jelly, 411.
+
+  Arrow-root pudding, 291.
+
+  Artichokes, to boil, 195.
+
+  Asparagus soup, 35.
+
+  Asparagus, to boil, 199.
+
+
+  Balm of Gilead oil, 425.
+
+  Barberries, to pickle, 217.
+
+  Barberry jelly, 270.
+
+  Barley water, 414.
+
+  Bath buns, 344.
+
+  Batter pudding, 440.
+
+  Bean soup, 33.
+
+  Beans, (dried,) to boil, 197.
+
+  Beans, (green or French,) to boil, 197.
+
+  Beans, (green,) to pickle, 215.
+
+  Beans, (Lima,) to boil, and dry 197.
+
+  Beans, (scarlet,) to boil, 197.
+
+  Beef and tongues, to pickle, 90.
+
+  Beef bouilli, 82.
+
+  Beef cakes, 84.
+
+  Beef dripping, to save, 71.
+
+  Beef kidney, to dress, 86.
+
+  Beef soup, fine, 17.
+
+  Beef steak pie, 77.
+
+  Beef steak pudding, 76.
+
+  Beef steaks, to broil, 74.
+
+  Beef steaks, to fry, 76.
+
+  Beef tea, 414.
+
+  Beef's heart, roasted, 85.
+
+  Beef's heart, stewed, 85.
+
+  Beef, (a round of,) to stew another way, 81.
+
+  Beef, (a round of,) to stew, 80.
+
+  Beef, (corned or salted,) to boil, 73.
+
+  Beef, baked, 71.
+
+  Beef, hashed, 83.
+
+  Beef, potted, 92.
+
+  Beef, remarks on, 68.
+
+  Beef, to corn, 89.
+
+  Beef, to dry and smoke, 91.
+
+  Beef, to roast, 69.
+
+  Beef, to stew, 80.
+
+  Beef, à la mode, 78.
+
+  Beer, (molasses,) 392.
+
+  Beer, (sassafras,) 392.
+
+  Beets, to boil, 196.
+
+  Beets, to stew, 197.
+
+  Biscuit ice cream, 467.
+
+  Biscuit, (milk,) 361.
+
+  Biscuit, (soda,) 371.
+
+  Biscuit, (sugar,) 361.
+
+  Biscuit, (tea,) 372.
+
+  Bitters, 419.
+
+  Black cake, 338.
+
+  Black-fish, to stew 431.
+
+  Blanc-mange, (arrow-root,) 329.
+
+  Blanc-mange, (carrageen,) 328.
+
+  Blanc-mange, 327.
+
+  Blood, to stop, 422.
+
+  Boston cream cakes, 458.
+
+  Bottled small beer, 408.
+
+  Bran batter-cakes, 462.
+
+  Bran bread, 377.
+
+  Bread and butter pudding, 299.
+
+  Bread cake, 350.
+
+  Bread jelly, 411.
+
+  Bread pudding, baked, 299.
+
+  Bread pudding, boiled, 298.
+
+  Bread sauce, 167.
+
+  Bread, (rye and Indian,) 377.
+
+  Bread, 374.
+
+  Broccoli, to boil, 188.
+
+  Brown soup, rich, 26.
+
+  Buckwheat cakes, 367.
+
+  Burnet vinegar, 179.
+
+  Burns, remedy for, 420.
+
+  Butter, melted or drawn, 163.
+
+  Butter, to brown, 163.
+
+  Butter, to make, 379.
+
+  Butter, to preserve, 381.
+
+  Butternuts, to pickle, 218.
+
+  Cabbage, (red,) to pickle, 226.
+
+  Cabbage, to boil, 186.
+
+  Cale-cannon, 187.
+
+  Calf's feet broth, 415.
+
+  Calf's feet jelly, 329.
+
+  Calf's feet, to fry, 103.
+
+  Calf's head soup, (fine,) 484.
+
+  Calf's head soup, 30.
+
+  Calf's head, dressed plain, 100.
+
+  Calf's head, hashed, 101.
+
+  Calf's liver, fried, 103.
+
+  Calf's liver, larded, 103.
+
+  Calves' feet soup, 484.
+
+  Cantelope, preserved, 236.
+
+  Caper sauce, 168.
+
+  Capillaire, 403.
+
+  Carp, to stew, 55.
+
+  Carrageen blanc-mange, 328.
+
+  Carrot pudding, 290.
+
+  Carrots, to boil, 189.
+
+  Carving, 490.
+
+  Catfish soup, 36.
+
+  Cauliflower, to boil, 187.
+
+  Cauliflower, to pickle, 225.
+
+  Cayenne pepper, 182.
+
+  Celery sauce, 165.
+
+  Celery vinegar, 179.
+
+  Celery, to prepare for table, 204.
+
+  Charlotte Polonaise, 454.
+
+  Charlotte Russe, (fine,) 471.
+
+  Charlotte Russe, 452.
+
+  Charlotte, (plum,) 321.
+
+  Charlotte, (raspberry,) 320.
+
+  Cheese, (cottage,) 386.
+
+  Cheese, (sage,) 385.
+
+  Cheese, (Stilton,) 385.
+
+  Cheese, to make, 382.
+
+  Cheesecake, (almond,) 294.
+
+  Cheesecake, (common,) 295.
+
+  Cherries, (dried,) 270.
+
+  Cherries, preserved, 268.
+
+  Cherry bounce, 398.
+
+  Cherry cordial, 451.
+
+  Cherry cordial, 451.
+
+  Cherry jam, 270.
+
+  Cherry jelly, 269.
+
+  Cherry shrub, 398.
+
+  Chestnut pudding, 289.
+
+  Chestnuts, to roast, 204.
+
+  Chicken broth and panada, 416.
+
+  Chicken croquets and rissoles, 143.
+
+  Chicken curry, 146.
+
+  Chicken dumplings or puddings, 309.
+
+  Chicken jelly, 411.
+
+  Chicken pie, 144.
+
+  Chicken salad, (French,) 481.
+
+  Chicken salad, 147.
+
+  Chickens, broiled, 142.
+
+  Chickens, fricasseed, 143.
+
+  Chilblains, remedy for, 420.
+
+  Chili vinegar, 180.
+
+  Chitterlings, or calf's tripe, 102.
+
+  Chocolate custard, 317.
+
+  Chocolate, to make, 387.
+
+  Chowder, 55.
+
+  Cider cake, (plain,) 445.
+
+  Cider cake, 347.
+
+  Cider vinegar, 409.
+
+  Cider wine, 396.
+
+  Cider, (mulled,) 407.
+
+  Cinderellas, or German puffs, 297.
+
+  Cinnamon cake, 501.
+
+  Citron cakes, 457.
+
+  Citron melon slices, 269.
+
+  Citrons, to preserve, 234.
+
+  Clam soup, (fine,) 486.
+
+  Clam soup, (plain,) 40.
+
+  Clam soup, 39.
+
+  Clams, (baked,) 486.
+
+  Clotted cream, 321.
+
+  Clove cakes, 460.
+
+  Cocoa shells, to boil, 418.
+
+  Cocoa, to prepare, 418.
+
+  Cocoa-nut cakes, (white,) 353.
+
+  Cocoa-nut cakes, 347.
+
+  Cocoa-nut candy, 491.
+
+  Cocoa-nut custard, baked, 317.
+
+  Cocoa-nut custard, boiled, 317.
+
+  Cocoa-nut jumbles, 353.
+
+  Cocoa-nut maccaroons, 352.
+
+  Cocoa-nut pudding, (West India,) 464.
+
+  Cocoa-nut pudding, 287.
+
+  Cocoa-nut pudding, another way, 287.
+
+  Codfish, (fresh,) to boil another way, 50.
+
+  Codfish, (fresh,) to boil, 50.
+
+  Codfish, salt, to boil, 49.
+
+  Coffee custard, 472.
+
+  Coffee, (French,) 390.
+
+  Coffee, to make, 389.
+
+  Cold cream, 426.
+
+  Cold slaw, 226.
+
+  Cold sweet sauce, 170.
+
+  Cologne water, 423.
+
+  Colouring for confectionary, 333.
+
+  Connecticut loaf cake, 459.
+
+  Cookies, (fine,) 461.
+
+  Corn starch blancmange, 500.
+
+  Corn, (green,) pudding, 290.
+
+  Corn, (Indian,) to boil, 192.
+
+  Corns, remedy for, 421.
+
+  Cosmetic paste, 427.
+
+  Crab-apples, (green,) to preserve, 254.
+
+  Crab-apples, (red,) to preserve, 255.
+
+  Crabs, (cold,) 65.
+
+  Crabs, (hot,) 65.
+
+  Crabs, (soft,) 66.
+
+  Cranberries, to preserve, 264.
+
+  Cranberry sauce, 169.
+
+  Cream cake, 372.
+
+  Cream cheese, 447.
+
+  Cream sauce, 170.
+
+  Cream, (lemon,) 321.
+
+  Cream, (orange,) 321.
+
+  Cream, to preserve, 322.
+
+  Croquant cake, 478.
+
+  Cucumbers, (preserved,) 442.
+
+  Cucumbers, to dress raw, 194.
+
+  Cucumbers, to fry, 194.
+
+  Cucumbers, to pickle, 213.
+
+  Cup cake, (Indian,) 462.
+
+  Cup cake, 354.
+
+  Curaçoa, 435.
+
+  Curds and whey, 322.
+
+  Currant jelly, (black,) 265.
+
+  Currant jelly, (red,) 264.
+
+  Currant jelly, (white,) 265.
+
+  Currant shrub, 397.
+
+  Currant wine, 394.
+
+  Custard cakes, 448.
+
+  Custard pudding, 300.
+
+  Custard, (boiled,) 314.
+
+  Custard, (plain,) 313.
+
+  Custard, (rice,) 314.
+
+  Custard, (soft,) 314.
+
+
+  Dough nuts, 358.
+
+  Ducks, to hash, 150.
+
+  Ducks, to roast, 149.
+
+  Ducks, to stew, 150.
+
+  Dumplings, (apple,) 307.
+
+  Dumplings, (fine suet,) 309.
+
+  Dumplings, (Indian,) 310.
+
+  Dumplings, (light,) 311.
+
+  Dumplings, (plain suet,) 310.
+
+  Durable ink, 429.
+
+  Durable ink, another way, 430.
+
+
+  Eastern pudding, 306.
+
+  Egg nogg, 407.
+
+  Egg plant, stuffed, 194.
+
+  Egg plant, to fry, 193.
+
+  Egg plant, to stew, 193.
+
+  Egg sauce, 167.
+
+  Eggs with ham, 123.
+
+  Eggs, raw, 419.
+
+  Eggs, to boil for breakfast, 207.
+
+  Eggs, to fricassee, 208.
+
+  Eggs, to keep, 206.
+
+  Eggs, to pack, 268.
+
+  Eggs, to pickle, 432.
+
+  Elder-berry wine, 395.
+
+  Elder-flower wine, 396.
+
+  Election cake, 348.
+
+  Essence of lemon peel, 408.
+
+  Essence of peppermint, 419.
+
+  Eve's pudding, 296.
+
+
+  Family soup, 15.
+
+  Farina, 502.
+
+  Federal cakes, 350.
+
+  Figs, (preserved,) 493.
+
+  Flannel cakes, 367.
+
+  Flax-seed lemonade, 418.
+
+  Floating island, 320.
+
+  Flour hasty-pudding, 301.
+
+  Flour, to brown, 163.
+
+  Force-meat balls, 161.
+
+  Fowls, to boil, 141.
+
+  Fowls, to roast, 142.
+
+  Fox-grape shrub, 397.
+
+  Fresh eggs, (to keep,) 488.
+
+  Friar's chicken, 36.
+
+  Fritters, (apple,) 312.
+
+  Fritters, (plain,) 311.
+
+  Frosted fruit, 271.
+
+  Frozen custard, 450.
+
+  Frozen meat, (to thaw,) 502.
+
+  Fruit queen-cakes, 342.
+
+
+  Gelatine jelly, 465.
+
+  General sauce, 173.
+
+  Gherkins, to pickle, 214.
+
+  Giblet soup, 438.
+
+  Ginger beer, 391.
+
+  Ginger plum-cake, 364.
+
+  Ginger, to preserve, 233.
+
+  Gingerbread nuts, 363.
+
+  Gingerbread, (common,) 362.
+
+  Gingerbread, (Franklin,) 364.
+
+  Gingerbread, (soft,) 461.
+
+  Gingerbread, (white,) 362.
+
+  Glycerine, 499.
+
+  Goose pie for Christmas, 153.
+
+  Goose pie, 152.
+
+  Goose, to roast, 151.
+
+  Gooseberries, bottled, 262.
+
+  Gooseberries, to preserve, 260.
+
+  Gooseberries, to stew, 261.
+
+  Gooseberry custard, 316.
+
+  Gooseberry fool, 261.
+
+  Gooseberry wine, 393.
+
+  Grape jelly, 266.
+
+  Grape water-ice, 470.
+
+  Grapes, (wild,) to keep, 267.
+
+  Grapes, in brandy, 266.
+
+  Gravy soup, (clear,) 22.
+
+  Gravy, (drawn or made,) 162.
+
+  Green corn muffins, 496.
+
+  Green ointment, 422.
+
+  Green pea soup, (French,) 438.
+
+  Green tomatas, (preserved,) 492.
+
+  Ground nuts, to roast, 205.
+
+  Ground rice milk, 414.
+
+  Grouse, to roast, 158.
+
+  Gruel, oatmeal, 413.
+
+  Gruel, to make, 413.
+
+  Gumbo soup, 432.
+
+  Gumbo, 439.
+
+
+  Halibut cutlets, 47.
+
+  Halibut, to boil, 46.
+
+  Ham dumplings, 311.
+
+  Ham omelet, 439.
+
+  Ham or bacon, directions for curing, 126.
+
+  Ham pie, 122.
+
+  Ham sandwiches, 123.
+
+  Ham, (baked,) 496.
+
+  Ham, (to glaze,) 132.
+
+  Ham, (Westphalia,) to imitate, 131.
+
+  Ham, to boil, 124.
+
+  Ham, to broil, 123.
+
+  Ham, to roast, 126.
+
+  Hare or rabbit soup, 28.
+
+  Hare, to roast, 137.
+
+  Harvey's sauce, 173.
+
+  Hashed veal, 480.
+
+  Herbs, to dry, 436.
+
+  Hoe cake, 445.
+
+  Hominy, to boil, 192.
+
+  Honey cake, 356.
+
+  Honey ginger-cake, 449.
+
+  Honey paste for the hands, 449.
+
+  Horseradish vinegar, 180.
+
+  Huckleberry cake, 350.
+
+  Hungary water, 424.
+
+
+  Ice cream, (almond,) 326.
+
+  Ice cream, (common,) 451.
+
+  Ice cream, (lemon,) 322.
+
+  Ice cream, (pine apple,) 325.
+
+  Ice cream, (raspberry,) 325.
+
+  Ice cream, (strawberry,) 325.
+
+  Ice cream, (vanilla,) 325.
+
+  Ice lemonade, 326.
+
+  Ice orangeade, 326.
+
+  Icing for cakes, 338.
+
+  Indian batter cakes, 368.
+
+  Indian corn, to boil, 192.
+
+  Indian dumplings, 310.
+
+  Indian flappers, 369.
+
+  Indian loaf cake, 444.
+
+  Indian muffins, 369.
+
+  Indian mush cakes, 368.
+
+  Indian mush, 301.
+
+  Indian pound cake, 340.
+
+  Indian pudding without eggs, 303.
+
+  Indian pudding, baked, 302.
+
+  Indian pudding, boiled, 302.
+
+  Italian Cream, 332.
+
+
+  Jaune-mange, 329.
+
+  Jelly cake, 344.
+
+  Johnny cake, 369.
+
+  Julienne (à la) soup, 23.
+
+
+  Keeping meat, &c., in summer, 502.
+
+  Kid, to roast, 136.
+
+  Kisses, 354.
+
+  Kitchen pepper, 182.
+
+  Kitchiner's fish-sauce, 172.
+
+
+  Lady cake, 342.
+
+  Lamb, to roast, 112.
+
+  Larding, 160.
+
+  Laudanum, antidote to, 422.
+
+  Lavender water, 423.
+
+  Lavender, compound, 421.
+
+  Lead water, 420.
+
+  Lemon brandy, 402.
+
+  Lemon catchup, 177.
+
+  Lemon cordial, 399.
+
+  Lemon cream, 321.
+
+  Lemon custard, 315.
+
+  Lemon drops, 366.
+
+  Lemon juice, to keep, 408.
+
+  Lemon peel, (essence of,) 408.
+
+  Lemon peel, to keep, 437.
+
+  Lemon pudding, 285.
+
+  Lemon syrup, (fine,) 477.
+
+  Lemon syrup, 398.
+
+  Lemon water-ice, 469.
+
+  Lemonade, 404.
+
+  Lemons, preserved, 241.
+
+  Lettuce or salad, to dress, 203.
+
+  Limes, or small lemons, (preserved,) 473.
+
+  Lip salve, 426.
+
+  Liver dumplings, 310.
+
+  Liver puddings, 128.
+
+  Lobster catchup, 174.
+
+  Lobster pie, 64.
+
+  Lobster sauce, 164.
+
+  Lobster soup, 37.
+
+  Lobster, pickled, 67.
+
+  Lobster, potted, 63.
+
+  Lobster, to boil, 61.
+
+  Lobster, to dress cold, 61.
+
+  Lobster, to fricassee, 62.
+
+  Lobster, to stew, 62.
+
+
+  Maccaroni soup, (rich,) 24.
+
+  Maccaroni soup, 24.
+
+  Maccaroni, to dress, 210.
+
+  Maccaroon custard, 318.
+
+  Maccaroon ice cream, 467.
+
+  Maccaroons, (almond,) 351.
+
+  Maccaroons, (cocoa-nut,) 352.
+
+  Mackerel, to boil, 48.
+
+  Mackerel, to broil, 47.
+
+  Mangoes, to pickle, 216.
+
+  Marbled veal, 105.
+
+  Marlborough pudding, 294.
+
+  Marmalade cake, 355.
+
+  Mead, 397.
+
+  Meg Merrilies' soup, 27.
+
+  Milk biscuit, 361.
+
+  Milk punch, 405.
+
+  Milk soup, 25.
+
+  Milk toast, 446.
+
+  Mince meat for Lent, 284.
+
+  Mince meat, (very plain,) 284.
+
+  Mince meat, 283.
+
+  Mince pies, 282.
+
+  Minced oysters, 431.
+
+  Mint julep, 490.
+
+  Mint sauce, 167.
+
+  Mock oysters of corn, 193.
+
+  Mock turtle, or calf's head soup, 30.
+
+  Molasses beer, 392.
+
+  Molasses candy, 365.
+
+  Molasses pie, 489.
+
+  Molasses posset, 407.
+
+  Moravian sugar-cake, 349.
+
+  Morella cherries, to pickle, 217.
+
+  Muffins, (common,) 370.
+
+  Muffins, (Indian,) 369.
+
+  Muffins, (water,) 370.
+
+  Mulled cider, 407.
+
+  Mulled wine, 407.
+
+  Mulligatawny soup, 29.
+
+  Mush cakes, 368.
+
+  Mush, (Indian,) to make, 301.
+
+  Mushroom catchup, 176.
+
+  Mushroom sauce, 166.
+
+  Mushroom sweetbreads, 497.
+
+  Mushrooms, to broil, 202.
+
+  Mushrooms, to pickle brown, 223.
+
+  Mushrooms, to pickle white, 222.
+
+  Mushrooms, to stew, 201.
+
+  Musquito bites, remedy for, 421.
+
+  Musquitoes, to keep off, 500.
+
+  Mustard, (common,) 181.
+
+  Mustard, (French,) 181.
+
+  Mustard, (keeping.) 181.
+
+  Mutton broth made quickly, 415.
+
+  Mutton broth, 414.
+
+  Mutton chops, broiled, 108.
+
+  Mutton chops, stewed, 110.
+
+  Mutton cutlets, à la Maintenon, 109.
+
+  Mutton harico, 111.
+
+  Mutton soup, (including cabbage and noodle soups,) 19.
+
+  Mutton, (casserole of,) 111.
+
+  Mutton, (leg of,) stewed, 111.
+
+  Mutton, hashed, 110.
+
+  Mutton, to boil, 107.
+
+  Mutton, to roast, 106.
+
+  Myrtle oranges, to preserve, 493.
+
+
+  Nasturtian sauce, 165.
+
+  Nasturtians, to pickle, 217.
+
+  New York cookies, 360.
+
+  Normandy soup, 482.
+
+  Nougat, 365.
+
+  Noyau, 402.
+
+
+  Oatmeal gruel, 413.
+
+  Ochra soup, 32.
+
+  Oil of flowers, 425.
+
+  Omelet soufflé, 209.
+
+  Omelet, (plain,) 209.
+
+  Onion sauce, (brown,) 166.
+
+  Onion sauce, (white,) 166.
+
+  Onion soup, 416.
+
+  Onions, pickled white, 222.
+
+  Onions, to boil, 198.
+
+  Onions, to fry, 199.
+
+  Onions, to pickle, 221.
+
+  Onions, to roast, 198.
+
+  Orange cake, 456.
+
+  Orange cream, 321.
+
+  Orange drops, 476.
+
+  Orange jelly, 243.
+
+  Orange marmalade, 243.
+
+  Orange pudding, 285.
+
+  Orange water-ice, 468.
+
+  Orangeade, 404.
+
+  Orgeat, 403.
+
+  Ortolans, to roast, 159.
+
+  Ox-tail soup, 32.
+
+  Oyster catchup, 185.
+
+  Oyster fritters, 59.
+
+  Oyster pie, 60.
+
+  Oyster Sauce, 170.
+
+  Oyster soup, (plain,) 38.
+
+  Oyster soup, 38.
+
+  Oysters, (fine stewed,) 487.
+
+  Oysters, (spiced,) 488.
+
+  Oysters, fried, 57.
+
+  Oysters, minced, 431.
+
+  Oysters, pickled for keeping, 228.
+
+  Oysters, pickled, 57.
+
+  Oysters, scolloped, 58.
+
+  Oysters, stewed, 59.
+
+
+  Panada, (chicken,) 416.
+
+  Panada, 413.
+
+  Pancake ham, 497.
+
+  Pancakes, (plain,) 312.
+
+  Pancakes, (sweetmeat,) 313.
+
+  Parsley sauce, 168.
+
+  Parsley, to pickle, 215.
+
+  Parsnips, to boil, 190.
+
+  Partridges, to roast another way, 158.
+
+  Partridges, to roast, 158.
+
+  Paste, (dripping,) 275.
+
+  Paste, (fine puff,) 276.
+
+  Paste, (lard,) 275.
+
+  Paste, (potato,) 276.
+
+  Paste, (suet,) 274.
+
+  Paste, (sweet,) 277.
+
+  Paste, (the best plain,) 272.
+
+  Peach cordial, 401.
+
+  Peach jelly, 247.
+
+  Peach kernels, 437.
+
+  Peach leather, 271.
+
+  Peach mangoes, 440.
+
+  Peach marmalade, 246.
+
+  Peach sauce, 169.
+
+  Peach water-ice, 470.
+
+  Peaches for common use, 245.
+
+  Peaches, (dried,) 248.
+
+  Peaches, (in brandy,) 245.
+
+  Peaches, (to keep,) 495.
+
+  Peaches, to pickle, 217.
+
+  Peaches, to preserve, 244.
+
+  Pearlash, to keep, 430.
+
+  Pears, to bake, 259.
+
+  Pears, to preserve, 259.
+
+  Peas soup, (green,) 34.
+
+  Peas soup, 34.
+
+  Peas, (green,) to boil, 198.
+
+  Pepper pot, 87.
+
+  Peppermint drops, 366.
+
+  Peppers, (green,) to pickle, 214, 218.
+
+  Peppers, (green,) to preserve 238.
+
+  Perch, to fry, 52.
+
+  Pheasants, to roast another way, 158.
+
+  Pheasants, to roast, 158.
+
+  Pickle, (East India,) 227.
+
+  Pie crust, (common,) 274.
+
+  Pies, (apple and other,) 281.
+
+  Pies, (standing,) 280.
+
+  Pies, 279.
+
+  Pig's feet and ears, soused, 131.
+
+  Pig, to roast, 115.
+
+  Pigeon or chicken dumplings, 309.
+
+  Pigeon pie, 157.
+
+  Pigeons, to roast, 156.
+
+  Pilau, 147.
+
+  Pine-apple ice cream, 325.
+
+  Pine-apple marmalade, 476.
+
+  Pine-apple water-ice, 470.
+
+  Pine-apple-ade, 410.
+
+  Pine-apples, to preserve, 240.
+
+  Pine-apples,(fresh,) to prepare for eating, 241.
+
+  Pink champagne jelly, 452.
+
+  Pink sauce, 173.
+
+  Plovers, to roast, 159.
+
+  Plum charlotte, 321.
+
+  Plum pudding, baked, 303.
+
+  Plum pudding, boiled, 304.
+
+  Plums for common use, 258.
+
+  Plums, (green gage,) to preserve, 256.
+
+  Plums, to preserve, 257.
+
+  Plums,(egg,) to preserve whole, 258.
+
+  Poke, to boil, 200.
+
+  Pomatum, (soft,) 426.
+
+  Pork and beans, 120.
+
+  Pork cheese, 130.
+
+  Pork cutlets, 121.
+
+  Pork pie, 122.
+
+  Pork steaks, 120.
+
+  Pork, (corned,) to boil, 118.
+
+  Pork, (leg of,) to roast, 116.
+
+  Pork, (loin of,) to roast, 117.
+
+  Pork, (middling piece,) to roast, 117.
+
+  Pork, (pickled,) to boil with peas pudding, 119.
+
+  Pork, to stew, 118.
+
+  Port wine jelly, 412.
+
+  Pot pie, (apple,) 434.
+
+  Pot pie, 145.
+
+  Potato pudding, 289.
+
+  Potato snow, 185.
+
+  Potato yeast, 446.
+
+  Potatoes, roasted, 185.
+
+  Potatoes, to boil, 183.
+
+  Potatoes, to fry, 185.
+
+  Poultry, (to draw, &c.,) 494.
+
+  Pound cake, 339.
+
+  Prawns, to boil, 64.
+
+  Prune pudding, 296.
+
+  Pudding catchup, 435.
+
+  Pumpkin chips, 238.
+
+  Pumpkin pie, (New England,) 464.
+
+  Pumpkin pudding, 288.
+
+  Pumpkin yeast, 378.
+
+  Pumpkin, to boil, 191.
+
+  Punch, (fine milk,) 405.
+
+  Punch, (frozen,) 405.
+
+  Punch, (milk,) 405.
+
+  Punch, (regent's,) 405.
+
+  Punch, (Roman,) 405.
+
+  Punch, 404.
+
+  Pyramid of tarts, 280.
+
+
+  Quails, to roast, 158.
+
+  Queen cake, 341.
+
+  Quin's sauce for fish, 172.
+
+  Quince cheese, 251.
+
+  Quince cordial, 400.
+
+  Quince jelly, 250.
+
+  Quince marmalade, 250.
+
+  Quince pudding, 285.
+
+  Quinces, preserved, 248.
+
+  Quinces, to preserve whole, 249.
+
+
+  Rabbits, fricasseed, 138.
+
+  Rabbits, to fry, 139.
+
+  Rabbits, to stew, 138.
+
+  Radish pods, to pickle, 215.
+
+  Radishes, to prepare for table, 204.
+
+  Raspberries, to preserve, 262.
+
+  Raspberry charlotte, 320.
+
+  Raspberry cordial, 180.
+
+  Raspberry ice-cream, 325.
+
+  Raspberry jam, 263.
+
+  Raspberry vinegar, 180.
+
+  Raspberry water-ice, 469.
+
+  Raspberry wine, 395.
+
+  Ratafia, 403.
+
+  Raw egg, 419.
+
+  Reed birds, to roast, 159.
+
+  Rennet whey, 415.
+
+  Rhubarb jam, 271.
+
+  Rhubarb tarts, 282.
+
+  Rice cakes, 372.
+
+  Rice custard, 314.
+
+  Rice dumplings, 308.
+
+  Rice flummery, 433.
+
+  Rice jelly, 412.
+
+  Rice milk, (ground,) 414.
+
+  Rice milk, 293.
+
+  Rice pudding, (farmer's,) 293.
+
+  Rice pudding, (ground,) 291.
+
+  Rice pudding, (plain,) 292.
+
+  Rice pudding, (plum,) 292.
+
+  Rice pudding, boiled, 293.
+
+  Rice, to boil for curry, 146.
+
+  Rice, to boil, 202.
+
+  Ringworms, remedy for, 421.
+
+  Rock cake, 449.
+
+  Rock-fish, to boil, 51.
+
+  Rock-fish, to pickle, 52.
+
+  Rolls, (common,) 373.
+
+  Rolls, (French,) 373.
+
+  Rose brandy, 402.
+
+  Rose cordial, 399.
+
+  Rose vinegar, 424.
+
+  Rusk, 361.
+
+  Russian or Swedish turnip, to boil, 190.
+
+  Rye and Indian bread, 377.
+
+
+  Sago pudding, 290.
+
+  Sago, 412.
+
+  Salad, to dress, 203.
+
+  Sally Lunn cake, 371.
+
+  Salmon steaks, 45.
+
+  Salmon, (fresh,) to bake in slices, 44.
+
+  Salmon, (fresh,) to bake whole, 44.
+
+  Salmon, (fresh,) to boil, 43.
+
+  Salmon, (pickled,) 45.
+
+  Salmon, (smoked,) 46.
+
+  Salsify, to dress, 195.
+
+  Salt pork, (to stew,) 504.
+
+  Sandwiches, (ham,) 123.
+
+  Sangaree, 407.
+
+  Sassafras beer, 392.
+
+  Sassafras mead, 478.
+
+  Sausage meat, (common,) 129.
+
+  Sausages, (Bologna,) 130.
+
+  Sausages, (fine,) 129.
+
+  Savoy biscuits, 351.
+
+  Scented bags, 428.
+
+  Scotch cake, 356.
+
+  Scotch queen-cake, 356.
+
+  Scotch sauce for fish, 171.
+
+  Sea bass or black-fish, boiled, 52.
+
+  Sea bass, fried, 54.
+
+  Sea catchup, 178.
+
+  Sea kale, to boil, 199.
+
+  Secrets, 355.
+
+  Seidlitz powders, 419.
+
+  Shad, (broiled,) 503.
+
+  Shad, baked, 50.
+
+  Shad, to fry, 51.
+
+  Shalot vinegar, 180.
+
+  Shells, 278.
+
+  Sherry Cobler, 406.
+
+  Short cakes, 371.
+
+  Shrewsbury cake, 433.
+
+  Shrub, (cherry,) 398.
+
+  Shrub, (currant,) 397.
+
+  Shrub, (fox-grape,) 397.
+
+  Smelts, to fry, 431.
+
+  Snipes, to roast 157.
+
+  Snowball custard, 315.
+
+  Soda biscuit, 371.
+
+  Soda water, 419.
+
+  Soup à la Lucy, 489.
+
+  Sour milk, 455.
+
+  Spanish buns, 343.
+
+  Spinach and eggs, 188.
+
+  Spinach, to boil, 188.
+
+  Sponge cake, 345.
+
+  Spruce beer, 391.
+
+  Squash pudding, 288.
+
+  Squash, (winter,) to boil, 191.
+
+  Squashes or cymlings, to boil, 191.
+
+  Strawberries, (to keep,) 494.
+
+  Strawberries, preserved, 267.
+
+  Strawberry cordial, 400.
+
+  Strawberry ice-cream, 325.
+
+  Strawberry water-ice, 469.
+
+  Sturgeon cutlets, 54.
+
+  Suet pudding, 300.
+
+  Sugar biscuit, 360.
+
+  Sugar syrup, clarified, 232.
+
+  Sweet basil vinegar, 179.
+
+  Sweet jars, 428.
+
+  Sweet potato pudding, 289.
+
+  Sweet potatoes, (compote of,) 497.
+
+  Sweet potatoes, boiled, 186.
+
+  Sweet potatoes, fried, 186.
+
+  Sweet sauce, (cold,) 170.
+
+  Sweetbreads, larded, 104.
+
+  Sweetbreads, to broil, 432.
+
+  Sweetbreads, to roast, 104.
+
+  Syllabub or whipt cream, 318.
+
+  Syllabub, (country,) 319.
+
+
+  Tamarind water, 417.
+
+  Tapioca, 412.
+
+  Tarragon vinegar, 179.
+
+  Tea, to make, 388.
+
+  Tennessee muffins, 445.
+
+  Terrapins, 66.
+
+  Thieves' vinegar, 424.
+
+  Toast and water, 417.
+
+  Toast, (to make,) 505.
+
+  Tomata catchup, (fine,) 479.
+
+  Tomata catchup, 177.
+
+  Tomata honey, 441.
+
+  Tomata pickles, (green,) 480.
+
+  Tomata pickles, (red,) 480.
+
+  Tomata soup, 483.
+
+  Tomata soy, 224.
+
+  Tomatas, (broiled,) 441.
+
+  Tomatas, (preserved,) 441.
+
+  Tomatas, to bake, 200.
+
+  Tomatas, to keep, 437.
+
+  Tomatas, to pickle, 223.
+
+  Tomatas, to stew, 200.
+
+  Tongue, (salted or pickled,) to boil, 89.
+
+  Tongue, (smoked,) to boil, 88.
+
+  Trifle, 319.
+
+  Tripe and oysters, 87.
+
+  Tripe, to boil, 86.
+
+  Tripe, to fry, 87.
+
+  Trout, to boil, 54.
+
+  Trout, to fry, 53.
+
+  Turkey, to boil, 156.
+
+  Turkey, to roast, 154.
+
+  Turkish sherbet, 408.
+
+  Turnips, to boil, 189.
+
+
+  Union pudding, 490.
+
+
+  Veal cutlets, 97.
+
+  Veal or chicken tea, 414.
+
+  Veal patties, 99.
+
+  Veal pie, 99.
+
+  Veal soup, (rich,) 21.
+
+  Veal soup, 21.
+
+  Veal steaks, 98.
+
+  Veal, (breast of,) to roast, 94.
+
+  Veal, (breast of,) to stew, 95.
+
+  Veal, (fillet of,) to roast, 94.
+
+  Veal, (fillet of,) to stew, 96.
+
+  Veal, (knuckle of,) to stew, 96.
+
+  Veal, (loin of,) to roast, 93.
+
+  Veal, (minced,) 98.
+
+  Vegetable soup, 416.
+
+  Venison hams, 136.
+
+  Venison pasty, 135.
+
+  Venison soup, 28.
+
+  Venison steaks, 135.
+
+  Venison, (cold,) to hash, 134.
+
+  Venison, to roast, 133.
+
+  Vermicelli soup, 25.
+
+  Vinegar (cider,) 409.
+
+  Vinegar, (sugar,) 410.
+
+  Vinegar, (white,) 409.
+
+  Violet perfume, 429.
+
+
+  Wafer cakes, 357.
+
+  Waffles, 359.
+
+  Walnut catchup, 175.
+
+  Walnuts, pickled black, 219.
+
+  Walnuts, pickled green, 221.
+
+  Walnuts, pickled white, 220.
+
+  Warm slaw, 226.
+
+  Warts, remedy for, 421.
+
+  Washington cake, 347.
+
+  Water souchy, 41.
+
+  Watermelon rind, to preserve, 237.
+
+  Welsh rabbit, 387.
+
+  White soup, (rich,) 26.
+
+  Wine jelly, 406.
+
+  Wine sauce, 169.
+
+  Wine whey, 415.
+
+  Wonders or crullers, 357.
+
+  Woodcocks, to roast, 159.
+
+
+  Yam pudding, 289.
+
+  Yeast, (bakers',) 379.
+
+  Yeast, (bran,) 378.
+
+  Yeast, (common,) 377.
+
+  Yeast, (patent,) 435.
+
+  Yeast, (pumpkin,) 378.
