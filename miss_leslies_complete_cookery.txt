@@ -1,8 +1,7 @@
 Transcriber's note:
 
 
-Text enclosed by underscores is in italics (_italics_). Text enclosed
-by equal signs is in bold (=bold=).
+Text enclosed by underscores is in italics (_italics_).
 
 Corrections and alterations from the original can be found at the end
 of the book.
@@ -38,12 +37,12 @@ f/
 
 /f
 Entered according to Act of Congress, in the year 1837, by
-<sc>E. L. Carey & A. Hart</sc>,
+E. L. CAREY & A. HART,
 in the Clerk's Office of the District Court of the United States, in and for the
 Eastern District of Pennsylvania.
 
 Entered according to Act of Congress, in the year 1851, by
-<sc>Henry Carey Baird</sc>,
+HENRY CAREY BAIRD,
 in the Clerk's Office of the District Court of the United States, in and for the
 Eastern District of Pennsylvania.
 f/
@@ -124,12 +123,12 @@ they peculiarly relish. For those who possess the means of
 living well, it is a false (and sometimes fatal) economy to live
 badly; particularly when there is a lavish expenditure in fine
 clothes, fine furniture, and other ostentations, only excusable
-when <i>not</i> purchased at the expense of health and comfort.
+when _not_ purchased at the expense of health and comfort.
 
 /*
-<sc>Eliza Leslie.</sc>
+ELIZA LESLIE.
 
-<i>Philadelphia, Jan. 16, 1851.</i>
+_Philadelphia, Jan. 16, 1851._
 */
 
 
@@ -260,7 +259,7 @@ Miscellaneous Receipts                                               431
 
 Additional Receipts                                                  438
 
-<tb>
+       *       *       *       *       *
 
 Animals used as Butchers' Meat                                       513
 
@@ -289,8 +288,8 @@ may have a still smaller allowance of water.
 Soup should always be made entirely of fresh meat that
 has not been previously cooked. An exception to this rule
 may sometimes be made in favour of the remains of a piece
-of roast beef that has been <i>very much</i> under-done in roasting.
-This may be <i>added</i> to a good piece of raw meat. Cold ham,
+of roast beef that has been _very much_ under-done in roasting.
+This may be _added_ to a good piece of raw meat. Cold ham,
 also, may be occasionally put into white soups.
 
 Soup made of cold meat has always a vapid, disagreeable
@@ -305,9 +304,9 @@ using it for this purpose, and to devote the leavings of the
 table to some other object. No person accustomed to really
 good soup, made from fresh meat, can ever be deceived in the
 taste, even when flavoured with wine and spices. It is not
-true that French cooks have the art of producing <i>excellent</i> soups
-from cold scraps. There is much <i>bad</i> soup to be found in
-France, at inferior houses; but <i>good</i> French cooks are not, as
+true that French cooks have the art of producing _excellent_ soups
+from cold scraps. There is much _bad_ soup to be found in
+France, at inferior houses; but _good_ French cooks are not, as
 is generally supposed, really in the practice of concocting any
 dishes out of the refuse of the table. And we repeat, that cold
 meat, even when perfectly good, and used in a large quantity,
@@ -536,12 +535,12 @@ been soaked in cold water; or with green peas; or with young
 corn, cut down from the cob; or with tomatas scalded, peeled,
 and cut into pieces.
 
-<i>Cabbage Soup</i> may be made in the same manner, of neck of
+_Cabbage Soup_ may be made in the same manner, of neck of
 mutton. Omit all the other vegetables, and put in a large
 head of white cabbage, stripped of the outside leaves, and cut
 small.
 
-<i>Noodle Soup</i> can be made in this manner also. Noodles are
+_Noodle Soup_ can be made in this manner also. Noodles are
 a mixture of flour and beaten egg, made into a stiff paste,
 kneaded, rolled out very thin, and cut into long narrow slips,
 not thicker than straws, and then dried three or four hours in
@@ -926,9 +925,9 @@ size of boy's marbles. Throw them into the soup at the last,
 and also squeeze in the juice of a lemon. Let it get another
 slow boil, and then put it into the tureen.
 
-<tb>
+       *       *       *       *       *
 
-We omit a receipt for <i>real</i> turtle soup, as when that very
+We omit a receipt for _real_ turtle soup, as when that very
 expensive, complicated, and difficult dish is prepared in a
 private family, it is advisable to hire a first-rate cook for the
 express purpose.
@@ -970,7 +969,7 @@ melted: twelve large tomatas pared and cut small; five
 dozen ochras cut into slices not thicker than a cent; and
 a little cayenne pepper to your taste. Put all these ingredients
 into a pot; cover them with boiling water, and let
-them stew slowly for an hour. Then add three quarts of <i>hot</i>
+them stew slowly for an hour. Then add three quarts of _hot_
 water, and increase the heat so as to make the soup boil.
 Skim it well, and stir it frequently with a wooden or silver
 spoon.
@@ -1075,7 +1074,7 @@ have been lying in cold water) and put them into the soup,
 and let them boil about twenty minutes. Serve it up with
 small squares of toast in the tureen.
 
-<tb>
+       *       *       *       *       *
 
 You may heighten the green of this soup by adding the
 juice of a handful of spinach, pounded in a mortar and
@@ -1288,7 +1287,7 @@ just before you take it from the fire with essence of anchovy, or
 with any other of the essences and compound fish-sauces that
 are in general use.
 
-Water souchy (commonly pronounced <i>sookey</i>) is a Dutch
+Water souchy (commonly pronounced _sookey_) is a Dutch
 soup. It may be made of any sort of small fish; but flounders
 and perch are generally used for it. It is very good
 made of carp.
@@ -1827,7 +1826,7 @@ the shad with this mixture, spread on evenly, and let it rest in
 it till next day, (unless you want it the same evening,) keeping
 it in a cold place.
 
-Immediately before cooking, wipe the seasoning <i>entirely off</i>,
+Immediately before cooking, wipe the seasoning _entirely off_,
 and dry the shad in a clean cloth. Then broil it in the usual
 manner.
 
@@ -2019,7 +2018,7 @@ mix the meat with it, and let it be handed round to the company.
 The vinegar from a jar of Indian pickle is by some preferred
 for lobster dressing.
 
-You may dress the lobster <i>immediately before</i> you send it
+You may dress the lobster _immediately before_ you send it
 to table. When the dressing and meat are mixed together,
 pile it in a deep dish, and smooth it with the back of a spoon.
 Stick a bunch of the small claws in the top, and garnish with
@@ -2241,7 +2240,7 @@ yellow, do not buy the meat.
 See that the butcher has properly jointed the meat before it
 goes home. For good tables, the pieces generally roasted are
 the sirloin and the fore and middle ribs. In genteel houses
-other parts are seldom served up as <i>roast-beef</i>. In small families
+other parts are seldom served up as _roast-beef_. In small families
 the ribs are the most convenient pieces. A whole sirloin
 is too large, except for a numerous company, but it is the
 piece most esteemed.
@@ -3157,7 +3156,7 @@ The loin is the best part of the calf. It is always roasted.
 See that your fire is clear and hot, and broad enough to brown
 both ends. Cover the fat of the kidney and the back with
 paper to prevent it from scorching. A large loin of veal will
-require <i>at least</i> four hours and a half to roast it sufficiently.
+require _at least_ four hours and a half to roast it sufficiently.
 At first set the roaster at a tolerable distance from the fire that
 the meat may heat gradually in the beginning; afterwards
 place it nearer. Put a little salt and water into the dripping-pan
@@ -4093,7 +4092,7 @@ corner, that they may warm as well as soak. Early in the
 morning rinse them through a cullender. Having scored the
 rind of the pork, (which should not be a very fat piece,) put
 it into a pot with cold water, and boil it till tender, carefully
-skimming off the liquid fat. <i>In another pot</i> boil the beans
+skimming off the liquid fat. _In another pot_ boil the beans
 till they have all bursted. When soft, take them up; lay the
 pork in a tin pan; and cover it with the beans, adding a very
 little water. Then bake them in an oven till brown, but not
@@ -5016,7 +5015,7 @@ This is a genuine East India receipt for curry.
 Lamb, veal, or rabbits may be curried in the same manner.
 
 
-<i>To boil Rice for the Curry.</i>
+_To boil Rice for the Curry._
 
 Pick the rice carefully, to clear it from husks and motes.
 Then soak it in cold water for a quarter of an hour, or more.
@@ -6708,7 +6707,7 @@ them to table hot. They should be near an inch thick.
 
 This is an excellent relish at breakfast, and may be introduced
 as a side dish at dinner. In taste it has a singular
-resemblance to fried oysters. The corn <i>must</i> be young.
+resemblance to fried oysters. The corn _must_ be young.
 
 
 STEWED EGG PLANT.
@@ -8017,7 +8016,7 @@ quality, but it will never have a good appearance, and it is also
 more liable to spoil.
 
 If too small a proportion of sugar is allowed to the fruit, it
-will <i>certainly</i> not keep well. When this experiment is tried it
+will _certainly_ not keep well. When this experiment is tried it
 is generally found to be false economy; as sweetmeats, when
 they begin to spoil, can only be recovered and made eatable
 by boiling them over again with additional sugar; and even
@@ -8135,7 +8134,7 @@ over it, cover it, and do not disturb it for two days. Then,
 having poured it from the ginger, boil the syrup over again.
 As soon as it is cold, pour it again on the ginger, and let it
 stand at least three days. Afterwards boil the syrup again,
-and pour it <i>hot</i> over the ginger. Proceed in this manner till
+and pour it _hot_ over the ginger. Proceed in this manner till
 you find that the syrup has thoroughly penetrated the ginger,
 (which you may ascertain by its taste and appearance when
 you cut a piece off,) and till the syrup becomes very thick
@@ -10589,7 +10588,7 @@ swell. Secure it well at the tying place lest the water should
 get in, which will infallibly spoil it. Put it into a pot of
 boiling water, (which must be replenished as it boils away,)
 and boil it four hours at least; but five or six will be better.
-To have an Indian pudding <i>very good</i>, it should be mixed
+To have an Indian pudding _very good_, it should be mixed
 the night before, (all except the eggs,) and put on to boil early
 in the morning. Do not take it out of the pot till immediately
 before it is wanted. Eat it with wine sauce, or with molasses
@@ -10696,7 +10695,7 @@ and let it bake another half hour; but not long enough for the
 apples to fall to pieces; as they should, when done, be soft
 throughout, but quite whole. Send it to table warm.
 
-This is sometimes called a <i>Bird's Nest Pudding</i>.
+This is sometimes called a _Bird's Nest Pudding_.
 
 It will be much improved by previously boiling in the
 milk a small handful of peach-leaves. Let it get cold before
@@ -11040,7 +11039,7 @@ LEMON CUSTARD.--Take four large ripe lemons, and
 roll them under your hand on the table to increase the juice.
 Then squeeze them into a bowl, and mix with the juice a very
 small tea-cup full of cold water. Use none of the peel. Add
-gradually sufficient sugar to make it <i>very sweet</i>. Beat twelve
+gradually sufficient sugar to make it _very sweet_. Beat twelve
 eggs till quite light, and then stir the lemon juice gradually
 into them, beating very hard at the last. Put the mixture
 into cups, and bake it ten minutes. When done, grate nutmeg
@@ -11489,7 +11488,7 @@ Add to the half pint two ounces of bitter almonds, blanched
 and pounded; half a nutmeg; and a large stick of cinnamon,
 broken up; also eight or nine blades of mace. Set it in a
 closed pan over hot coals, and boil it half an hour. In the
-mean time, wash through two or three <i>cold</i> waters half a handful
+mean time, wash through two or three _cold_ waters half a handful
 of carrageen, (if you put in too much it will communicate
 an unpleasant taste to the blanc-mange,) and add it to the
 pint and a half of cold milk. Then when it is sufficiently
@@ -11503,7 +11502,7 @@ congeals.
 
 After washing the sea-weed, you must drain it well, and
 shake the water from the sprigs. You may flavour the mixture
-(<i>after</i> it is boiled and strained) with rose-water or peach-water,
+(_after_ it is boiled and strained) with rose-water or peach-water,
 stirred in at the last.
 
 
@@ -13391,7 +13390,7 @@ stewed fruit, &c. are far superior to bad butter.
 
 CHEESE.
 
-In making <i>good</i> cheese, skim milk is never used. The
+In making _good_ cheese, skim milk is never used. The
 milk should either be warm from the cow or heated to that
 temperature over the fire. When the rennet is put in, the
 heat of the milk should be from 90° to 96°. Three quarts of
@@ -14160,7 +14159,7 @@ juice you may allow a pint and a half of water, and ten or
 twelve moderate sized lumps of sugar. Send it round in little
 glasses with handles.
 
-To make a tumbler of <i>very good</i> lemonade, allow the juice
+To make a tumbler of _very good_ lemonade, allow the juice
 of one lemon and four or five lumps of sugar, filling up the
 glass with water. In summer use ice water.
 
@@ -14778,7 +14777,7 @@ fresh potato, and repeat this application very frequently. It
 will give immediate ease, and draw out the fire. Of course,
 if the burn is bad, it is best to send for a physician.
 
-[Footnote N: These remedies are all very simple; but the author <i>knows</i> them
+[Footnote N: These remedies are all very simple; but the author _knows_ them
 to have been efficacious whenever tried.]
 
 
@@ -14851,7 +14850,7 @@ cobwebs compressed into a lump and applied to the wound, or
 bound on it with a rag. A scrap of cotton wadding is also
 good for stopping blood. Or wet the place with laudanum.
 After the blood is stopped, cover the cut with a bit of white
-or pink court-plaster. The copperas dye in <i>black</i> court-plaster
+or pink court-plaster. The copperas dye in _black_ court-plaster
 will sometimes produce inflammation.
 
 
@@ -16049,7 +16048,7 @@ of the oranges. Then cut the oranges, and squeeze their juice
 through a strainer. Powder the sugar, and mix the orange-juice
 with it; reserving a little of the juice to flavour the
 icing. Wash, and squeeze in a pan of cold water, a pound
-of the best <i>fresh</i> butter, till you have extracted whatever milk
+of the best _fresh_ butter, till you have extracted whatever milk
 and salt may have been in it, as they will impede the lightness
 of the cake. Cut up the butter in the pan of sugar and orange,
 and stir it hard till perfectly light, white, and creamy. Sift
@@ -16128,7 +16127,7 @@ till the milk is highly flavoured with the vanilla and cinnamon.
 Then strain it, take out the vanilla bean, wipe it, and put it
 away, as it will do for the same purpose a second time. Mix
 the flavoured milk with the other pint and a half, and let it get
-quite cold. Beat very light <i>the yolks only</i> of twelve eggs, and
+quite cold. Beat very light _the yolks only_ of twelve eggs, and
 stir them into the milk alternately with a quarter of a pound,
 or more, of powdered white sugar. Put this custard mixture
 into a tin pan, set it in a Dutch oven or something similar,
@@ -16193,7 +16192,7 @@ sugar, and the rest of the egg. Mix it well, and set it
 again to rise till early next morning. Then add gradually the
 fruit, setting it again to rise for two or three hours. When it
 is perfectly light for the last time, butter a large deep pan, and
-put in the mixture. The oven must first be made <i>very hot</i>, and
+put in the mixture. The oven must first be made _very hot_, and
 then allowed to cool down so as to bake rather slowly. If
 too hot, it will scorch and crust the cake on the outside, so as
 to prevent the heat from penetrating any farther, and the inside
@@ -16222,7 +16221,7 @@ ginger, a tea-spoonful of powdered cinnamon, and a tea-spoonful
 of powdered cloves. Then stir into it, alternately, a pint
 of West India molasses, and three pints of sifted flour, and six
 well-beaten eggs. Lastly, dissolve a small tea-spoonful of
-pearl-ash in a pint of <i>sour</i> milk, and stir it, while foaming,
+pearl-ash in a pint of _sour_ milk, and stir it, while foaming,
 into the mixture. Put it immediately into shallow square tin
 pans, well buttered, and place it in an oven not too hot, or it
 will burn the outside, and leave the inside raw and heavy.
@@ -16244,7 +16243,7 @@ use currants, picked, washed, and dried.
 INDIAN CUP CAKES.--Sift a pint and a half of yellow
 Indian meal, and mix it with half a pint wheat flour. Beat
 two eggs very light, and then stir them gradually into the
-meal, in turn with almost a quart of <i>sour</i> milk. If you have
+meal, in turn with almost a quart of _sour_ milk. If you have
 no sour milk from the preceding day, you can turn some sweet
 milk sour by setting it in the sun. Lastly, dissolve a tea-spoonful
 of sal-aratus, or a very small tea-spoonful of pearl-ash
@@ -16416,7 +16415,7 @@ pound of the best raisins, stemmed (but not seeded or stoned)
 and boiled whole with the other ingredients.
 
 
-BISCUIT ICE CREAM.--This is the <i>biscuit glacé</i> so popular
+BISCUIT ICE CREAM.--This is the _biscuit glacé_ so popular
 in France. Take some pieces of broken loaf-sugar, and
 rub off on them the yellow rind of four lemons, or oranges.
 Then pulverize the sugar, and mix it with half a pound of
@@ -16485,7 +16484,7 @@ hold round the outside of the mould a cloth dipped in cold water.
 
 LEMON-WATER ICE.--May be made in the above manner,
 only that you must allow an additional pound of sugar,
-and use the zest or yellow rind of <i>all</i> the lemons.
+and use the zest or yellow rind of _all_ the lemons.
 
 
 STRAWBERRY-WATER ICE.--To each pound of loaf-sugar
@@ -16620,7 +16619,7 @@ which should be of the best quality, and roasted that day.
 Put it into a grecque or French coffee pot, such as are made
 with strainers inside, and have a second cover below the lid.
 Lay the coffee on the upper strainer, pour on it half a pint of
-<i>cold</i> water, and press it down with the inner cover. Put on
+_cold_ water, and press it down with the inner cover. Put on
 the outer or top-lid of the coffee-pot, and stop the mouth of the
 spout with a roll or wad of soft white paper, or with a closely-fitting
 cork, to prevent any of the aroma escaping.
@@ -16769,7 +16768,7 @@ FINE LEMON SYRUP.--The best time for making lemon
 syrup is early in the spring. Lemons are then plenty,
 and the syrup mixed with ice-water, makes a pleasant beverage
 for summer. It is best and cheapest to buy lemons by the box.
-Before using them <i>for any purpose</i>, each lemon should be wiped
+Before using them _for any purpose_, each lemon should be wiped
 well, and then rolled hard under your hand upon a table to soften
 them and increase the juice. Two dozen large ripe lemons
 will generally yield about a quart of juice if pressed with a
@@ -17177,7 +17176,7 @@ you want them.
 
 
 A MOLASSES PIE.--Make a good paste, and having
-rolled it out <i>thick</i>, line a pie-dish with a portion of it. Then
+rolled it out _thick_, line a pie-dish with a portion of it. Then
 fill up the dish with molasses, into which you have previously
 stirred a table-spoonful, or more, of ground ginger. Cover it
 with an upper crust of the paste; notch the edges neatly; and
@@ -17415,8 +17414,8 @@ them out with a skewer, leaving the peaches as nearly whole
 as possible. Or you may cut them in half. Put them immediately
 into flat stone jars, and cement on the covers with the
 composition of bees-wax and rosin melted together, and
-thickened with powdered brick dust. The jars (<i>filled up to
-the top</i>) must be so closely covered that no air can possibly
+thickened with powdered brick dust. The jars (_filled up to
+the top_) must be so closely covered that no air can possibly
 get to the peaches. Then pack the jars in boxes of sand, or
 of powdered charcoal, and nail on the box-lid.
 
@@ -17531,7 +17530,7 @@ made it fit closely. Set it into a hot oven, and bake it an
 hour. Eat it warm, with sugar.
 
 
-HONEY PASTE (<i>for the HANDS</i>.)--Take half a pound
+HONEY PASTE (_for the HANDS_.)--Take half a pound
 of strained honey, half a pound of white wax, and half
 a pound of fresh lard. Cut up the wax very small, put it
 into a porcelain-lined saucepan, and set it over the fire till it
@@ -17642,10 +17641,10 @@ the proportions of the above ingredients.
 
 THAWING FROZEN MEAT, &c.--If meat, poultry, fish,
 vegetables, or any other article of food, when found frozen, is
-thawed by putting it into <i>warm water</i> or placing it before the
+thawed by putting it into _warm water_ or placing it before the
 fire, it will most certainly spoil by that process, and be
 rendered unfit to eat. The only way is to thaw these things
-by immersing them in <i>cold</i> water. This should be done as
+by immersing them in _cold_ water. This should be done as
 soon as they are brought in from market, that they may have
 time to be well thawed before they are cooked. If meat that
 has been frozen is to be boiled, put it on in cold water. If
@@ -17667,7 +17666,7 @@ KEEPING MEAT, &c., IN SUMMER.--In summer,
 meat, poultry, fish, fruit, &c., should always be kept in ice,
 from the time they are brought from market till it is time to
 cook them. Families, who have not an ice-house, should
-have <i>two</i> refrigerators; one for meat and poultry, the other
+have _two_ refrigerators; one for meat and poultry, the other
 for milk, butter, and fruit. If the three last articles are kept
 in the same refrigerator with meat and poultry, the milk,
 butter and fruit will imbibe a bad taste.
@@ -17683,7 +17682,7 @@ be smelt immediately on entering the door. In this case, let
 the barrel and its contents be conveyed to the river and thrown
 in; otherwise, its odour may produce sickness in the family.
 
-Avoid eating anything that is <i>in the very least</i> approaching
+Avoid eating anything that is _in the very least_ approaching
 to decomposition. Even sour bread and strong butter are
 unwholesome as well as unpalatable. If the bread is sour, or
 the butter rancid, it is because (as the French, in such cases,
@@ -17803,12 +17802,12 @@ In helping beef-steak, put none of the bone on the plate.
 
 In cutting a round of corned beef, begin at the top; but lay
 aside the first cut or outside piece, and send it to no one, as it
-is always dry and hard. In a round of <i>a-la-mode beef</i>, the outside
+is always dry and hard. In a round of _a-la-mode beef_, the outside
 is frequently preferred.
 
 In a leg of mutton, begin across the middle, cutting the
 slices quite down to the bone. The same with a leg of pork
-or a ham. The latter should be cut in <i>very thin</i> slices, as its
+or a ham. The latter should be cut in _very thin_ slices, as its
 flavour is spoiled when cut thick.
 
 To taste well, a tongue should be cut crossways in round
@@ -17909,7 +17908,7 @@ split down the back; so also are pigeons, giving a half to each
 person.
 
 In helping any one to gravy, or to melted butter, do not pour
-it <i>over</i> their meat, fowl, or fish, but put it to one side on a vacant
+it _over_ their meat, fowl, or fish, but put it to one side on a vacant
 part of the plate, that they may use just as much of it as they
 like. In filling a plate, never heap one thing on another.
 
@@ -18030,7 +18029,7 @@ boiled the liver and heart, chop them to enrich the gravy.
 FIGURES EXPLANATORY OF THE PIECES INTO WHICH THE FIVE
 LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.
 
-[Illustration: <i>Beef</i>
+[Illustration: _Beef_
 
 /*
  1. Sirloin.
@@ -18054,7 +18053,7 @@ LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.
 */
 ]
 
-[Illustration: <i>Veal.</i>
+[Illustration: _Veal._
 
 /*
  1. Loin, Best End.
@@ -18070,7 +18069,7 @@ LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.
 */
 ]
 
-[Illustration: <i>Mutton.</i>
+[Illustration: _Mutton._
 
 /*
 1. Leg.
@@ -18082,11 +18081,11 @@ LARGE ANIMALS ARE DIVIDED BY THE BUTCHERS.
 7. Neck, Scrag End.
 */
 
-<i>Note.</i> A Chine is two Loins; and
+_Note._ A Chine is two Loins; and
 a Saddle is two Loins and two Necks
 of the Best End.]
 
-[Illustration: <i>Pork.</i>
+[Illustration: _Pork._
 
 /*
 1. Leg.
@@ -18098,7 +18097,7 @@ of the Best End.]
 */
 ]
 
-[Illustration: <i>Venison.</i>
+[Illustration: _Venison._
 
 /*
 1. Shoulder.
