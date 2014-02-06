@@ -3262,8 +3262,8 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 
-$::bookmarks[0] = '19968.3';
-$::bookmarks[1] = '19969.9';
+$::bookmarks[0] = '18134.9';
+$::bookmarks[1] = '19969.5';
 $::bookmarks[2] = '3135.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Miss Leslie\'s complete cookery\pngs\\';
