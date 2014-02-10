@@ -509,32 +509,32 @@
  'Pg508' => {'offset' => '20303.64', 'label' => 'Pg 512', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg509' => {'offset' => '20339.58', 'label' => 'Pg 513', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg510' => {'offset' => '20385.0', 'label' => 'Pg 514', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg511' => {'offset' => '20431.0', 'label' => 'Pg 515', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg512' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg513' => {'offset' => '20451.0', 'label' => 'Pg 516', 'style' => '"', 'action' => 'Start @', 'base' => '516'},
- 'Pg514' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg515' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg516' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg517' => {'offset' => '20451.0', 'label' => 'Pg 519', 'style' => '"', 'action' => 'Start @', 'base' => '519'},
- 'Pg518' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg519' => {'offset' => '20451.0', 'label' => 'Pg 520', 'style' => '"', 'action' => 'Start @', 'base' => '520'},
- 'Pg520' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg521' => {'offset' => '20451.0', 'label' => 'Pg 521', 'style' => '"', 'action' => 'Start @', 'base' => '521'},
- 'Pg522' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg523' => {'offset' => '20451.0', 'label' => 'Pg 522', 'style' => '"', 'action' => 'Start @', 'base' => '522'},
- 'Pg524' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg525' => {'offset' => '20451.0', 'label' => 'Pg 523', 'style' => '"', 'action' => 'Start @', 'base' => '523'},
- 'Pg526' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg527' => {'offset' => '20451.0', 'label' => 'Pg 524', 'style' => '"', 'action' => 'Start @', 'base' => '524'},
- 'Pg528' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg529' => {'offset' => '20451.0', 'label' => 'Pg 525', 'style' => '"', 'action' => 'Start @', 'base' => '525'},
- 'Pg530' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg531' => {'offset' => '20451.0', 'label' => 'Pg 526', 'style' => '"', 'action' => 'Start @', 'base' => '526'},
- 'Pg532' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg533' => {'offset' => '20451.0', 'label' => 'Pg 527', 'style' => '"', 'action' => 'Start @', 'base' => '527'},
- 'Pg534' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg535' => {'offset' => '20451.0', 'label' => 'Pg 528', 'style' => '"', 'action' => 'Start @', 'base' => '528'},
- 'Pg536' => {'offset' => '20451.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg511' => {'offset' => '20429.0', 'label' => 'Pg 515', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg512' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg513' => {'offset' => '20449.0', 'label' => 'Pg 516', 'style' => '"', 'action' => 'Start @', 'base' => '516'},
+ 'Pg514' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg515' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg516' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg517' => {'offset' => '20449.0', 'label' => 'Pg 519', 'style' => '"', 'action' => 'Start @', 'base' => '519'},
+ 'Pg518' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg519' => {'offset' => '20449.0', 'label' => 'Pg 520', 'style' => '"', 'action' => 'Start @', 'base' => '520'},
+ 'Pg520' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg521' => {'offset' => '20449.0', 'label' => 'Pg 521', 'style' => '"', 'action' => 'Start @', 'base' => '521'},
+ 'Pg522' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg523' => {'offset' => '20449.0', 'label' => 'Pg 522', 'style' => '"', 'action' => 'Start @', 'base' => '522'},
+ 'Pg524' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg525' => {'offset' => '20449.0', 'label' => 'Pg 523', 'style' => '"', 'action' => 'Start @', 'base' => '523'},
+ 'Pg526' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg527' => {'offset' => '20449.0', 'label' => 'Pg 524', 'style' => '"', 'action' => 'Start @', 'base' => '524'},
+ 'Pg528' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg529' => {'offset' => '20449.0', 'label' => 'Pg 525', 'style' => '"', 'action' => 'Start @', 'base' => '525'},
+ 'Pg530' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg531' => {'offset' => '20449.0', 'label' => 'Pg 526', 'style' => '"', 'action' => 'Start @', 'base' => '526'},
+ 'Pg532' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg533' => {'offset' => '20449.0', 'label' => 'Pg 527', 'style' => '"', 'action' => 'Start @', 'base' => '527'},
+ 'Pg534' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg535' => {'offset' => '20449.0', 'label' => 'Pg 528', 'style' => '"', 'action' => 'Start @', 'base' => '528'},
+ 'Pg536' => {'offset' => '20449.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
 $::proofers{'001'}[1] = 'jbrear';
@@ -3264,7 +3264,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 
-$::bookmarks[0] = '199.18';
+$::bookmarks[0] = '20402.0';
 $::bookmarks[1] = '20354.0';
 $::bookmarks[2] = '3677.29';
 $::bookmarks[5] = '289.0';
