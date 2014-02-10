@@ -1,0 +1,15 @@
+%::pagenumbers = (
+);
+
+
+
+$::bookmarks[0] = '1.0';
+$::spellindexbkmrk = '';
+
+$::projectid = '';
+
+$::booklang = 'en';
+
+$scannoslistpath = 'wordlist';
+
+1;
