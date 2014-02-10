@@ -1,0 +1,16 @@
+%::pagenumbers = (
+);
+
+
+$::operationshash{'Remove end-of-line spaces'}='2014-02-10 15:41';
+
+$::bookmarks[0] = '142.0';
+$::spellindexbkmrk = '';
+
+$::projectid = '';
+
+$::booklang = 'en';
+
+$scannoslistpath = 'C:\guiguts\wordlist\\';
+
+1;
