@@ -2,9 +2,13 @@
 );
 
 
+$::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Miss Leslie\'s complete cookery\index1.html'}='';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-10 16:07';
 
-$::bookmarks[0] = '820.37';
+$::bookmarks[0] = '1570.0';
+
+$::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Miss Leslie\'s complete cookery\pngs\\';
+
 $::spellindexbkmrk = '';
 
 $::projectid = '';

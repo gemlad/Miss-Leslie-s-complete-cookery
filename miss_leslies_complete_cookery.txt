@@ -16299,7 +16299,7 @@ INDEX.
 
   Anchovy sauce, 164.
 
-  Anniseed cordial, 401
+  Anniseed cordial, 401.
 
   Apees, 354.
 
@@ -17244,7 +17244,6 @@ INDEX.
   Ox-tail soup, 32.
 
   Oyster Sauce, 170.
-
 
 
   Panada, 413.
