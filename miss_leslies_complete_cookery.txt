@@ -16364,7 +16364,7 @@ INDEX.
 
   Beans, (green,) to pickle, 215.
 
-  Beans, (Lima,) to boil, and dry 197.
+  Beans, (Lima,) to boil, and dry, 197.
 
   Beans, (scarlet,) to boil, 197.
 
@@ -16438,7 +16438,7 @@ INDEX.
 
   Black cake, 338.
 
-  Black-fish, to stew 431.
+  Black-fish, to stew, 431.
 
   Blanc-mange, 327.
 
@@ -17310,7 +17310,7 @@ INDEX.
 
   Peppers, (green,) to pickle, 214, 218.
 
-  Peppers, (green,) to preserve 238.
+  Peppers, (green,) to preserve, 238.
 
   Pepper pot, 87.
 
@@ -17629,7 +17629,7 @@ INDEX.
 
   Snowball custard, 315.
 
-  Snipes, to roast 157.
+  Snipes, to roast, 157.
 
   Soda biscuit, 371.
 
