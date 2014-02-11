@@ -375,7 +375,7 @@
  'Pg374' => {'offset' => '14755.6', 'label' => 'Pg 378', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg375' => {'offset' => '14811.6', 'label' => 'Pg 379', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg376' => {'offset' => '14859.56', 'label' => 'Pg 380', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg377' => {'offset' => '14893.175', 'label' => 'Pg 381', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg377' => {'offset' => '14893.162', 'label' => 'Pg 381', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg378' => {'offset' => '14931.62', 'label' => 'Pg 382', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg379' => {'offset' => '14964.57', 'label' => 'Pg 383', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg380' => {'offset' => '14992.61', 'label' => 'Pg 384', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -3268,7 +3268,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 
-$::bookmarks[0] = '3718.0';
+$::bookmarks[0] = '648.6';
 $::bookmarks[1] = '1677.17';
 $::bookmarks[2] = '3724.29';
 $::bookmarks[5] = '296.0';
