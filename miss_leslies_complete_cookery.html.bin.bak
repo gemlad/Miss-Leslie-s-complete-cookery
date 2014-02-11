@@ -3268,7 +3268,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-02 20:23';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-03 13:45';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-02 20:21';
 
-$::bookmarks[0] = '648.6';
+$::bookmarks[0] = '1.0';
 $::bookmarks[1] = '1677.17';
 $::bookmarks[2] = '3724.29';
 $::bookmarks[5] = '296.0';
